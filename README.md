@@ -9,6 +9,7 @@ I'm duanfei:
 - **Learning :** Like [reading](https://www.douban.com/people/137566058/) 📖
 - **Playing :** [PlayStation](http://psnine.com/psnid/axmiao) [Steam](https://steamcommunity.com/id/duanf/) [Nintendo Switch]() 🎮
 - **favourite :** A passion for [running](https://blog.duanfei.org/running/) 🏃
+Thanks to the spirit of open source for making all this possible!
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/58443ff7f75e2911513f8b3016b49955" target="_blank">🎮 Steam playtime leaderboard</a>
