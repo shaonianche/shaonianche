@@ -3,8 +3,8 @@ title: github-start
 ---
 
 ##
-#+TITLE: Changelog
-#+PERMALINK: changelog
+#+TITLE: github-start
+#+PERMALINK: github-start
 #+PUBLISHED: true
 ## [[tools]]
 ### [logseq: 笔记管理软件](https://github.com/logseq/logseq.git)
