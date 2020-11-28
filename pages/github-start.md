@@ -8,4 +8,4 @@ title: github-start
 ## [[UI Kit]]
 ### [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
 ## [[JavaScript]]
-### [[现代 JavaScript 教程]]
+### [现代 JavaScript 教程](https://zh.javascript.info/)
