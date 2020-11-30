@@ -13,5 +13,5 @@ title: github-start
 ### [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 ## [[Git flow]]
 ### [Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
-## [[wiki文档工具]]
+## [[Wiki文档工具]]
 ### [Docute](https://docute.org/zh/)
