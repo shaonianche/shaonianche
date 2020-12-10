@@ -17,7 +17,7 @@ title: github-start
 ### [Docute](https://docute.org/zh/)
 ### [Github 巨长的 Markdown 写作规范](https://github.github.com/gfm/#introduction)
 ### [heti](https://github.com/sivan/heti)
-####
+### 中文内容排版的样式增强，可以用来做阅读体验类的应用。
 ## [[Font]]
 ### [更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
 ## [[GFW]]
