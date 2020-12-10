@@ -17,26 +17,7 @@ title: github-start
 ### [Docute](https://docute.org/zh/)
 ### [Github 巨长的 Markdown 写作规范](https://github.github.com/gfm/#introduction)
 ### [heti](https://github.com/sivan/heti)
-#### LATER 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。
-:PROPERTIES:
-:later: 1607573764928
-:END:
-#### NOW  123
-:PROPERTIES:
-:now: 1607573777635
-:END:
-#### DONE  123
-:PROPERTIES:
-:done: 1607573786842
-:END:
-#### [#B]  123
-#### CANCELED  123
-:PROPERTIES:
-:canceled: 1607573817084
-:END:
-#### SCHEDULED: <2020-12-18 Fri>
-#### [[Dec 9th, 2020]]
-#### {{{embed ((ddddd))}}} 123
+#### #备注 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。
 # [[Font]]
 ### [更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
 ## [[GFW]]
