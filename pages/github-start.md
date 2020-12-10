@@ -36,7 +36,7 @@ title: github-start
 :END:
 #### SCHEDULED: <2020-12-18 Fri>
 #### [[Dec 9th, 2020]]
-#### {{{embed (())}}} 123
+#### {{{embed ((ddddd))}}} 123
 # [[Font]]
 ### [更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
 ## [[GFW]]
