@@ -17,7 +17,7 @@ title: github-start
 ### [Docute](https://docute.org/zh/)
 ### [Github 巨长的 Markdown 写作规范](https://github.github.com/gfm/#introduction)
 ### [heti](https://github.com/sivan/heti)
-#### LATER 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。 
+#### NOW 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。 
 :PROPERTIES:
 :later: 1607573764928
 :END:
