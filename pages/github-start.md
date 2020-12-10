@@ -34,7 +34,7 @@ title: github-start
 :PROPERTIES:
 :canceled: 1607573817084
 :END:
-####
+#### SCHEDULED: <2020-12-18 Fri>
 # [[Font]]
 ### [更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
 ## [[GFW]]
