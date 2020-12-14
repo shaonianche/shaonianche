@@ -27,5 +27,5 @@ title: github-start
 ##
 ##
 ##
-## [[GFW]]
-### [科学上网](https://github.com/haoel/haoel.github.io)
+# [[GFW]]
+## [科学上网](https://github.com/haoel/haoel.github.io)
