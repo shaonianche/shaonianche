@@ -8,4 +8,5 @@ title: Blog
 ### [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 ### [David Walsh Blog ](https://davidwalsh.name/)
 ## [[Design]]
-### [](https://nishuang.net/category/design/)
+### [nishuang.net](https://nishuang.net/category/design/)
+#### 一位设计顾问的 Blog  #Notes
