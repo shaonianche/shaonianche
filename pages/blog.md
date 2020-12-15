@@ -9,4 +9,4 @@ title: Blog
 ### [David Walsh Blog ](https://davidwalsh.name/)
 ## [[Design]]
 ### [nishuang.net](https://nishuang.net/category/design/)
-#### 一位设计顾问的 Blog  #Notes
+#### 一位设计顾问的 Blog  #notes
