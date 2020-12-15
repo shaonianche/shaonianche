@@ -20,7 +20,7 @@ title: github-start
 ## [[Wiki文档工具]]
 ### [Docute](https://docute.org/zh/)
 ### [Github 巨长的 Markdown 写作规范](https://github.github.com/gfm/#introduction)
-###
+### [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 ### [heti](https://github.com/sivan/heti)
 #### 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。 #Notes
 # [[Font]]
