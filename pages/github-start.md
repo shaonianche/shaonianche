@@ -17,6 +17,8 @@ title: github-start
 #### 开源商业分析软件 #Notes
 ### [strapi](https://github.com/strapi/strapi)
 #### 开源的CMS系统 #Notes
+### [public-api](https://github.com/public-apis/public-apis)
+#### 开源API列表 #Notes
 ## [[UI Kit]]
 ### [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
 ## [[JavaScript]]
