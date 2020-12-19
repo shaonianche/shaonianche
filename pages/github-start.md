@@ -15,6 +15,8 @@ title: github-start
 #### 关于系统设计 #Notes
 ### [metabase](https://github.com/metabase/metabase)
 #### 开源商业分析软件 #Notes
+### [strapi](https://github.com/strapi/strapi)
+#### 开源的CMS系统 #Notes
 ## [[UI Kit]]
 ### [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
 ## [[JavaScript]]
