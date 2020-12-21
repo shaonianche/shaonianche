@@ -1,5 +1,5 @@
 ---
-title: github-start
+title: Github start
 ---
 
 ## [[Tools]]
