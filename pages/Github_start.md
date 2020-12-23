@@ -1,5 +1,5 @@
 ---
-title: github-start
+title: Github start
 ---
 
 ## [[Tools]]
@@ -38,7 +38,9 @@ title: github-start
 #### 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。 #Notes
 # [[Font]]
 ### [更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
-#### 代码编辑器用字体
+#### 代码编辑器字体
+### [Hack](https://github.com/source-foundry/Hack)
+#### 代码编辑器字体
 ## [IBMplex](https://github.com/IBM/plex)
 ### 适合用来做网站字体，对中英文支持都不错 #Notes
 # [[GFW]]
