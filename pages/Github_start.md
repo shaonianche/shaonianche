@@ -26,10 +26,10 @@ title: Github start
 ## [[UI Kit]]
 ### [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
 ## [[Web]]
-## [[JavaScript]]
-### [现代 JavaScript 教程](https://zh.javascript.info/)
-### [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
-### [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+### [[JavaScript]]
+#### [现代 JavaScript 教程](https://zh.javascript.info/)
+#### [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
+#### [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 ## [[Git flow]]
 ### [Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 ## [[Wiki文档工具]]
