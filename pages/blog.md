@@ -17,6 +17,8 @@ title: Blog
 ### [万事屋](https://tcya.xyz/)
 #### 谢益辉的朋友，好像是Google的软件工程师，技术相关的东西写的不多，但是同样是海德沙龙的粉丝
 ### [codedump](https://www.codedump.info/)
+#### 独立博客，底层技术相关
+###
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
