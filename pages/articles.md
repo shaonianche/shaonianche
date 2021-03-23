@@ -21,4 +21,5 @@ title: Articles
 ## [基础概率论](https://seeing-theory.brown.edu/cn.html#firstPage) [[Books]]
 ### #未读
 ## [数据可视化指南](https://www.ui.cn/detail/477349.html)
+### 介绍了基础统计图表的应用场景 #未读
 ##
