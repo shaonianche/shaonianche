@@ -2,4 +2,4 @@
 title: Archiving
 ---
 
-## [[Blog]] [[Articles]]
+## [[Blog]] []
