@@ -10,7 +10,7 @@ title: Blog
 ### [Edward Elric](https://edward40.com/)
 ### [Joel Spolsky](https://www.joelonsoftware.com/)
 #### 周思博的Blog，我正在看他的《软件随想录》 #Notes
-### [版权所有 © Platform Thinking + 2021 • 保留所有权利
+### [Platform Thinking
 
 ]
 ## [[Articles]]
