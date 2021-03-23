@@ -14,4 +14,5 @@ title: Articles
 ### 排版设计
 ## [响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh）](https://github.com/forthealllight/blog/issues/13)
 ### 介绍了前端布局中关于PX、百分比、REM、EM的概念以及换算
-##
+## [语义化版本2.0](https://semver.org/lang/zh-CN/)
+### 描述了软件
