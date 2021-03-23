@@ -13,7 +13,7 @@ title: Blog
 ### [Platform Thinking](https://pt.plus/)
 #### 个人博客，更新一些个人思考相关的。
 ### [Manjusaka](https://manjusaka.itscoder.com/)
-#### Manjusaka 是捕蛇者说的
+#### Manjusaka 是捕蛇者说的主持人之一，Python
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
