@@ -21,6 +21,7 @@ title: Blog
 ### [Jesse Li](https://blog.jse.li/)
 #### 独立博客，工程相关
 ### [坚果](https://pandaqr.github.io/) [[Design]]
+#### 设计相关的独立博客
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
