@@ -19,7 +19,7 @@ title: Blog
 ### [codedump](https://www.codedump.info/)
 #### 独立博客，底层技术相关
 ### [Jesse Li](https://blog.jse.li/)
-####
+#### 独立博客，工程相关
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
