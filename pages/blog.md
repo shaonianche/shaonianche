@@ -32,6 +32,7 @@ title: Blog
 #### 一个有趣的网站，帮助这个星球的任何人做任何事
 ### [Laws of UX ](https://lawsofux.com/) [[Design]]
 #### 尼尔森诺曼集团出版的设计法则
+### [章亦春](https://blog.openresty.com.cn/cn/authors/%E7%AB%A0%E4%BA%A6%E6%98%A5/)
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
