@@ -20,4 +20,5 @@ title: Articles
 ### 描述了版本发布的规范 #版本发布
 ## [基础概率论](https://seeing-theory.brown.edu/cn.html#firstPage) [[Books]]
 ### #未读
+## [数据可视化指南](https://www.ui.cn/detail/477349.html)
 ##
