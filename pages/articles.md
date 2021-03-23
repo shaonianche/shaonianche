@@ -24,4 +24,4 @@ title: Articles
 ### 介绍了基础统计 #未读
 ## [How To Improve UX of Web Forms](https://maxsnitser.com/blog/how-to-improve-ux-of-web-forms) [[Design]]
 ### 介绍了基本的表单设计规范 #未读 #表单设计
-##
+## [](https://subtract.substack.com/p/simple-rules-for-designing-web-and)
