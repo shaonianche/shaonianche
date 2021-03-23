@@ -31,7 +31,7 @@ title: Blog
 ### [wikihow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
 #### 一个有趣的网站，帮助这个星球的任何人做任何事
 ### [Laws of UX ](https://lawsofux.com/) [[Design]]
-####
+#### 尼尔森诺曼集团出版的设计法则
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
