@@ -22,4 +22,6 @@ title: Articles
 ### #未读
 ## [数据可视化指南](https://www.ui.cn/detail/477349.html)
 ### 介绍了基础统计 #未读
-## [How To Improve UX of Web Forms]()
+## [How To Improve UX of Web Forms](https://maxsnitser.com/blog/how-to-improve-ux-of-web-forms) [[Design]]
+### 介绍了基本的表单设计规范 #未读
+##
