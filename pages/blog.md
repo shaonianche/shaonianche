@@ -25,6 +25,7 @@ title: Blog
 ### [brainfacts](https://www.brainfacts.org/)
 #### 脑科学相关的网站 #脑科学
 ### [Figma资源](https://figma.cool/) [[Design]]
+### [](https://k4yt3x.com/about/)
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
