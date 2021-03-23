@@ -34,4 +34,4 @@ title: Articles
 ## [OneNote使用指南](https://www.zhihu.com/question/418933529/answer/1525594474)
 ## [我漸漸不信任 UX 的原因](https://intersection.tw/%E6%88%91%E6%BC%B8%E6%BC%B8%E4%B8%8D%E4%BF%A1%E4%BB%BB-ux-%E7%9A%84%E5%8E%9F%E5%9B%A0-c9ea15dd2ca7)
 ## [So, why are software engineers better CEOs?](https://iism.org/article/so-why-are-software-engineers-better-ceos-60)
-##
+## []()
