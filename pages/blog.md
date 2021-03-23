@@ -11,6 +11,7 @@ title: Blog
 ### [Joel Spolsky](https://www.joelonsoftware.com/)
 #### 周思博的Blog，我正在看他的《软件随想录》 #Notes
 ### [Platform Thinking](https://pt.plus/)
+#### 个人博客，更新一些个人思考相关的。
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
