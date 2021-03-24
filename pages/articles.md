@@ -41,4 +41,4 @@ title: Articles
 ## [Zen of Palm 读书笔记](https://dingyu.me/blog/zen-of-palm-1)
 ## [Fostering focus for small screens](https://medium.com/dropbox-design/fostering-focus-for-small-screens-34a9f338668c) [[Design]]
 ## [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931) [[Design]]
-## [Skip User Research Unless You’re Doing It Right — Seriously](https://medium.com/microsoft-design/skip-user-research-unless-youre-doing-it-right-seriously-15494e5ee033)
+## [Skip User Research Unless You’re Doing It Right — Seriously](https://medium.com/microsoft-design/skip-user-research-unless-youre-doing-it-right-seriously-15494e5ee033) []
