@@ -2,10 +2,6 @@
 title: Education
 ---
 
-##
-#+TITLE:技术相关的教育网站
-## 
-#+AUTHOR:
 ## [skillshare](https://www.skillshare.com/home)
 ## [coursera](https://www.coursera.org/learn/user-experience-design/home/week/1)
 ## [udemy](https://www.udemy.com/)
