@@ -44,7 +44,7 @@ title: Blog
 #### #心理学论文
 ### [丁宇](https://dingyu.me/blog/) [[Design]]
 ### [iD公社](http://www.hi-id.com/) [[Design]]
-### [New Frontend](https://nextfe.com/) [[Nodejs]]
+### [New Frontend](https://nextfe.com/) [[Nodejs]] [[ComputerScience]]
 ### [江宏](https://1byte.io/)
 #### LeanCloud 的联合创始人和 CEO
 ## [[Articles]]
