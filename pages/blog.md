@@ -38,6 +38,7 @@ title: Blog
 ### [朱家安](https://intersection.tw/%E6%88%91%E6%BC%B8%E6%BC%B8%E4%B8%8D%E4%BF%A1%E4%BB%BB-ux-%E7%9A%84%E5%8E%9F%E5%9B%A0-c9ea15dd2ca7) [[哲学]]
 ### [瑞典品牌设计指南](https://identity.sweden.se/en)
 ### [美國民主基本文獻](https://web-archive-2017.ait.org.tw/infousa/zhtw/PUBS/BasicReadings/demo.htm)
+### [](https://jeffhuang.com/best_paper_awards/)
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
