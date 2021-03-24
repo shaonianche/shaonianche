@@ -2,6 +2,9 @@
 title: Education
 ---
 
+## [[Mar 17th, 2021]] 
+**Version 0.0.13**
+Desktop app download link: https://github.com/logseq/logseq/releases/tag/0.0.13
 ## [skillshare](https://www.skillshare.com/home)
 ## [coursera](https://www.coursera.org/learn/user-experience-design/home/week/1)
 ## [udemy](https://www.udemy.com/)
