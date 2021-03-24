@@ -39,7 +39,7 @@ title: Blog
 ### [瑞典品牌设计指南](https://identity.sweden.se/en)
 ### [美國民主基本文獻](https://web-archive-2017.ait.org.tw/infousa/zhtw/PUBS/BasicReadings/demo.htm)
 ### [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/)
-#### 计算机论文
+#### #计算机论文 #ComputerScience
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
