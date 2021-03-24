@@ -45,7 +45,7 @@ title: Blog
 ### [丁宇](https://dingyu.me/blog/) [[Design]]
 ### [iD公社](http://www.hi-id.com/) [[Design]]
 ### [New Frontend](https://nextfe.com/) [[Nodejs]] [[ComputerScience]]
-### [江宏](https://1byte.io/)
+### [江宏](https://1byte.io/) [[ComputerScience]]
 #### LeanCloud 的联合创始人和 CEO
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
