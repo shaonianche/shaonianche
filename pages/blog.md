@@ -44,8 +44,7 @@ title: Blog
 #### #心理学论文
 ### [丁宇](https://dingyu.me/blog/) [[Design]]
 ### [iD公社](http://www.hi-id.com/) [[Design]]
-### [New Frontend
-](https://nextfe.com/)
+### [New Frontend](https://nextfe.com/) [[Nodejs]]
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
