@@ -36,4 +36,4 @@ title: Articles
 ## [So, why are software engineers better CEOs?](https://iism.org/article/so-why-are-software-engineers-better-ceos-60)
 ## [计算机领域的三个重要思想：抽象，分层和高阶](https://ray-eldath.me/programming/three-important-ideas/?s=09)
 ## [线框图无用！产品设计师为什么应该抛弃它](https://nishuang.net/%e7%ba%bf%e6%a1%86%e5%9b%be%e6%97%a0%e7%94%a8%ef%bc%81%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1%e5%b8%88%e4%b8%ba%e4%bb%80%e4%b9%88%e5%ba%94%e8%af%a5%e6%8a%9b%e5%bc%83%e5%ae%83/)
-## [需求挖掘及用户研究的利器：MACUEE模型]()
+## [需求挖掘及用户研究的利器：MACUEE模型](https://dingyu.me/blog/macuee)
