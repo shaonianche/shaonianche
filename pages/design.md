@@ -7,4 +7,5 @@ title: Design
 ## [UX Reading List Ever UX阅读清单](https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff) [[Books]]
 ## [reallygoodux](https://www.reallygoodux.io/) [[Blog]]
 ### 介绍产品UX设计的系列文章
-## [https://hpx.tw/topics/ux-myth](https://hpx.tw/topics/ux-myth)
+## [ux-myth](https://hpx.tw/topics/ux-myth)
+### x
