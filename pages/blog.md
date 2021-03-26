@@ -52,7 +52,7 @@ title: Blog
 ### [Linux的聚合资讯 Exciting news! We just launched PHYSURLS – Linux news aggregator. Check it out!](https://devurls.com/) [[Linux]]
 ### [高数课件](http://www.drhuang.com/chinese/science/mathematics/ppt/) [[高数]]
 ### [公共数据集列表](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/)
-### [Typography Handbook 字体设计手册](https://typographyhandbook.com/#introduction)
+### [Typography Handbook 字体设计手册](https://typographyhandbook.com/#introduction) [[Design]] [[Font]]  [[Articles]]
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
