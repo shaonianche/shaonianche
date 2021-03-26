@@ -50,7 +50,7 @@ title: Blog
 ### [刘未鹏｜MindHacks](http://mindhacks.cn/)
 #### 刘未鹏的Blog
 ### [Linux的聚合资讯 Exciting news! We just launched PHYSURLS – Linux news aggregator. Check it out!](https://devurls.com/) [[Linux]]
-### [](http://www.drhuang.com/chinese/science/mathematics/ppt/)
+### [高数课件](http://www.drhuang.com/chinese/science/mathematics/ppt/) [[高数]]
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
