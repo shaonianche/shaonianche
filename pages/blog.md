@@ -47,7 +47,8 @@ title: Blog
 ### [New Frontend](https://nextfe.com/) [[Nodejs]] [[ComputerScience]]
 ### [江宏](https://1byte.io/) [[ComputerScience]]
 #### LeanCloud 的联合创始人和 CEO
-### [刘未鹏｜](http://mindhacks.cn/)
+### [刘未鹏｜MindHacks](http://mindhacks.cn/)
+#### 刘未鹏的Blog
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  #React
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
