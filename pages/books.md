@@ -6,4 +6,4 @@ title: Books
 ### 这是谢益辉跟他们的朋友们写的一份公开的统计图书
 ## [游戏开发的 Roedmap](https://miloyip.github.io/game-programmer/game-programmer-zh-cn.pdf)
 ## [[找书网站]]
-### https://blah.me/?p=2
+### https://blah.me
