@@ -8,7 +8,7 @@ I'm duanfei:
 - **Working :** Product manager 🔭
 - **Learning :** Like [reading](https://www.douban.com/people/137566058/) 📖
 - **Playing :** [PlayStation](http://psnine.com/psnid/axmiao) [Steam](https://steamcommunity.com/id/duanf/) [Nintendo Switch]() 🎮
-- **favourite :** A passion for [running](https://blog.duanfei.org/running/) 🏃   
+- **favourite :** A passion for [running](https://run.duangfei.org/) 🏃   
 
 Thanks to the spirit of open source for making all this possible!
 
