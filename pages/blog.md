@@ -55,7 +55,7 @@ title: Blog
 ### [Typography Handbook 字体设计手册](https://typographyhandbook.com/#introduction) [[Design]] [[Font]]  [[Articles]]
 #### 这是一份排版设计指南 #在读 [[Mar 26th, 2021]]
 ### [消极姐的Blog](https://www.xiaoji-chen.com/)
-#### 陈消极
+#### 看了看她的Linkin
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  [[React]]
 #### 有种瞌睡有人送枕头的感觉 ...  #Notes
