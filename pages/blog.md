@@ -51,7 +51,7 @@ title: Blog
 #### 刘未鹏的Blog
 ### [Linux的聚合资讯 Exciting news! We just launched PHYSURLS – Linux news aggregator. Check it out!](https://devurls.com/) [[Linux]]
 ### [高数课件](http://www.drhuang.com/chinese/science/mathematics/ppt/) [[高数]]
-### [公共数据集列表](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/)
+### [公共数据集列表](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/) ] [[Data]]
 ### [Typography Handbook 字体设计手册](https://typographyhandbook.com/#introduction) [[Design]] [[Font]]  [[Articles]]
 #### 这是一份排版设计指南 #在读 [[Mar 26th, 2021]]
 ### [消极姐的Blog](https://www.xiaoji-chen.com/)
