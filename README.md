@@ -5,10 +5,10 @@
 [![Telegram Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&label=@FriendsA&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dchawyehsu&logo=telegram&color=282c34&labelColor=0088cc&longCache=true)](https://t.me/s/Alone_cmj)
 
 I'm duanfei:
-- **Working :** Product manager 🔭
-- **Learning :** Like [reading](https://www.douban.com/people/137566058/) 📖
-- **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705` 🎮
-- **favourite :** A passion for [running](https://run.duangfei.org/) 🏃   
+- 🔭 **Working :** Product manager 
+- 📖 **Learning :** Like [reading](https://www.douban.com/people/137566058/) 
+- 🎮 **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705` 
+- 🏃 **favourite :** A passion for [running](https://run.duangfei.org/)    
 
 Thanks to the spirit of open source for making all this possible!
 
