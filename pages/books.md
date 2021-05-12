@@ -10,4 +10,4 @@ title: Books
 ### https://www.toplinks.cc/s/
 ### https://z-lib.org/
 ## [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html#) [[Network]]
-## [](https://akaedu.github.io/book/index.html)
+## [linux c](https://akaedu.github.io/book/index.html) [[Linux]] [[C]]
