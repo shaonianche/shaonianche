@@ -1,4 +1,4 @@
-- []()
+- [Design awards](https://www.google.com/search?q=Design+Awards&safe=active&rlz=1C5CHFA_en__865__866&sxsrf=ALeKk01FHCJxxwyNGgw7vA6FvbnnHIhTeA%3A1623031120888&ei=UH29YLfjNfHA3LUPtd6PiA4&oq=Design+Awards&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBQgAEJECMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB5QmYEFWJmBBWD-ggVoAHACeACAAakCiAHkA5IBBTAuMS4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz&ved=0ahUKEwi3y62LtoTxAhVxILcAHTXvA-EQ4dUDCA4&uact=5)
 - [[Apple]]
 	- [apple design awards](https://developer.apple.com/design/awards/)
 - [[Google]]
