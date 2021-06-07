@@ -9,5 +9,6 @@ title: Books
 	- https://blah.me
 	- https://www.toplinks.cc/s/
 	- https://z-lib.org/
+	- [http://paper.lorefree.com](http://paper.lorefree.com/?s=09#/) [[]]
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html#) [[Network]]
 - [linux c](https://akaedu.github.io/book/index.html) [[Linux]] [[C]]
