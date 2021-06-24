@@ -9,8 +9,8 @@
 	- Someday：可能会做的任务。
 -
   可以看到我的 Daily Notes 有几个大的 outline，分别是：
-- Inbox
-- MIT 3
-- Daily Reading
-- Tasks
-- Daily Log
+	- Inbox
+	- MIT 3
+	- Daily Reading
+	- Tasks
+	- Daily Log
