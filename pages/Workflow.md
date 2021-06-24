@@ -15,5 +15,3 @@
 	- Daily Reading
 	- Tasks
 	- Daily Log
-	- ((60d41b0a-a7b1-4f41-9595-71b69a431b78))
-	- {{embed [[123]]}}
