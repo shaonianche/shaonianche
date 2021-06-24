@@ -19,7 +19,7 @@ title: Blog
 	- [Manjusaka](https://manjusaka.itscoder.com/)
 		- Manjusaka 是捕蛇者说的主持人之一，专业 Python
 	- [万事屋](https://tcya.xyz/)
-		- 谢益辉的朋友，好像是Google的软件工程师，技术相关的东西写的不多，但是同样是海德沙龙的粉丝
+		- #谢益辉 的朋友，好像是Google的软件工程师，技术相关的东西写的不多，但是同样是海德沙龙的粉丝
 	- [codedump](https://www.codedump.info/)
 		- 独立博客，底层技术相关
 	- [Jesse Li](https://blog.jse.li/)
@@ -43,7 +43,7 @@ title: Blog
 	- [瑞典品牌设计指南](https://identity.sweden.se/en)
 	- [美國民主基本文獻](https://web-archive-2017.ait.org.tw/infousa/zhtw/PUBS/BasicReadings/demo.htm)
 	- [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/) [[ComputerScience]]
-		- #计算机论文 #ComputerScience
+	  		- #计算机论文 #ComputerScience
 	- [Classics in the History of Psychology](http://psychclassics.yorku.ca/topic.htm#cognition)  #心理学论文
 	- [丁宇](https://dingyu.me/blog/) [[Design]]
 	- [iD公社](http://www.hi-id.com/) [[Design]]
