@@ -2,7 +2,7 @@
 - [twitter@jiayuan](https://twitter.com/Tisoga/status/1244856639439515649) Roam Research 入门指南（thread）
 - [[TPF系统]]
 	- T：Task，任务
-	- P：Pro
+	- P：Property，属性，附加在属性
 - 根据 [[TPF 系统]]，我需要一些基础的 tags 来作为过滤的条件。
 	- Inbox: 所有需要进一步处理的内容；
 	- Today: 今天需要做的任务；
