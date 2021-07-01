@@ -1,6 +1,6 @@
 - [任务管理系统构建](https://sspai.com/post/49105)
 - [twitter@jiayuan](https://twitter.com/Tisoga/status/1244856639439515649) Roam Research 入门指南（thread）
-- [[TPF系统结构]]
+- [[TPF系统]]
 	-
 - 根据 [[TPF 系统]]，我需要一些基础的 tags 来作为过滤的条件。
 	- Inbox: 所有需要进一步处理的内容；
