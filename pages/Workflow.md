@@ -8,6 +8,7 @@
 	- Music
 	- Work
 	- Learning
+	- Life
 	-
 - 根据 [[TPF 系统]]，我需要一些基础的 tags 来作为过滤的条件。
 	- Inbox: 所有需要进一步处理的内容；
