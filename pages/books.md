@@ -10,4 +10,4 @@ title: Books
 - https://z-lib.org/
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html#) [[Network]]
 - [linux c](https://akaedu.github.io/book/index.html) [[Linux]] [[C]]
-- [设计数据密集型应用](http://ddia.vonng.com/#/)
+-
