@@ -62,4 +62,4 @@ title: Blog
 #### 看了看她的 LinkedIn 这是又回了微软 (Engineer) #Notes
 ## [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  [[React]]
-#### 有种瞌睡有人送枕头的感觉 ...  #Notes
+	- #### 有种瞌睡有人送枕头的感觉 ...  #Notes
