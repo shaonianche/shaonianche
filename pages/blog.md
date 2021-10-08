@@ -35,7 +35,7 @@ title: Blog
 ### [wikihow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
 #### 一个有趣的网站，帮助这个星球的任何人做任何事
 ### [Laws of UX ](https://lawsofux.com/) [[Design]]
-#### 尼尔森诺曼集团出版的设计法则
+- #尼尔森诺曼集团出版的设计法则
 ### [章亦春](https://blog.openresty.com.cn/cn/authors/%E7%AB%A0%E4%BA%A6%E6%98%A5/)
 ### [HCI相关文章](https://www.douban.com/group/topic/121060767/?dt_dapp=1)
 ### [This is The Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) [[ComputerScience]]
