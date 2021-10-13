@@ -3,7 +3,6 @@ title: Github start
 ---
 
 - [[Tools]]
-  collapsed:: true
 	- [logseq: 笔记管理软件](https://github.com/logseq/logseq.git)
 	- [Awesome Mac: Mac工具](https://github.com/SuJunming/mac-awesomeTools)
 	- [awesome-design-toolkit](https://github.com/gztchan/awesome-design#toolkit)
