@@ -38,7 +38,7 @@ title: Github start
 	- [Docute](https://docute.org/zh/)
 	- 文檔工具 #JavaScript
 - [Github 巨长的 Markdown 写作规范](https://github.github.com/gfm/#introduction)
-	-
+	- #Markdown #
 - [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 #### latex 的文档模版，不知道对·中文支持如何。 #Notes
 - [heti](https://github.com/sivan/heti)
