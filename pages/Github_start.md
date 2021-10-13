@@ -3,7 +3,7 @@ title: Github start
 ---
 
 - [[Tools]]
-### [logseq: 笔记管理软件](https://github.com/logseq/logseq.git)
+	- [logseq: 笔记管理软件](https://github.com/logseq/logseq.git)
 ### [Awesome Mac: Mac工具](https://github.com/SuJunming/mac-awesomeTools)
 ### [awesome-design-toolkit](https://github.com/gztchan/awesome-design#toolkit)
 #### 设计工具集合 #Notes
