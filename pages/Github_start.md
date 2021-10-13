@@ -55,5 +55,5 @@ title: Github start
 	- [网络测试](https://www.comparitech.com/privacy-security-tools/blockedinchina/)
 		- 用于测试一个网站是否被GFW屏蔽
 - [[Math]]
-- [betterexplained](https://betterexplained.com/)
-	- 讲解数学概念的网站 #Math #Notes
+	- [betterexplained](https://betterexplained.com/)
+		- 讲解数学概念的网站 #Math #Notes
