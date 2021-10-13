@@ -27,8 +27,8 @@ title: Github start
 	- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) #Google #Google数据库
 - [[UI Kit]]
 	- [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
-- [[Web]]
-#### [现代 JavaScript 教程](https://zh.javascript.info/)
+- [[Web]]  [[JavaScript]]
+	- [现代 JavaScript 教程](https://zh.javascript.info/)
 #### [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
 #### [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 ## [[Git flow]]
