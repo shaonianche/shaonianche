@@ -16,8 +16,8 @@ title: Github start
 	- [metabase](https://github.com/metabase/metabase)
 		- 开源商业分析软件 #Notes
 	- [strapi](https://github.com/strapi/strapi)
-	- #### 开源的CMS系统 #Notes
-### [public-api](https://github.com/public-apis/public-apis)
+		- 开源的CMS系统 #Notes
+	- [public-api](https://github.com/public-apis/public-apis)
 #### 开源API列表 #Notes
 ### [common-regex](https://github.com/cdoco/common-regex)
 #### 正则表达式库 #Notes
