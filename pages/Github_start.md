@@ -51,9 +51,9 @@ title: Github start
 	- [IBMplex](https://github.com/IBM/plex)
 		- 适合用来做网站字体，对中英文支持都不错 #Notes
 - [[Network]]
-- [科学上网](https://github.com/haoel/haoel.github.io)
-- [网络测试](https://www.comparitech.com/privacy-security-tools/blockedinchina/)
-	- 用于测试一个网站是否被GFW屏蔽
+	- [科学上网](https://github.com/haoel/haoel.github.io)
+	- [网络测试](https://www.comparitech.com/privacy-security-tools/blockedinchina/)
+		- 用于测试一个网站是否被GFW屏蔽
 - [[Math]]
 - [betterexplained](https://betterexplained.com/)
 	- 讲解数学概念的网站 #Math #Notes
