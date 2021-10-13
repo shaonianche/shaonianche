@@ -25,10 +25,9 @@ title: Github start
 		- Emacs 库，自动配置Emacs  #Notes  #Emacs
 	- [计算机合成的人脸](https://thispersondoesnotexist.com/)
 	- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) #Google #Google数据库
-## [[UI Kit]]
-### [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
-## [[Web]]
-### [[JavaScript]]
+- [[UI Kit]]
+	- [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
+- [[Web]]
 #### [现代 JavaScript 教程](https://zh.javascript.info/)
 #### [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
 #### [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
