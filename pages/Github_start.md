@@ -6,7 +6,7 @@ title: Github start
 ### [logseq: 笔记管理软件](https://github.com/logseq/logseq.git)
 ### [Awesome Mac: Mac工具](https://github.com/SuJunming/mac-awesomeTools)
 ### [awesome-design-toolkit](https://github.com/gztchan/awesome-design#toolkit)
-#### 设计工具集合 #Notes
+- 设计工具集合 #Notes
 ### [whimsical](https://whimsical.com/examples-D9W9sUcDdboucuZqt87jVK)
 #### 很好用的画图工具 #Notes
 ### [Understand](https://www.scitools.com/category/release/)
@@ -14,7 +14,7 @@ title: Github start
 ### [system-design](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%BB%E9%A2%98%E7%9A%84%E7%B4%A2%E5%BC%95)
 - 关于系统设计 #Notes
 ### [metabase](https://github.com/metabase/metabase)
-#### 开源商业分析软件 #Notes
+- 开源商业分析软件 #Notes
 ### [strapi](https://github.com/strapi/strapi)
 #### 开源的CMS系统 #Notes
 ### [public-api](https://github.com/public-apis/public-apis)
@@ -56,4 +56,4 @@ title: Github start
 ### 用于测试一个网站是否被GFW屏蔽
 # [[Math]]
 ## [betterexplained](https://betterexplained.com/)
-### 讲解数学概念的网站 #Math #Notes
+- 讲解数学概念的网站 #Math #Notes
