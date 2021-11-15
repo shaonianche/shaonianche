@@ -24,10 +24,10 @@ title: Blog
 	- 独立博客，底层技术相关
 ### [Jesse Li](https://blog.jse.li/)
 	- 独立博客，工程相关
-### [坚果](https://pandaqr.github.io/) [[Design]]
-#### 设计相关的独立博客
-### [brainfacts](https://www.brainfacts.org/)
-#### 脑科学相关的网站 #脑科学
+- [坚果](https://pandaqr.github.io/) [[Design]]
+	- 设计相关的独立博客
+- [brainfacts](https://www.brainfacts.org/)
+	- 脑科学相关的网站 #脑科学
 ### [Figma资源](https://figma.cool/) [[Design]]
 ### [k4yt3x](https://k4yt3x.com/about/)
 #### 渗透测试工程师
