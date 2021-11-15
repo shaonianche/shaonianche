@@ -17,10 +17,10 @@ title: Github start
 	- 开源商业分析软件 #Notes
 - [strapi](https://github.com/strapi/strapi)
 - 开源的CMS系统 #Notes
-### [public-api](https://github.com/public-apis/public-apis)
-- 开源API列表 #Notes
-### [common-regex](https://github.com/cdoco/common-regex)
-- 正则表达式库 #Notes
+- [public-api](https://github.com/public-apis/public-apis) [[API]]
+	- 开源API列表 #Notes
+- [common-regex](https://github.com/cdoco/common-regex) [[]]
+	- 正则表达式库 #Notes
 ### [spacemacs](https://github.com/syl20bnr/spacemacs)
 - Emacs 库，自动配置Emacs  #Notes  #Emacs
 ### [计算机合成的人脸](https://thispersondoesnotexist.com/)
