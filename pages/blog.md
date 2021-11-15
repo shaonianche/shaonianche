@@ -22,15 +22,15 @@ title: Blog
 	- 谢益辉的朋友，好像是Google的软件工程师，技术相关的东西写的不多，但是同样是海德沙龙的粉丝
 - [codedump](https://www.codedump.info/)
 	- 独立博客，底层技术相关
-### [Jesse Li](https://blog.jse.li/)
+- [Jesse Li](https://blog.jse.li/)
 	- 独立博客，工程相关
 - [坚果](https://pandaqr.github.io/) [[Design]]
 	- 设计相关的独立博客
 - [brainfacts](https://www.brainfacts.org/)
 	- 脑科学相关的网站 #脑科学
 ### [Figma资源](https://figma.cool/) [[Design]]
-### [k4yt3x](https://k4yt3x.com/about/)
-#### 渗透测试工程师
+- [k4yt3x](https://k4yt3x.com/about/)
+	- 渗透测试工程师
 ### [美团技术团队](https://tech.meituan.com/)
 ### [wikihow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
 - #一个有趣的网站，帮助这个星球的任何人做任何事
