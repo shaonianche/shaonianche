@@ -21,9 +21,9 @@ title: Github start
 	- 开源API列表 #Notes
 - [common-regex](https://github.com/cdoco/common-regex) [[正则表达式]]
 	- 正则表达式库 #Notes
-- [spacemacs](https://github.com/syl20bnr/spacemacs)
-- Emacs 库，自动配置Emacs  #Notes  #Emacs
-### [计算机合成的人脸](https://thispersondoesnotexist.com/)
+- [spacemacs](https://github.com/syl20bnr/spacemacs) [[Emacs]]
+	- Emacs 库，自动配置Emacs  #Notes  #Emacs
+- [计算机合成的人脸](https://thispersondoesnotexist.com/)
 ### [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 #### #Google #Google数据库
 ## [[UI Kit]]
