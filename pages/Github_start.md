@@ -30,19 +30,19 @@ title: Github start
 	- [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
 - [[Web]]
 - [[JavaScript]]
-- [现代 JavaScript 教程](https://zh.javascript.info/)
-- [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
-- [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+	- [现代 JavaScript 教程](https://zh.javascript.info/)
+	- [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
+	- [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [[Git flow]]
 - [Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 - [[Wiki文档工具]]
-- [Docute](https://docute.org/zh/) [[文档工具]]
-	- 文檔工具 #JavaScript
-- [Github 巨长的 Markdown 写作规范](https://github.github.com/gfm/#introduction)
-- [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
-- latex 的文档模版，不知道对·中文支持如何。 #Notes
-- [heti](https://github.com/sivan/heti) [[中文排版]]
-	- 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。 #Notes
+	- [Docute](https://docute.org/zh/) [[文档工具]]
+		- 文檔工具 #JavaScript
+	- [Github 巨长的 Markdown 写作规范](https://github.github.com/gfm/#introduction)
+	- [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
+	- latex 的文档模版，不知道对·中文支持如何。 #Notes
+	- [heti](https://github.com/sivan/heti) [[中文排版]]
+		- 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。 #Notes
 - [[Font]]
 	- [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) [[Font]]
 		- 代码编辑器字体
