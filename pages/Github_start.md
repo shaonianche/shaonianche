@@ -10,9 +10,9 @@ title: Github start
 ### [whimsical](https://whimsical.com/examples-D9W9sUcDdboucuZqt87jVK)
 #### 很好用的画图工具 #Notes
 ### [Understand](https://www.scitools.com/category/release/)
-#### 源码阅读工具 #Notes
+- 源码阅读工具 #Notes
 ### [system-design](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%BB%E9%A2%98%E7%9A%84%E7%B4%A2%E5%BC%95)
-#### 关于系统设计 #Notes
+- 关于系统设计 #Notes
 ### [metabase](https://github.com/metabase/metabase)
 #### 开源商业分析软件 #Notes
 ### [strapi](https://github.com/strapi/strapi)
@@ -42,7 +42,7 @@ title: Github start
 ### [pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 #### latex 的文档模版，不知道对·中文支持如何。 #Notes
 ### [heti](https://github.com/sivan/heti)
-#### 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。 #Notes
+- 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。 #Notes
 # [[Font]]
 - [更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
 	- 代码编辑器字体
