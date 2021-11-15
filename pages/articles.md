@@ -20,7 +20,7 @@ title: Articles
 ### 描述了版本发布的规范 #版本发布
 - [基础概率论](https://seeing-theory.brown.edu/cn.html#firstPage) [[Books]]
 ### #未读
-## [数据可视化指南](https://www.ui.cn/detail/477349.html)
+- [数据可视化指南](https://www.ui.cn/detail/477349.html)
 ### 介绍了基础统计 #未读
 ## [How To Improve UX of Web Forms](https://maxsnitser.com/blog/how-to-improve-ux-of-web-forms) [[Design]]
 ### 介绍了基本的表单设计规范 #未读 #表单设计
