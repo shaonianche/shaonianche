@@ -31,7 +31,7 @@ title: Articles
 ## [10 Usability Heuristics for User Interface Design](https://medium.com/uxeastmeetswest/%E5%8D%81%E9%A0%85%E4%BD%BF%E7%94%A8%E8%80%85%E9%AB%94%E9%A9%97%E8%A8%AD%E8%A8%88%E5%84%AA%E5%8C%96%E5%8E%9F%E5%89%87-eb3fa01999e6) [[Design]]
 ### #设计规范 #未读
 ## [家用网络配置与选购指南](https://yach.me/2020/10/06/2020-%e7%94%9f%e6%b4%bb%e6%89%8b%e5%86%8c%e7%b3%bb%e5%88%97%ef%bc%9a%e5%ae%b6%e7%94%a8%e7%bd%91%e7%bb%9c%e9%85%8d%e7%bd%ae%e4%b8%8e%e9%80%89%e8%b4%ad%e6%8c%87%e5%8d%97/)
-## [OneNote使用指南](https://www.zhihu.com/question/418933529/answer/1525594474)
+- [OneNote使用指南](https://www.zhihu.com/question/418933529/answer/1525594474)
 - [我漸漸不信任 UX 的原因](https://intersection.tw/%E6%88%91%E6%BC%B8%E6%BC%B8%E4%B8%8D%E4%BF%A1%E4%BB%BB-ux-%E7%9A%84%E5%8E%9F%E5%9B%A0-c9ea15dd2ca7)
 - [So, why are software engineers better CEOs?](https://iism.org/article/so-why-are-software-engineers-better-ceos-60)
 - [计算机领域的三个重要思想：抽象，分层和高阶](https://ray-eldath.me/programming/three-important-ideas/?s=09)
