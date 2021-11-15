@@ -34,7 +34,7 @@ title: Github start
 	- [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
 	- [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [[Git flow]]
-- [Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+	- [Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 - [[Wiki文档工具]]
 	- [Docute](https://docute.org/zh/) [[文档工具]]
 		- 文檔工具 #JavaScript
