@@ -48,9 +48,9 @@ title: Github start
 		- 代码编辑器字体
 	- [Hack](https://github.com/source-foundry/Hack)
 		- 代码编辑器字体
-## [IBMplex](https://github.com/IBM/plex)
+- [IBMplex](https://github.com/IBM/plex)
 - 适合用来做网站字体，对中英文支持都不错 #Notes
-# [[Network]]
+- #[[Network]]
 ## [科学上网](https://github.com/haoel/haoel.github.io)
 ## [网络测试](https://www.comparitech.com/privacy-security-tools/blockedinchina/)
 ### 用于测试一个网站是否被GFW屏蔽
