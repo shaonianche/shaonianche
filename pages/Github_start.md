@@ -43,8 +43,8 @@ title: Github start
 - latex 的文档模版，不知道对·中文支持如何。 #Notes
 - [heti](https://github.com/sivan/heti) [[中文排版]]
 	- 中文内容排版的样式增强，对强调阅读体验的应用来说是个不错的库。 #Notes
-- #[[Font]]
-- [更纱黑体](https://github.com/be5invis/Sarasa-Gothic)
+- [[Font]]
+- [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) [[Font]]
 	- 代码编辑器字体
 ### [Hack](https://github.com/source-foundry/Hack)
 	- 代码编辑器字体
