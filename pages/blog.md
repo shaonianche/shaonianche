@@ -58,7 +58,7 @@ title: Blog
 ### [公共数据集列表](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/) ] [[Data]]
 - [Typography Handbook 字体设计手册](https://typographyhandbook.com/#introduction) [[Design]] [[Font]]  [[Articles]]
 #### 这是一份排版设计指南 #在读 [[Mar 26th, 2021]]
-### [消极姐的Blog](https://www.xiaoji-chen.com/)
+- [消极姐的Blog](https://www.xiaoji-chen.com/)
 	- 看了看她的 LinkedIn 这是又回了微软 (Engineer) #Notes
 - [[Articles]]
 ### [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  [[React]]
