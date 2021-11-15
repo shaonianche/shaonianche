@@ -17,7 +17,7 @@ title: Articles
 - [语义化版本2.0](https://semver.org/lang/zh-CN/)
 	- 描述了软件版本控制的规范 #版本控制
 - [约定式提交](https://www.conventionalcommits.org/zh-hans/v1.0.0-beta.4/)
-	- ### 描述了版本发布的规范 #版本发布
+	- 描述了版本发布的规范 #版本发布
 - [基础概率论](https://seeing-theory.brown.edu/cn.html#firstPage) [[Books]]
 ### #未读
 - [数据可视化指南](https://www.ui.cn/detail/477349.html)
