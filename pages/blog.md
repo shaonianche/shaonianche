@@ -28,12 +28,12 @@ title: Blog
 	- 设计相关的独立博客
 - [brainfacts](https://www.brainfacts.org/)
 	- 脑科学相关的网站 #脑科学
-### [Figma资源](https://figma.cool/) [[Design]]
+- [Figma资源](https://figma.cool/) [[Design]]
 - [k4yt3x](https://k4yt3x.com/about/)
 	- 渗透测试工程师
-### [美团技术团队](https://tech.meituan.com/)
-### [wikihow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
-- #一个有趣的网站，帮助这个星球的任何人做任何事
+- [美团技术团队](https://tech.meituan.com/)
+- [wikihow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+	- 一个有趣的网站，帮助这个星球的任何人做任何事
 ### [Laws of UX ](https://lawsofux.com/) [[Design]]
 - #尼尔森诺曼集团出版的设计法则
 ### [章亦春](https://blog.openresty.com.cn/cn/authors/%E7%AB%A0%E4%BA%A6%E6%98%A5/)
