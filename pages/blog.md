@@ -45,15 +45,14 @@ title: Blog
 - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/) [[ComputerScience]]
 	- #计算机论文 #ComputerScience
 ### [Classics in the History of Psychology](http://psychclassics.yorku.ca/topic.htm#cognition)
-	-
-	  ####
-### [丁宇](https://dingyu.me/blog/) [[Design]]
-### [iD公社](http://www.hi-id.com/) [[Design]]
-### [New Frontend](https://nextfe.com/) [[Nodejs]] [[ComputerScience]]
-### [江宏](https://1byte.io/) [[ComputerScience]]
-#### LeanCloud 的联合创始人和 CEO
-### [刘未鹏｜MindHacks](http://mindhacks.cn/)
-#### 刘未鹏的Blog
+	- #心理学论文
+- [丁宇](https://dingyu.me/blog/) [[Design]]
+- [iD公社](http://www.hi-id.com/) [[Design]]
+- [New Frontend](https://nextfe.com/) [[Nodejs]] [[ComputerScience]]
+- [江宏](https://1byte.io/) [[ComputerScience]]
+	- LeanCloud 的联合创始人和 CEO
+- [刘未鹏｜MindHacks](http://mindhacks.cn/)
+	- 刘未鹏的Blog
 ### [Linux的聚合资讯 Exciting news! We just launched PHYSURLS – Linux news aggregator. Check it out!](https://devurls.com/) [[Linux]]
 ### [高数课件](http://www.drhuang.com/chinese/science/mathematics/ppt/) [[高数]]
 ### [公共数据集列表](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/) ] [[Data]]
