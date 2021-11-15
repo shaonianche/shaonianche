@@ -9,7 +9,6 @@ title: Books
 	- [设计数据密集型应用](http://ddia.vonng.com/#/) [[数据库]]
 	- [linux c](https://akaedu.github.io/book/index.html) [[Linux]] [[C]]
 - [[找书网站]]
-  collapsed:: true
 	- https://www.toplinks.cc/s/
 	- https://z-lib.org/
 	- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html#) /[[Network]]
