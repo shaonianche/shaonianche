@@ -9,8 +9,8 @@ title: Blog
 	- 林伟，游戏开发，之前在虎牙。 #Notes
 - [Chromium Blog](https://blog.chromium.org/)
 - [2ality – JavaScript and more](https://2ality.com/)
-### [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
-### [David Walsh Blog ](https://davidwalsh.name/)
+- [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+- [David Walsh Blog ](https://davidwalsh.name/)
 ### [Edward Elric](https://edward40.com/)
 ### [Joel Spolsky](https://www.joelonsoftware.com/)
 #### 周思博的Blog，我正在看他的《软件随想录》 #Notes
