@@ -16,9 +16,9 @@ title: Blog
 	- 周思博的Blog，我正在看他的《软件随想录》 #Notes
 - [Platform Thinking](https://pt.plus/)
 	- 个人博客，更新一些个人思考相关的。
-### [Manjusaka](https://manjusaka.itscoder.com/)
+- [Manjusaka](https://manjusaka.itscoder.com/)
 	- Manjusaka 是捕蛇者说的主持人之一，专业 Python
-### [万事屋](https://tcya.xyz/)
+- [万事屋](https://tcya.xyz/)
 #### 谢益辉的朋友，好像是Google的软件工程师，技术相关的东西写的不多，但是同样是海德沙龙的粉丝
 ### [codedump](https://www.codedump.info/)
 #### 独立博客，底层技术相关
