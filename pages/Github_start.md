@@ -23,18 +23,18 @@ title: Github start
 	- 正则表达式库 #Notes
 - [spacemacs](https://github.com/syl20bnr/spacemacs) [[Emacs]]
 	- Emacs 库，自动配置Emacs  #Notes  #Emacs
-- [计算机合成的人脸](https://thispersondoesnotexist.com/) [[]]
-### [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
-#### #Google #Google数据库
-## [[UI Kit]]
-### [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
-## [[Web]]
-### [[JavaScript]]
-#### [现代 JavaScript 教程](https://zh.javascript.info/)
-#### [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
-#### [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-## [[Git flow]]
-### [Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+- [计算机合成的人脸](https://thispersondoesnotexist.com/) [[人脸合成]]
+- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+	- #Google #Google数据库
+- [[UI Kit]]
+	- [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
+- [[Web]]
+- [[JavaScript]]
+- [现代 JavaScript 教程](https://zh.javascript.info/)
+- [JavaScript 风格指南](https://github.com/alivebao/clean-code-js)
+- [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [[Git flow]]
+- [Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 - [[Wiki文档工具]]
 ### [Docute](https://docute.org/zh/)
 #### 文檔工具 #JavaScript
