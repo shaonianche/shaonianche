@@ -33,8 +33,8 @@ title: Articles
 ## [家用网络配置与选购指南](https://yach.me/2020/10/06/2020-%e7%94%9f%e6%b4%bb%e6%89%8b%e5%86%8c%e7%b3%bb%e5%88%97%ef%bc%9a%e5%ae%b6%e7%94%a8%e7%bd%91%e7%bb%9c%e9%85%8d%e7%bd%ae%e4%b8%8e%e9%80%89%e8%b4%ad%e6%8c%87%e5%8d%97/)
 ## [OneNote使用指南](https://www.zhihu.com/question/418933529/answer/1525594474)
 ## [我漸漸不信任 UX 的原因](https://intersection.tw/%E6%88%91%E6%BC%B8%E6%BC%B8%E4%B8%8D%E4%BF%A1%E4%BB%BB-ux-%E7%9A%84%E5%8E%9F%E5%9B%A0-c9ea15dd2ca7)
-## [So, why are software engineers better CEOs?](https://iism.org/article/so-why-are-software-engineers-better-ceos-60)
-## [计算机领域的三个重要思想：抽象，分层和高阶](https://ray-eldath.me/programming/three-important-ideas/?s=09)
+- [So, why are software engineers better CEOs?](https://iism.org/article/so-why-are-software-engineers-better-ceos-60)
+- [计算机领域的三个重要思想：抽象，分层和高阶](https://ray-eldath.me/programming/three-important-ideas/?s=09)
 - [线框图无用！产品设计师为什么应该抛弃它](https://nishuang.net/%e7%ba%bf%e6%a1%86%e5%9b%be%e6%97%a0%e7%94%a8%ef%bc%81%e4%ba%a7%e5%93%81%e8%ae%be%e8%ae%a1%e5%b8%88%e4%b8%ba%e4%bb%80%e4%b9%88%e5%ba%94%e8%af%a5%e6%8a%9b%e5%bc%83%e5%ae%83/)
 - [需求挖掘及用户研究的利器：MACUEE模型](https://dingyu.me/blog/macuee)
 	- #未读 #用户研究
