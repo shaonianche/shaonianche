@@ -19,8 +19,8 @@ title: Blog
 - [Manjusaka](https://manjusaka.itscoder.com/)
 	- Manjusaka 是捕蛇者说的主持人之一，专业 Python
 - [万事屋](https://tcya.xyz/)
-#### 谢益辉的朋友，好像是Google的软件工程师，技术相关的东西写的不多，但是同样是海德沙龙的粉丝
-### [codedump](https://www.codedump.info/)
+	- 谢益辉的朋友，好像是Google的软件工程师，技术相关的东西写的不多，但是同样是海德沙龙的粉丝
+- [codedump](https://www.codedump.info/)
 #### 独立博客，底层技术相关
 ### [Jesse Li](https://blog.jse.li/)
 #### 独立博客，工程相关
