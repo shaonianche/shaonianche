@@ -1,3 +1,4 @@
 - 乔纳森 · 布洛
 	- https://en.wikipedia.org/wiki/Jonathan_Blow
+- [Jonathan Blow谈科学、语言、现实 (译文)](https://www.douban.com/note/683731874/)
 -
