@@ -4,3 +4,5 @@
 - [Jonathan Blow谈科学、语言、现实 (译文)](https://www.douban.com/note/683731874/)
 - 见证者：https://www.douban.com/game/26372528/
 - 时空幻境：https://www.douban.com/game/10739949/?dcs=sim
+- 总结：
+	- “我本可以用我的人生去做任何事情......可是为什么呢? 我最终穷尽我的一生来设计谜题，不仅仅是此时此地这个小岛上的这些谜题。”
