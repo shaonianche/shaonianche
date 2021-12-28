@@ -7,7 +7,7 @@
 *******************************/
 
 :root {
-    --ls-font-family: "Comic Neue", cursive,-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif,
+    --ls-font-family: "Comic Neue", cursive, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif,
         "Segoe UI Emoji", "Segoe UI Symbol";
     --ls-main-content-max-width: 840px;
     --ls-tag-text-opacity: 0.6;
@@ -825,5 +825,5 @@ svg.add-button > .circle {
     background: transparent;
 }
 :root {
-    --ls-font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --ls-font-family: "Comic Neue", cursive, "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
