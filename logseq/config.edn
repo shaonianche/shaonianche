@@ -1,12 +1,11 @@
-
-  {:journal-basis "daily" 
+{:journal-basis "daily" 
 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
            :name "duanfei"
-           :alias "friendsa"
+           :alias ""
            ;; your twitter handle
-           :twitter "Bonjour_Ar"
+           :twitter ""
            ;; description supports both hiccup and html
            :description ""}
 
