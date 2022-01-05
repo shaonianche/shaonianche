@@ -824,6 +824,6 @@ svg.add-button > .circle {
     background: transparent;
 }
 :root {
-    --ls-font-family: "Comic Neue", cursive,"IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif,
+    --ls-font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif,
         "Segoe UI Emoji", "Segoe UI Symbol";
 }
