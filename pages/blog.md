@@ -43,7 +43,7 @@ title: Blog
 - [美國民主基本文獻](https://web-archive-2017.ait.org.tw/infousa/zhtw/PUBS/BasicReadings/demo.htm)
 - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/) [[ComputerScience]]
 	- #计算机论文 #ComputerScience
-### [Classics in the History of Psychology](http://psychclassics.yorku.ca/topic.htm#cognition)
+- [Classics in the History of Psychology](http://psychclassics.yorku.ca/topic.htm#cognition)
 	- #心理学论文
 - [丁宇](https://dingyu.me/blog/) [[Design]]
 - [iD公社](http://www.hi-id.com/) [[Design]]
