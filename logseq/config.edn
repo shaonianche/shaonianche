@@ -81,7 +81,7 @@
  :macros {}
    :favorites ["Contents" "Drafts" "Daily Reading"]
    :graph/settings {:journal? false, :builtin-pages? false}
-   :publishing/all-pages-public? true
+   :publishing/all-pages-public? false
    :editor/logical-outdenting? true
    :feature/enable-journals? false
    :default-home {}}
