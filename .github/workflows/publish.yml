@@ -1,0 +1,28 @@
+name: Publish
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Logseq Publish
+        # Using main branch to reproduce https://github.com/pengx17/logseq-publish/issues/8
+        # Should switch back to stable release after this issue fixed.
+        uses: pengx17/logseq-publish@main
+        with:
+          dest: www
+
+      - name: Deploy to gh-pages
+        uses: JamesIves/github-pages-deploy-action@v4.2.2
+        with:
+          branch: gh-pages
+          folder: www
+          clean: true
+          single-commit: true
