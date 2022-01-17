@@ -83,4 +83,5 @@
    :graph/settings {:journal? false, :builtin-pages? false}
    :publishing/all-pages-public? true
    :editor/logical-outdenting? true
-   :feature/enable-journals? false}
+   :feature/enable-journals? false
+   :default-home {}}
