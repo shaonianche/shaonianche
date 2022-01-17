@@ -79,7 +79,7 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
-   :favorites ["Daily Reading"]
+   :favorites ["Drafts" "Daily Reading"]
    :graph/settings {:journal? false, :builtin-pages? false}
    :publishing/all-pages-public? true
    :editor/logical-outdenting? true}
