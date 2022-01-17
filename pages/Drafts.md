@@ -1,3 +1,4 @@
 - [Oculus VR 设计指南](https://fradser.notion.site/fradser/Oculus-VR-411a2bf02b134fd5bec4958eb3c5358b) [[VR]] [[设计指南]] [[用户体验]]
 - [stanford:cs251](https://cs251.stanford.edu/syllabus.html) [[stanford]] [[CS]]
+  collapsed:: true
 	- 斯坦福的区块链课
