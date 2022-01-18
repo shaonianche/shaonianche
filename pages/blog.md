@@ -3,8 +3,10 @@ title: Blog
 ---
 
 - [evilpan](https://evilpan.com/)
+  collapsed:: true
 	- 移动端安全研究员 #Notes
 - [skywind](http://www.skywind.me/blog/)  [[Game]]
+  collapsed:: true
 	- 林伟，游戏开发，之前在虎牙。 #Notes
 - [Chromium Blog](https://blog.chromium.org/)
 - [2ality – JavaScript and more](https://2ality.com/)
@@ -12,28 +14,39 @@ title: Blog
 - [David Walsh Blog ](https://davidwalsh.name/)
 - [Edward Elric](https://edward40.com/)
 - [Joel Spolsky](https://www.joelonsoftware.com/)
+  collapsed:: true
 	- 周思博的Blog，我正在看他的《软件随想录》 #Notes
 - [Platform Thinking](https://pt.plus/)
+  collapsed:: true
 	- 个人博客，更新一些个人思考相关的。
 - [Manjusaka](https://manjusaka.itscoder.com/)
+  collapsed:: true
 	- Manjusaka 是捕蛇者说的主持人之一，专业 Python
 - [万事屋](https://tcya.xyz/)
+  collapsed:: true
 	- 谢益辉的朋友，好像是Google的软件工程师，技术相关的东西写的不多，但是同样是海德沙龙的粉丝
 - [codedump](https://www.codedump.info/)
+  collapsed:: true
 	- 独立博客，底层技术相关
 - [Jesse Li](https://blog.jse.li/)
+  collapsed:: true
 	- 独立博客，工程相关
 - [坚果](https://pandaqr.github.io/) [[Design]]
+  collapsed:: true
 	- 设计相关的独立博客
 - [brainfacts](https://www.brainfacts.org/)
+  collapsed:: true
 	- 脑科学相关的网站 #脑科学
 - [Figma资源](https://figma.cool/) [[Design]]
 - [k4yt3x](https://k4yt3x.com/about/)
+  collapsed:: true
 	- 渗透测试工程师
 - [美团技术团队](https://tech.meituan.com/)
 - [wikihow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+  collapsed:: true
 	- 一个有趣的网站，帮助这个星球的任何人做任何事
 - [Laws of UX ](https://lawsofux.com/) [[Design]]
+  collapsed:: true
 	- 尼尔森诺曼集团出版的设计法则
 - [章亦春](https://blog.openresty.com.cn/cn/authors/%E7%AB%A0%E4%BA%A6%E6%98%A5/)
 - [HCI相关文章](https://www.douban.com/group/topic/121060767/?dt_dapp=1)
@@ -42,23 +55,36 @@ title: Blog
 - [瑞典品牌设计指南](https://identity.sweden.se/en)
 - [美國民主基本文獻](https://web-archive-2017.ait.org.tw/infousa/zhtw/PUBS/BasicReadings/demo.htm)
 - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards/) [[ComputerScience]]
+  collapsed:: true
 	- #计算机论文 #ComputerScience
 - [Classics in the History of Psychology](http://psychclassics.yorku.ca/topic.htm#cognition)
+  collapsed:: true
 	- #心理学论文
 - [丁宇](https://dingyu.me/blog/) [[Design]]
 - [iD公社](http://www.hi-id.com/) [[Design]]
 - [New Frontend](https://nextfe.com/) [[Nodejs]] [[ComputerScience]]
 - [江宏](https://1byte.io/) [[ComputerScience]]
+  collapsed:: true
 	- LeanCloud 的联合创始人和 CEO
 - [刘未鹏｜MindHacks](http://mindhacks.cn/)
+  collapsed:: true
 	- 刘未鹏的Blog
 - [Linux的聚合资讯 Exciting news! We just launched PHYSURLS – Linux news aggregator. Check it out!](https://devurls.com/) [[Linux]]
 - [高数课件](http://www.drhuang.com/chinese/science/mathematics/ppt/) [[高数]]
 - [公共数据集列表](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/) ] [[Data]]
 - [Typography Handbook 字体设计手册](https://typographyhandbook.com/#introduction) [[Design]] [[Font]]  [[Articles]]
+  collapsed:: true
 	- 这是一份排版设计指南 #在读 [[Mar 26th, 2021]]
 - [消极姐的Blog](https://www.xiaoji-chen.com/)
+  collapsed:: true
 	- 看了看她的 LinkedIn 这是又回了微软 (Engineer) #Notes
-- [[Articles]]
-- [Dark Mode的开发](https://edward40.com/a-guide-to-building-a-personal-website-with-gatsby)  [[React]]
-	- 有种瞌睡有人送枕头的感觉 ...  #Notes
+- [王诗韵](http://richor.me/)
+- [王垠的英文Blog](https://yinwang0.wordpress.com/2012/10/25/halting/)
+- [Linghao Zhang](https://linghao.io/posts)
+- [早见](https://hayami-blog.typlog.io/) [[PM-Blog]] [[B站]]
+	- 为数不多的产品写的的Blog
+- [余果](https://yuguo.us/) [[PM-Blog]]
+- [Juuun's World](https://juuun.io/blog)[[PM-Blog]]
+- [61](https://61.life/)[[PM-Blog]]
+	- 谜底时钟
+- [hiwannz](https://hiwannz.com/) [[PM-Blog]]
