@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+git pull --all
 git add --all
 git commit -m "changes on $(date)"
 git push
