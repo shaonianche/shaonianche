@@ -1,4 +1,4 @@
-name: Replace KINDLE README
+name: Replace Kindle Readme
 
 on:
   schedule:
@@ -7,7 +7,8 @@ on:
     branches:
       - main
     paths:
-      - ../kindle/kindle.py
+      - /kindle/kindle.py
+      - /kindle/requirements.txt
   workflow_dispatch:
 
 env:
@@ -40,12 +41,13 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r /kindle/requirements.txt
         if: steps.pip-cache.outputs.cache-hit != 'true'
 
       - name: Replace README MAKE KINDLE INFO
         run: |
-          python kindle.py '${{ secrets.KINDLE_COOKIE}}' --is-cn # delete --is-cn if you are using com
+          python kindle/kindle.py '${{ secrets.KINDLE_COOKIE}}' --is-cn # delete --is-cn if you are using com
+
       - name: Push new README
         uses: github-actions-x/commit@v2.6
         with:
