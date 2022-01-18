@@ -25,3 +25,6 @@ Thanks to the spirit of open source for making all this possible!
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
+<!--START_SECTION:my_kindle-->
+## I have read 0 books this year
