@@ -11,9 +11,22 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: fregante/daily-version-action@v1
+        name: Create tag if necessary
         id: daily-version
         with:
           prefix: v
+    outputs: # Shares the action’s outputs to the Next jobs
+      created: ${{ steps.daily-version.outputs.created }}
+      version: ${{ steps.daily-version.outputs.version }}
+      
+  Next:
+    needs: Tag
+    if: needs.Tag.outputs.created
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo It looks like ${{ needs.Tag.outputs.version }} was created!
+          
+          
       - uses: fregante/release-with-changelog@v3
         with:
           token: ${{ secrets.G_TOKEN }}
