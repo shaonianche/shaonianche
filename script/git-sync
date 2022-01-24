@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 cd /Users/duanfei/Desktop/free/code/github/shaonianche/
-git pull --all
 git add --all
 git commit -m "changes on $(date)"
+git pull --all
 git push
