@@ -82,7 +82,7 @@
    :ref/default-open-blocks-level 2
    :ref/linked-references-collapsed-threshold 50
  ;; :journal/page-title-format "yyyy-MM-dd"
-   :favorites ("Drafts" "Journals" "Contents" "Daily Reading")
+   :favorites ["Drafts" "Journals" "Contents" "Daily Reading"]
    :graph/settings {:journal? false, :builtin-pages? false}
    :publishing/all-pages-public? true
    :editor/logical-outdenting? true
