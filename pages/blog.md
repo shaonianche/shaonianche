@@ -88,3 +88,4 @@ title: Blog
 - [61](https://61.life/)[[PM-Blog]]
 	- 谜底时钟
 - [hiwannz](https://hiwannz.com/) [[PM-Blog]]
+- [薛兆丰](http://xuezhaofeng.com/) [[经济学]]
