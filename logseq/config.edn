@@ -87,5 +87,5 @@
    :publishing/all-pages-public? true
    :editor/logical-outdenting? true
    :feature/enable-timetracking? false
-   :feature/enable-journals? true
+   :feature/enable-journals? false
    :default-home {:page "Contents"}}
