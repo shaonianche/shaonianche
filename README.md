@@ -27,7 +27,7 @@ Thanks to the spirit of open source for making all this possible!
 <!-- steam-box end -->
 
 <!--START_SECTION:my_kindle-->
-### I have read 9 books this year
+#### I have read 9 books this year
 
 | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
