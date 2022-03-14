@@ -127,7 +127,7 @@ class Kindle:
                 title.get("asin"), is_doc)
             title["book_title"] = book_title
             if len(title["book_title"]) == 0:
-                break
+                continue
             title["authors"] = authors
             result.append(title)
         return result
