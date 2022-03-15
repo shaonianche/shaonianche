@@ -14,3 +14,4 @@ title: Daily Reading
 - [科技周刊：https://www.ruanyifeng.com/blog/weekly/](https://www.ruanyifeng.com/blog/weekly/) [[阮一峰]] [[周刊]]
 - [GeekPlux Lab](https://geekplux.zhubai.love/)
 - [ Thinking as Algorithm ](http://ftvision.github.io)
+- [Be for web](http://beforweb.com)
