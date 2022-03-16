@@ -1,8 +1,9 @@
 name: Github to Gitlab Sync
 
-on: 
-  - push
-  - delete
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
   sync:
