@@ -9,7 +9,7 @@ jobs:
   Tag:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: fregante/daily-version-action@v1
         name: Create tag if necessary
         id: daily-version
