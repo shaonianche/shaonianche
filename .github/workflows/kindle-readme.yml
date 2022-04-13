@@ -49,11 +49,10 @@ jobs:
           python kindle/kindle.py '${{ secrets.KINDLE_COOKIE}}' --is-cn # delete --is-cn if you are using com
 
       - name: Push new README
-        uses: github-actions-x/commit@v2.8
-        with:
-          github-token: ${{ secrets.G_TOKEN }}
-          commit-message: "Replace README"
-          files: README.md
-          rebase: "true"
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+        run: |    
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_EMAIL }}"
+          git commit -a -m 'Replace README' || echo "nothing to commit"
+          git push || echo "nothing to push"
+      
+    
