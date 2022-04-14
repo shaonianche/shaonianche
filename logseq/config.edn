@@ -30,6 +30,9 @@
  :default-templates
  {:journals ""}
 
+ :ui/enable-tooltip? true
+ :all-pages-public? true
+
  ;; The app will show those queries in today's journal page,
  ;; the "NOW" query asks the tasks which need to be finished "now",
  ;; the "NEXT" query asks the future tasks.
@@ -77,12 +80,17 @@
  ;; input "{{{poem(red,blue)}}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros {"poem" "Rose is $1, violet's $2. Life's ordered: Org assists you."
+          "progress"
+          "[:span [:progress {:value $1 :max $2 
+                         :style {:width 200 
+                                 :margin-right 4
+                                 :cursor \"default\"}}] [:small \"$1/$2\"]]"}
    :markdown/version 2
    :ref/default-open-blocks-level 2
    :ref/linked-references-collapsed-threshold 50
  ;; :journal/page-title-format "yyyy-MM-dd"
-   :favorites ["WiKi" "Journals" "Contents" "Daily Reading"]
+   :favorites ["Journals" "Daily Reading"]
    :graph/settings {:journal? false, :builtin-pages? false}
    :publishing/all-pages-public? true
    :editor/logical-outdenting? true
