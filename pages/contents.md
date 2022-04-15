@@ -12,5 +12,3 @@
 - Blog
 	- 2022-01-13  [0x1b：27岁之前](https://blog.duanfei.org/blog/2022/01/0x1b)
 	- 2022-01-07  [2021-END](https://blog.duanfei.org/blog/2022/01/2021-end)
-- {{embed [[Daily Reading]]}}
--
