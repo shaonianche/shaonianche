@@ -102,4 +102,5 @@
    :editor/logical-outdenting? true
    :feature/enable-timetracking? false
    :feature/enable-journals? false
-   :default-home {:page "Daily Reading" :sidebar "Contents"}}
+   :default-home {:page "Daily Reading" :sidebar "Contents"}
+ :zotero/settings-v2 {"default" {:type-id "9395272", :prefer-citekey? false, :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :notes-block-text "[[Notes]][[Zotero]]", :page-insert-prefix "@", :extra-tags "", :zotero-data-directory ""}}}
