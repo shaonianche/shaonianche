@@ -17,6 +17,7 @@ title: Blog
 - https://thequibbler.zhubai.love/ [[Newsletter]]
 - [ Thinking as Algorithm ](http://ftvision.github.io)
 - [Be for web](http://beforweb.com)
+- [TO-D](https://2d2d.io/about/)
 - [evilpan](https://evilpan.com/)
   collapsed:: true
 	- 移动端安全研究员 #Notes

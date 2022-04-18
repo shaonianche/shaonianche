@@ -1,0 +1,3 @@
+- Course overview
+	- [The Missing Semester of Your CS Education](https://missing-semester-cn.github.io)
+	- [Hacker Tools](https://missing.csail.mit.edu/2019/)
