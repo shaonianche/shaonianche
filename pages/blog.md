@@ -2,7 +2,7 @@
 title: Blog
 ---
 
-- [安妮薇时报：https://anyway.fm/news](https://anyway.fm/news/)
+- [安妮薇时报：https://anyway.fm/news](https://anyway.fm/news/) [[Newsletter]]
 - [Producthunt：https://www.producthunt.com](https://www.producthunt.com)
 - [HN Theater：https://yahnd.com](https://yahnd.com/theater/?t=week)
 - [Hacker News：https://news.ycombinator.com](https://news.ycombinator.com)
@@ -10,14 +10,14 @@ title: Blog
 - [Usenix 论文：https://www.usenix.org/conferences/all](https://www.usenix.org/conferences/all) [[论文]]
 - [理想国出版社：https://www.ilixiangguo.com](https://www.ilixiangguo.com) [[出版社]]
 - [三辉图书：http://www.sanhuibooks.com](http://www.sanhuibooks.com)  [[出版社]]
-- [技术周刊：https://www.ezindie.com](https://www.ezindie.com) [[周刊]]
-- [科技周刊：https://www.ruanyifeng.com/blog/weekly/](https://www.ruanyifeng.com/blog/weekly/) [[阮一峰]] [[周刊]]
+- [技术周刊：https://www.ezindie.com](https://www.ezindie.com) [[周刊]] [[Newsletter]]
+- [科技周刊：https://www.ruanyifeng.com/blog/weekly/](https://www.ruanyifeng.com/blog/weekly/) [[阮一峰]] [[周刊]] [[Newsletter]]
 - [GeekPlux Lab](https://geekplux.zhubai.love/) [[Newsletter]]
 	- https://wiki.geekplux.com/#/page/newsletters
 - https://thequibbler.zhubai.love/ [[Newsletter]]
 - [ Thinking as Algorithm ](http://ftvision.github.io)
 - [Be for web](http://beforweb.com)
-- [TO-D](https://2d2d.io/about/)
+- [TO-D](https://2d2d.io/about/) [[Newsletter]]
 - [evilpan](https://evilpan.com/)
   collapsed:: true
 	- 移动端安全研究员 #Notes
