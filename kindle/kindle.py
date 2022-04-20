@@ -101,7 +101,7 @@ class Kindle:
         slice_index_max = max(slice_index_en,slice_index_cn)
         if slice_index_en == slice_index_cn:
             print("index = -1")
-        if slice_index_min == -1:
+        elif slice_index_min == -1:
             book_title = book_title[:slice_index_max]    
         else:
             book_title = book_title[:slice_index_min]
