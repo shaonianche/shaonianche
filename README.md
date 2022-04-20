@@ -31,11 +31,11 @@ Thanks to the spirit of open source for making all this possible!
 
 | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
-| 1 | [编码：隐匿在计算机软硬件背后的语](https://www.amazon.cn/dp/B08GC8288R) | 左飞,薛佟佟 | 2022-04-18 |
+| 1 | [编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/dp/B08GC8288R) | 左飞,薛佟佟 | 2022-04-18 |
 | 2 | [存在主义咖啡馆](https://www.amazon.cn/dp/B07BNC4CDG) | 莎拉·贝克韦尔 | 2022-04-18 |
 | 3 | [回归故里](https://www.amazon.cn/dp/B08HYJNTXN) | 迪迪埃·埃里蓬 | 2022-03-11 |
-| 4 | [沐猿而](https://www.amazon.cn/dp/B018THBGVW) | 辉格 | 2022-02-10 |
-| 5 | [脑与意识：破解人类思维之](https://www.amazon.cn/dp/B07K6GV2W1) | 斯坦尼斯拉斯·迪昂 | 2022-02-10 |
+| 4 | [沐猿而冠](https://www.amazon.cn/dp/B018THBGVW) | 辉格 | 2022-02-10 |
+| 5 | [脑与意识：破解人类思维之迷](https://www.amazon.cn/dp/B07K6GV2W1) | 斯坦尼斯拉斯·迪昂 | 2022-02-10 |
 | 6 | [古今数学思想](https://www.amazon.cn/dp/B07H4DS155) | 莫里斯·克莱因 | 2022-02-10 |
 | 7 | [自我分析纲要](https://www.amazon.cn/dp/B08RD3SPXY) | 皮埃尔·布尔迪厄 | 2022-01-16 |
 | 8 | [程序员修炼之道：通向务实的最高境界](https://www.amazon.cn/dp/B08BRGF8SL) | Andrew  Hunt(安德鲁·亨特) (美)David Thomas(大卫·托马斯) | 2022-01-10 |
