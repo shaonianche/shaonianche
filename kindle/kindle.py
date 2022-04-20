@@ -93,13 +93,14 @@ class Kindle:
         url = self.KINDLE_BOOK_URL.format(book_id=book_id, is_doc=is_doc)
         book_info = self.session.get(url, headers=self.header).json()
         if not book_info:
-            print(f"There's no book info if id {book_id}")
-        book_title = book_info["title"]
-        slice_index = book_title.find("(")
-        if slice_index == -1:
-            slice_index = book_title.find("（")
-        if slice_index != -1:
-            book_title = book_title[:slice_index]
+            print(f"There's no book info if id {book_id}")            
+        slice_index_en = book_title.find("(")
+        slice_index_cn = book_title.find("（")
+        slice_index = slice_index_en - slice_index_cn
+        if slice_index > 0:
+            book_title = book_title[:slice_index_cn]
+        if slice_index < -1:
+            book_title = book_title[:slice_index_en]
         book_title = book_title.replace(" ", "")
         if is_doc == "false":
             book_url = self.AMAZON_URL.format(book_id=book_id)
