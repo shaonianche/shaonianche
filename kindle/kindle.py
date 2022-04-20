@@ -93,7 +93,8 @@ class Kindle:
         url = self.KINDLE_BOOK_URL.format(book_id=book_id, is_doc=is_doc)
         book_info = self.session.get(url, headers=self.header).json()
         if not book_info:
-            print(f"There's no book info if id {book_id}")            
+            print(f"There's no book info if id {book_id}")
+        book_title = book_info["title"]
         slice_index_en = book_title.find("(")
         slice_index_cn = book_title.find("（")
         slice_index = slice_index_en - slice_index_cn
