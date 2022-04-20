@@ -15,6 +15,7 @@ title: Blog
 - [GeekPlux Lab](https://geekplux.zhubai.love/) [[Newsletter]]
 	- https://wiki.geekplux.com/#/page/newsletters
 - https://thequibbler.zhubai.love/ [[Newsletter]]
+- [湾区日报](https://wanqu.co/) [[Newsletter]]
 - [ Thinking as Algorithm ](http://ftvision.github.io)
 - [Be for web](http://beforweb.com)
 - [TO-D](https://2d2d.io/about/) [[Newsletter]]

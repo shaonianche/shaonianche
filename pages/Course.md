@@ -1,0 +1,2 @@
+- awesome public courses and wonderful study resource
+- [study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) [[中文课程]]
