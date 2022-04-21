@@ -95,7 +95,7 @@ class Kindle:
         if not book_info:
             print(f"There's no book info if id {book_id}")
         book_title = book_info["title"]
-        book_title = re.sub(r'(\（[^)]*\）)|(\([^)]*\))|(\s)', '', book_title)
+        book_title = re.sub(r'(\（[^)]*\）)|(\([^)]*\))|(\【[^)]*\】)|(\[[^)]*\])|(\s)', '', book_title)
         book_title = book_title.replace(" ", "")
         if is_doc == "false":
             book_url = self.AMAZON_URL.format(book_id=book_id)
