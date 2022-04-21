@@ -36,8 +36,8 @@ Thanks to the spirit of open source for making all this possible!
 | 3 | [回归故里](https://www.amazon.cn/dp/B08HYJNTXN) | 迪迪埃·埃里蓬 | 2022-03-11 |
 | 4 | [沐猿而冠](https://www.amazon.cn/dp/B018THBGVW) | 辉格 | 2022-02-10 |
 | 5 | [脑与意识：破解人类思维之迷](https://www.amazon.cn/dp/B07K6GV2W1) | 斯坦尼斯拉斯·迪昂 | 2022-02-10 |
-| 6 | [古今数学思想](https://www.amazon.cn/dp/B07H4DS155) | 莫里斯·克莱因 | 2022-02-10 |
+| 6 | [古今数学思想【上海科学技术出版社出品，豆瓣评分9.2，经久不衰的数学史经典名著，启迪数学想象力和灵感的知识宝库】](https://www.amazon.cn/dp/B07H4DS155) | 莫里斯·克莱因 | 2022-02-10 |
 | 7 | [自我分析纲要](https://www.amazon.cn/dp/B08RD3SPXY) | 皮埃尔·布尔迪厄 | 2022-01-16 |
-| 8 | [程序员修炼之道：通向务实的最高境界](https://www.amazon.cn/dp/B08BRGF8SL) | Andrew  Hunt(安德鲁·亨特) (美)David Thomas(大卫·托马斯) | 2022-01-10 |
+| 8 | [程序员修炼之道：通向务实的最高境界【这本书颠覆了无数人的软件生涯！并推动整个IT行业走到今天！时隔20年的再版重磅来袭！】](https://www.amazon.cn/dp/B08BRGF8SL) | Andrew  Hunt(安德鲁·亨特) (美)David Thomas(大卫·托马斯) | 2022-01-10 |
 
 <!--END_SECTION:my_kindle-->
