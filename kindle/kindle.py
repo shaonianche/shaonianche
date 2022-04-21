@@ -95,17 +95,7 @@ class Kindle:
         if not book_info:
             print(f"There's no book info if id {book_id}")
         book_title = book_info["title"]
-        slice_index_en = book_title.find("(")
-        slice_index_cn = book_title.find("（")
-        slice_index_min = min(slice_index_en,slice_index_cn)
-        slice_index_max = max(slice_index_en,slice_index_cn)
-        if slice_index_en == slice_index_cn:
-            print("index = -1")
-        elif slice_index_min == -1:
-            book_title = book_title[:slice_index_max]    
-        else:
-            book_title = book_title[:slice_index_min]
-        print(book_title)
+        book_title = re.sub(r'(\（[^)]*\）)|(\([^)]*\))|(\s)', '', book_title)
         book_title = book_title.replace(" ", "")
         if is_doc == "false":
             book_url = self.AMAZON_URL.format(book_id=book_id)
