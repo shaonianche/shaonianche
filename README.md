@@ -32,7 +32,7 @@ Thanks to the spirit of open source for making all this possible!
 | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
 | 1 | [编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/dp/B08GC8288R) | 左飞,薛佟佟 | 2022-04-18 |
-| 2 | [存在主义咖啡馆（豆瓣评分8.6，和萨特加缪波伏娃聊聊存在与自由，看“丧”时代如何人间值得？美国《纽约时报》英国《卫报》年度好书！）](https://www.amazon.cn/dp/B07BNC4CDG) | 莎拉·贝克韦尔 | 2022-04-18 |
+| 2 | [存在主义咖啡馆](https://www.amazon.cn/dp/B07BNC4CDG) | 莎拉·贝克韦尔 | 2022-04-18 |
 | 3 | [回归故里](https://www.amazon.cn/dp/B08HYJNTXN) | 迪迪埃·埃里蓬 | 2022-03-11 |
 | 4 | [沐猿而冠](https://www.amazon.cn/dp/B018THBGVW) | 辉格 | 2022-02-10 |
 | 5 | [脑与意识：破解人类思维之迷](https://www.amazon.cn/dp/B07K6GV2W1) | 斯坦尼斯拉斯·迪昂 | 2022-02-10 |
