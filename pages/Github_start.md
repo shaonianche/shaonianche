@@ -35,7 +35,7 @@ title: Github start
 	- [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [[Git flow]]
 	- [Git 工作流程](https://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
-- [[Wiki文档工具]]
+- [[WiKi]]
 	- [Docute](https://docute.org/zh/) [[文档工具]]
 		- 文檔工具 #JavaScript
 	- [Github 巨长的 Markdown 写作规范](https://github.github.com/gfm/#introduction)
