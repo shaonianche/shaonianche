@@ -2,6 +2,6 @@
 
 cd /Users/duanfei/Desktop/free/code/github/shaonianche/
 git add --all
-git commit -S -m "changes on $(date)"
+git commit -m "changes on $(date)"
 git pull --all
 git push
