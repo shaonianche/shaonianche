@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd /Users/duanfei/Desktop/free/code/github/shaonianche/
+cd $(pwd) && cd ..
 git add --all
 git commit -m "changes on $(date)"
 git pull --all
