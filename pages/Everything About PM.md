@@ -7,4 +7,18 @@
 		- [Part 1/3](https://medium.com/design-bootcamp/meta-product-management-interview-part-1-3-68e098afadcf)
 	- [Product Management — All about Metrics](https://alaamohy.medium.com/product-management-all-about-metrics-30ec93259e9a)
 	- [Product Manager Interview Questions](https://www.productmanagementexercises.com/interview-questions)
--
+- [[Interesting questions]]
+	- [The blue-eyed islanders puzzle ](https://terrytao.wordpress.com/2011/04/07/the-blue-eyed-islanders-puzzle-repost/)
+	  collapsed:: true
+		- There is an island upon which a tribe resides. The tribe consists of 1000 people, with various eye colours. Yet, their religion forbids them to know their own eye color, or even to discuss the topic; thus, each resident can (and does) see the eye colors of all other residents, but has no way of discovering his or her own (there are no reflective surfaces). If a tribesperson does discover his or her own eye color, then their religion compels them to commit ritual suicide at noon the following day in the village square for all to witness. All the tribespeople are highly logical and devout, and they all know that each other is also highly logical and devout (and they all know that they all know that each other is highly logical and devout, and so forth).
+		- [Added, Feb 15: for the purposes of this logic puzzle, “highly logical” means that any conclusion that can logically deduced from the information and observations available to an islander, will automatically be known to that islander.]
+		- Of the 1000 islanders, it turns out that 100 of them have blue eyes and 900 of them have brown eyes, although the islanders are not initially aware of these statistics (each of them can of course only see 999 of the 1000 tribespeople).
+		- One day, a blue-eyed foreigner visits to the island and wins the complete trust of the tribe.
+		- One evening, he addresses the entire tribe to thank them for their hospitality.
+		- However, not knowing the customs, the foreigner makes the mistake of mentioning eye color in his address, remarking “how unusual it is to see another blue-eyed person like myself in this region of the world”.
+		- What effect, if anything, does this faux pas have on the tribe?
+		- Argument 1. The foreigner has no effect, because his comments do not tell the tribe anything that they do not already know (everyone in the tribe can already see that there are several blue-eyed people in their tribe). \diamond
+		- Argument 2. 100 days after the address, all the blue eyed people commit suicide. This is proven as a special case of
+	- [绳子燃烧测速问题](https://www.nowcoder.com/questionTerminal/46213138ad38447ca2c28a77d366b32a)
+	  collapsed:: true
+		- 一根绳子，燃烧速度不均匀，燃烧完是一小时，如何燃烧来计时1小时、45分钟、1小时15分钟
