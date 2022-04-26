@@ -1,2 +1,13 @@
-- awesome public courses and wonderful study resource
+- > awesome public courses and wonderful study resource
 - [study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) [[中文课程]]
+- [[MIT]] [6.0001: Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+	- (SICP)计算机程序的构造与解释
+- [[MIT]][6.042: Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+	- 计算机科学中的数学
+- [[MIT]][6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
+	- 计算结构
+- [[MIT]][6.006: Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
+	- 算法导论
+- [[MIT]][6.009: Fundamentals of Programming](https://py.mit.edu/spring22/info/basics)
+	- 编程基础
+- [[MIT]] [其他课程](https://zhuanlan.zhihu.com/p/112763953)

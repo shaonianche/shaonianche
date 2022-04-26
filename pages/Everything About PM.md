@@ -1,4 +1,5 @@
 - {{embed [[Everything About Design]]}}
+- {{embed [[PM-Blog]]}}
 - [[pm-Interviews]]
 	- [纯银16年出的产品面试题](https://coffee.pmcaff.com/article/487940211717248/pmcaff?utm_source=forum)
 	- [Product Interview: (Hypothetical) Figma is losing customers at 6–7% weekly. Figure out the reason & prioritize solutions.](https://bootcamp.uxdesign.cc/product-interview-rca-solution-design-question-figma-is-losing-customers-at-6-7-weekly-a9c1eb11a236)
@@ -22,3 +23,7 @@
 	- [绳子燃烧测速问题](https://www.nowcoder.com/questionTerminal/46213138ad38447ca2c28a77d366b32a)
 	  collapsed:: true
 		- 一根绳子，燃烧速度不均匀，燃烧完是一小时，如何燃烧来计时1小时、45分钟、1小时15分钟
+- [[PM-Medium]]
+	- [创造者日报](https://creatorsdaily.com/about)
+	- [indiehackers](https://www.indiehackers.com/)
+	- [producthunt](https://www.producthunt.com/)

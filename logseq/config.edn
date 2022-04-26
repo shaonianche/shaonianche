@@ -96,7 +96,7 @@
    :ref/default-open-blocks-level 5
    :ref/linked-references-collapsed-threshold 50
    ;; :journal/page-title-format "yyyy-MM-dd"
-   :favorites ["Blog" "Journals" "Daily Reading"]
+   :favorites ("Blog" "Course" "Journals" "Daily Reading")
    :graph/settings {:journal? false, :builtin-pages? false}
    :publishing/all-pages-public? true
    :editor/logical-outdenting? true
