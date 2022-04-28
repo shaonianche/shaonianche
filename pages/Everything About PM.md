@@ -9,7 +9,7 @@
 	- [Product Management — All about Metrics](https://alaamohy.medium.com/product-management-all-about-metrics-30ec93259e9a)
 	- [Product Manager Interview Questions](https://www.productmanagementexercises.com/interview-questions)
 - [[Interesting questions]]
-	- [The blue-eyed islanders puzzle ](https://terrytao.wordpress.com/2011/04/07/the-blue-eyed-islanders-puzzle-repost/)
+	- [The blue-eyed islanders puzzle - 蓝眼睛谜题 ](https://terrytao.wordpress.com/2011/04/07/the-blue-eyed-islanders-puzzle-repost/)
 	  collapsed:: true
 		- There is an island upon which a tribe resides. The tribe consists of 1000 people, with various eye colours. Yet, their religion forbids them to know their own eye color, or even to discuss the topic; thus, each resident can (and does) see the eye colors of all other residents, but has no way of discovering his or her own (there are no reflective surfaces). If a tribesperson does discover his or her own eye color, then their religion compels them to commit ritual suicide at noon the following day in the village square for all to witness. All the tribespeople are highly logical and devout, and they all know that each other is also highly logical and devout (and they all know that they all know that each other is highly logical and devout, and so forth).
 		- [Added, Feb 15: for the purposes of this logic puzzle, “highly logical” means that any conclusion that can logically deduced from the information and observations available to an islander, will automatically be known to that islander.]
@@ -20,9 +20,12 @@
 		- What effect, if anything, does this faux pas have on the tribe?
 		- Argument 1. The foreigner has no effect, because his comments do not tell the tribe anything that they do not already know (everyone in the tribe can already see that there are several blue-eyed people in their tribe). \diamond
 		- Argument 2. 100 days after the address, all the blue eyed people commit suicide. This is proven as a special case of
+	- [白帽子问题](https://github.com/RickeyBoy/Rickey-iOS-Notes/blob/master/Notes/Games/%E7%99%BD%E5%B8%BD%E5%AD%90%E9%97%AE%E9%A2%98.md)
 	- [绳子燃烧测速问题](https://www.nowcoder.com/questionTerminal/46213138ad38447ca2c28a77d366b32a)
 	  collapsed:: true
 		- 一根绳子，燃烧速度不均匀，燃烧完是一小时，如何燃烧来计时1小时、45分钟、1小时15分钟
+	- [海盗博弈问题](https://github.com/RickeyBoy/Rickey-iOS-Notes/blob/master/Notes/Games/%E6%B5%B7%E7%9B%97%E5%8D%9A%E5%BC%88%E9%97%AE%E9%A2%98.md)
+		- 可以参考 [Pirate Game](https://en.wikipedia.org/wiki/Pirate_game)
 - [[PM-Medium]]
 	- [创造者日报](https://creatorsdaily.com/about)
 	- [indiehackers](https://www.indiehackers.com/)
