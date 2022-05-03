@@ -6,35 +6,20 @@
 
 I'm duanfei:
 
-- 🔭 **Working :** Product manager 
-- 📖 **Learning :** Like [reading](https://www.douban.com/people/137566058/) 
-- 🎮 **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705` 
-- 🏃 **favourite :** A passion for [running](https://run.duanfei.org/)    
-
-Thanks to the spirit of open source for making all this possible!
-
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/58443ff7f75e2911513f8b3016b49955" target="_blank">🎮 Steam playtime leaderboard</a>
-
-```text
-⚔️ Dota 2                           🕘 3003 hrs 25 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 166 hrs 46 mins
-🎮 DARK SOULS™ III                  🕘 145 hrs 1 mins
-🎮 The Witcher 3: Wild Hunt         🕘 25 hrs 44 mins
-🔫 Counter-Strike: Global Offensive 🕘 25 hrs 36 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
+- 🔭 **Working :** Product manager
+- 📖 **Learning :** Like [reading](https://www.douban.com/people/137566058/)
+- 🎮 **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705`
+- 🏃 **favourite :** A passion for [running](https://run.duanfei.org/)
 
 <!--START_SECTION:my_kindle-->
 #### I have read 11 books this year
 
-| ID | Title | Authors | Date | 
+| ID | Title | Authors | Date |
  | ---- | ---- | ---- | ---- |
 | 1 | [JaneEyre](https://www.amazon.cn/dp/B00A72VYQK) | Charlotte Brontë | 2022-05-02 |
-| 2 | [陈寅恪的最后20年](https://www.amazon.cn/dp/B09DP72L5M) | 陆键东 | 2022-05-02 |
+| 2 | [陈寅恪的最后 20 年](https://www.amazon.cn/dp/B09DP72L5M) | 陆键东 | 2022-05-02 |
 | 3 | [理想国](https://www.amazon.cn/dp/B009TQATQ6) | 柏拉图 (Plato) | 2022-04-23 |
-| 4 | [编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/dp/B08GC8288R) | 左飞,薛佟佟 | 2022-04-18 |
+| 4 | [编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/dp/B08GC8288R) | 左飞，薛佟佟 | 2022-04-18 |
 | 5 | [存在主义咖啡馆](https://www.amazon.cn/dp/B07BNC4CDG) | 莎拉·贝克韦尔 | 2022-04-18 |
 | 6 | [回归故里](https://www.amazon.cn/dp/B08HYJNTXN) | 迪迪埃·埃里蓬 | 2022-03-11 |
 | 7 | [沐猿而冠](https://www.amazon.cn/dp/B018THBGVW) | 辉格 | 2022-02-10 |
