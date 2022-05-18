@@ -12,21 +12,23 @@ I'm duanfei:
 - 🏃 **favourite :** A passion for [running](https://run.duanfei.org/)
 
 <!--START_SECTION:my_kindle-->
-#### I have read 12 books this year
+#### I have read 14 books this year
 
 | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
-| 1 | [哲学的慰藉](https://www.amazon.cn/dp/B00JM2HNVG) | 阿兰·德波顿(Alain de Botton) | 2022-05-09 |
-| 2 | [JaneEyre](https://www.amazon.cn/dp/B00A72VYQK) | Charlotte Brontë | 2022-05-02 |
-| 3 | [陈寅恪的最后20年](https://www.amazon.cn/dp/B09DP72L5M) | 陆键东 | 2022-05-02 |
-| 4 | [理想国](https://www.amazon.cn/dp/B009TQATQ6) | 柏拉图 (Plato) | 2022-04-23 |
-| 5 | [编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/dp/B08GC8288R) | 左飞,薛佟佟 | 2022-04-18 |
-| 6 | [存在主义咖啡馆](https://www.amazon.cn/dp/B07BNC4CDG) | 莎拉·贝克韦尔 | 2022-04-18 |
-| 7 | [回归故里](https://www.amazon.cn/dp/B08HYJNTXN) | 迪迪埃·埃里蓬 | 2022-03-11 |
-| 8 | [沐猿而冠](https://www.amazon.cn/dp/B018THBGVW) | 辉格 | 2022-02-10 |
-| 9 | [脑与意识：破解人类思维之迷](https://www.amazon.cn/dp/B07K6GV2W1) | 斯坦尼斯拉斯·迪昂 | 2022-02-10 |
-| 10 | [古今数学思想](https://www.amazon.cn/dp/B07H4DS155) | 莫里斯·克莱因 | 2022-02-10 |
-| 11 | [自我分析纲要](https://www.amazon.cn/dp/B08RD3SPXY) | 皮埃尔·布尔迪厄 | 2022-01-16 |
-| 12 | [程序员修炼之道：通向务实的最高境界](https://www.amazon.cn/dp/B08BRGF8SL) | Andrew  Hunt(安德鲁·亨特) (美)David Thomas(大卫·托马斯) | 2022-01-10 |
+| 1 | [女生呵护指南](https://www.amazon.cn/dp/B07W95WJG4) | 六层楼 | 2022-05-17 |
+| 2 | [我们内心的冲突](https://www.amazon.cn/dp/B01H6UY7XW) | 卡伦·霍妮 | 2022-05-17 |
+| 3 | [哲学的慰藉](https://www.amazon.cn/dp/B00JM2HNVG) | 阿兰·德波顿(Alain de Botton) | 2022-05-09 |
+| 4 | [JaneEyre](https://www.amazon.cn/dp/B00A72VYQK) | Charlotte Brontë | 2022-05-02 |
+| 5 | [陈寅恪的最后20年](https://www.amazon.cn/dp/B09DP72L5M) | 陆键东 | 2022-05-02 |
+| 6 | [理想国](https://www.amazon.cn/dp/B009TQATQ6) | 柏拉图 (Plato) | 2022-04-23 |
+| 7 | [编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/dp/B08GC8288R) | 左飞,薛佟佟 | 2022-04-18 |
+| 8 | [存在主义咖啡馆](https://www.amazon.cn/dp/B07BNC4CDG) | 莎拉·贝克韦尔 | 2022-04-18 |
+| 9 | [回归故里](https://www.amazon.cn/dp/B08HYJNTXN) | 迪迪埃·埃里蓬 | 2022-03-11 |
+| 10 | [沐猿而冠](https://www.amazon.cn/dp/B018THBGVW) | 辉格 | 2022-02-10 |
+| 11 | [脑与意识：破解人类思维之迷](https://www.amazon.cn/dp/B07K6GV2W1) | 斯坦尼斯拉斯·迪昂 | 2022-02-10 |
+| 12 | [古今数学思想](https://www.amazon.cn/dp/B07H4DS155) | 莫里斯·克莱因 | 2022-02-10 |
+| 13 | [自我分析纲要](https://www.amazon.cn/dp/B08RD3SPXY) | 皮埃尔·布尔迪厄 | 2022-01-16 |
+| 14 | [程序员修炼之道：通向务实的最高境界](https://www.amazon.cn/dp/B08BRGF8SL) | Andrew  Hunt(安德鲁·亨特) (美)David Thomas(大卫·托马斯) | 2022-01-10 |
 
 <!--END_SECTION:my_kindle-->
