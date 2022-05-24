@@ -96,11 +96,11 @@
    :ref/default-open-blocks-level 5
    :ref/linked-references-collapsed-threshold 50
    ;; :journal/page-title-format "yyyy-MM-dd"
-   :favorites ["Journals" "Daily Reading"]
+   :favorites ("Blog" "About" "Journals" "Daily Reading")
    :graph/settings {:journal? false, :builtin-pages? false}
    :publishing/all-pages-public? true
    :editor/logical-outdenting? true
    :feature/enable-timetracking? false
    :feature/enable-journals? false
-   :default-home {:page "Daily Reading" :sidebar "Contents"}
+   :default-home {:page "Daily Reading"}
  :zotero/settings-v2 {"default" {:type-id "9395272", :prefer-citekey? false, :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :notes-block-text "[[Notes]][[Zotero]]", :page-insert-prefix "@", :extra-tags "", :zotero-data-directory ""}}}
