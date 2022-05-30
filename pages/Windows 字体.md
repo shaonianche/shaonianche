@@ -1,0 +1,5 @@
+- 全局使用字体：XHei OSX
+- https://github.com/Tatsu-syo/noMeiryoUI
+	- 修改系统字体
+- https://github.com/chawyehsu/mactype-profile
+	- MacType Profile
