@@ -17,9 +17,9 @@
 	- https://graphviz.org
 	- https://github.com/mermaid-js/mermaid
 - [[Font]]
-  collapsed:: true
 	- [思源宋体](https://source.typekit.com/source-han-serif/cn/)
 	- [Adobe Fonts](https://fonts.adobe.com/)
+	- [free-font](https://github.com/wordshub/free-font)
 - [[Color]]
   collapsed:: true
 	- [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com)
