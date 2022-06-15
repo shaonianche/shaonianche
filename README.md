@@ -14,9 +14,9 @@ I'm duanfei:
 <details>
 <summary>
 <!--START_SECTION:my_kindle-->
-## I have read 42 books this year
+<h3> I have read 42 books this year
 
-| ID | Title | Authors | Date | 
+ </h3>| ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
 | 1 | [西方美学史：全2册](https://www.amazon.cn/dp/B088N76111) | 朱光潜 | 2022-05-28 |
 | 2 | [女生呵护指南](https://www.amazon.cn/dp/B07W95WJG4) | 六层楼 | 2022-05-17 |
