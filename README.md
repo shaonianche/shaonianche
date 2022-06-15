@@ -1,3 +1,5 @@
+<img src="https://spotify-playing-now-readme.vercel.app/api/now-playing" width="540" height="52">
+
 ## Hi!
 
 [![Twitter Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&label=@FriendsA&labelColor=1da1f2&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dchawyehsu&color=282c34&logo=twitter&logoColor=white&longCache=true)](https://twitter.com/Bonjour_Ar)
