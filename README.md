@@ -1,5 +1,5 @@
 <a href="https://github.com/shaonianche/spotify-badge">
-   <img src="https://spotify-badge-ten.vercel.app/api/now-playing" width="540" height="60">
+   <img src="https://spotify-badge-ten.vercel.app/api/now-playing" width="540" height="70">
 </a>
 
 
