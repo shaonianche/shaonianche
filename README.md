@@ -14,7 +14,7 @@ I'm duanfei:
 <details>
 <summary>
 <!--START_SECTION:my_kindle-->
-## I have read 42 books for kindle
+<h2> I have read 42 books for kindle </h2>
 
 | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
