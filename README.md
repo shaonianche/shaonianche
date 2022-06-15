@@ -16,7 +16,7 @@ I'm duanfei:
 <!--START_SECTION:my_kindle-->
 <h3> I have read 42 books for kindle </h3>
 </summary>
-<p>
+
 | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
 | 1 | [西方美学史：全2册](https://www.amazon.cn/dp/B088N76111) | 朱光潜 | 2022-05-28 |
@@ -64,4 +64,3 @@ I'm duanfei:
 
 <!--END_SECTION:my_kindle-->
 
-</p>
