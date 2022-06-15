@@ -11,8 +11,7 @@ I'm duanfei:
 - 🎮 **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705`
 - 🏃 **favourite :** A passion for [running](https://run.duanfei.org/)
 
-<details>
-<summary>
+
 <!--START_SECTION:my_kindle-->
 <details> <summary>  <h3> I have read 42 books this year </h3> </summary> 
 
