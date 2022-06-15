@@ -2,20 +2,17 @@
    <img src="https://spotify-badge-ten.vercel.app/api/now-playing" width="540" height="70">
 </a>
 
-
-## Hi!
-
 [![Twitter Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&label=@FriendsA&labelColor=1da1f2&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dchawyehsu&color=282c34&logo=twitter&logoColor=white&longCache=true)](https://twitter.com/Bonjour_Ar)
 [![Instagram Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=c13584&label=@FriendsA&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dinstagram%26queryKey%3Dchawyehsu&logo=instagram&logoColor=white&color=282c34&longCache=true)](https://www.instagram.com/alone_cmj)
 [![Telegram Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&label=@FriendsA&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dchawyehsu&logo=telegram&color=282c34&labelColor=0088cc&longCache=true)](https://t.me/s/Alone_cmj)
 
+## Hi!
+
 I'm duanfei:
-
-- 🔭 **Working :** Product manager
-- 📖 **Learning :** Like [reading](https://www.douban.com/people/137566058/)
-- 🎮 **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705`
-- 🏃 **favourite :** A passion for [running](https://run.duanfei.org/)
-
+- **Working :** Product manager
+- **Learning :** Like [reading](https://www.douban.com/people/137566058/)
+- **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705`
+- **favourite :** A passion for [running](https://run.duanfei.org/)
 
 <!--START_SECTION:my_kindle-->
 <details> <summary>  <h3> I have read 42 books this year </h3> </summary> 
