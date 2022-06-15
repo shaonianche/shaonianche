@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from http.cookies import SimpleCookie
-from datetime import datetime
+import argparse
 import re
+from datetime import datetime
+from http.cookies import SimpleCookie
 
 import requests
-import argparse
 
 KINDLE_BASE_URL = "https://www.amazon.com/kindle/reading/insights/"
 KINDLE_CN_BASE_URL = "https://www.amazon.cn/kindle/reading/insights/"
@@ -30,7 +30,7 @@ KINDLE_HEADER = {
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
 )
-KINDLE_HEAD_INFO = "## I have read {books_count} books this year\n\n"
+KINDLE_HEAD_INFO = "<h3> I have read {books_count} books this year\n\n </h3>"
 KINDLE_TABLE_HEAD = "| ID | Title | Authors | Date | \n | ---- | ---- | ---- | ---- |\n"
 KINDLE_STAT_TEMPLATE = "| {id} | {title} | {authors} | {date} |\n"
 
