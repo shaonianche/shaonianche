@@ -14,8 +14,9 @@ I'm duanfei:
 <details>
 <summary>
 <!--START_SECTION:my_kindle-->
-<h2> I have read 42 books for kindle </h2>
-
+<h3> I have read 42 books for kindle </h3>
+</summary>
+<p>
 | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
 | 1 | [西方美学史：全2册](https://www.amazon.cn/dp/B088N76111) | 朱光潜 | 2022-05-28 |
@@ -62,5 +63,5 @@ I'm duanfei:
 | 42 | [性学三论](https://www.amazon.cn/dp/B00VLPOZU4) | 西格蒙德·弗洛伊德 | 2019-05-30 |
 
 <!--END_SECTION:my_kindle-->
-</summary>
-</details>
+
+</p>
