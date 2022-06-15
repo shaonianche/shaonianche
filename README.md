@@ -1,4 +1,4 @@
-<img src="https://spotify-playing-now-readme.vercel.app/api/now-playing" width="540" height="52">
+<img src="https://spotify-badge-eb1wjop0f-shaonianche.vercel.app/api/now-playing" width="540" height="52">
 
 ## Hi!
 
