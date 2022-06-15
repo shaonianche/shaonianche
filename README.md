@@ -11,8 +11,10 @@ I'm duanfei:
 - 🎮 **Playing :** [PlayStation](http://psnine.com/psnid/axmiao),[Steam](https://steamcommunity.com/id/duanf/),Nintendo Switch:`SW-1654-9155-6705`
 - 🏃 **favourite :** A passion for [running](https://run.duanfei.org/)
 
+<details>
+<summary>
 <!--START_SECTION:my_kindle-->
-## I have read 42 books this year
+## I have read 42 books for kindle
 
 | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
@@ -60,3 +62,5 @@ I'm duanfei:
 | 42 | [性学三论](https://www.amazon.cn/dp/B00VLPOZU4) | 西格蒙德·弗洛伊德 | 2019-05-30 |
 
 <!--END_SECTION:my_kindle-->
+</summary>
+</details>
