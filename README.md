@@ -2,10 +2,6 @@
    <img src="https://spotify-badge-ten.vercel.app/api/now-playing" width="540" height="70">
 </a>
 
-[![Twitter Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&label=@FriendsA&labelColor=1da1f2&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dchawyehsu&color=282c34&logo=twitter&logoColor=white&longCache=true)](https://twitter.com/Bonjour_Ar)
-[![Instagram Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=c13584&label=@FriendsA&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dinstagram%26queryKey%3Dchawyehsu&logo=instagram&logoColor=white&color=282c34&longCache=true)](https://www.instagram.com/alone_cmj)
-[![Telegram Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&label=@FriendsA&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dchawyehsu&logo=telegram&color=282c34&labelColor=0088cc&longCache=true)](https://t.me/s/Alone_cmj)
-
 ## Hi!
 
 I'm duanfei:
