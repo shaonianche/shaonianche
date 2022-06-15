@@ -1,4 +1,7 @@
-<img src="https://spotify-badge-eb1wjop0f-shaonianche.vercel.app/api/now-playing" width="540" height="52">
+<a href="https://github.com/shaonianche/spotify-badge">
+   <img src="https://spotify-badge-eb1wjop0f-shaonianche.vercel.app/api/now-playing" width="540" height="52">
+</a>
+
 
 ## Hi!
 
