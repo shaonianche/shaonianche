@@ -1,9 +1,9 @@
-## Hi! Please listen to ...
+## Hi! I'm duanfei, Please listen to ...
 <a href="https://github.com/shaonianche/spotify-badge">
    <img src="https://spotify-badge-ten.vercel.app/api/now-playing" width="540" height="52">
 </a>
+<br>
 
-I'm duanfei :
 - **Working :** Product Manager
 - **Learning :** Like [Reading](https://www.douban.com/people/137566058/)
 - **Playing :** [PlayStation](http://psnine.com/psnid/axmiao), [Steam](https://steamcommunity.com/id/duanf/), Nintendo Switch: `SW-1654-9155-6705`
