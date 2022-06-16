@@ -30,7 +30,7 @@ KINDLE_HEADER = {
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
 )
-KINDLE_HEAD_INFO = "<details> <summary>  <h3> I have read {books_count} books this year </h3> </summary> \n\n"
+KINDLE_HEAD_INFO = "<details> <summary>  <h2> Kindle Reading List </h2> </summary> \n\n"
 KINDLE_TABLE_HEAD = "| ID | Title | Authors | Date | \n | ---- | ---- | ---- | ---- |\n"
 KINDLE_STAT_TEMPLATE = "| {id} | {title} | {authors} | {date} |\n"
 
@@ -99,7 +99,9 @@ class Kindle:
             print(f"There's no book info if id {book_id}")
         book_title = book_info["title"]
         # filter the brackets in the book title
-        book_title = re.sub(r'(\（[^)]*\）)|(\([^)]*\))|(\【[^)]*\】)|(\[[^)]*\])|(\s)', '', book_title)
+        book_title = re.sub(
+            r"(\（[^)]*\）)|(\([^)]*\))|(\【[^)]*\】)|(\[[^)]*\])|(\s)", "", book_title
+        )
         book_title = book_title.replace(" ", "")
         if is_doc == "false":
             book_url = self.AMAZON_URL.format(book_id=book_id)
