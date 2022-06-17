@@ -31,7 +31,7 @@ GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
 )
 KINDLE_HEAD_INFO = (
-    "<details> <summary> <strong> Kindle Reading List </strong> </summary> \n\n <br>"
+    "<details> <summary> <strong> Kindle Reading List </strong> </summary> <br> \n\n "
 )
 KINDLE_TABLE_HEAD = "| ID | Title | Authors | Date | \n | ---- | ---- | ---- | ---- |\n"
 KINDLE_STAT_TEMPLATE = "| {id} | {title} | {authors} | {date} |\n"
