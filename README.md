@@ -1,6 +1,6 @@
 ## Hi! I'm duanfei, Please listen to ...
 <a href="https://github.com/shaonianche/spotify-badge">
-   <img src="https://spotify-badge-ten.vercel.app/api/now-playing" width="540" height="52">
+   <img src="https://spotify-badge-ten.vercel.app/api/now-playing" width="480" height="70">
 </a>
 <br>
 
