@@ -10,9 +10,9 @@
 - **Favourite :** A passion for [running](https://run.duanfei.org/)
 
 <!--START_SECTION:my_kindle-->
-<details> <summary> <strong> Kindle Reading List </strong> </summary> 
+<details> <summary> <strong> Kindle Reading List </strong> </summary> <br> 
 
- <br>| ID | Title | Authors | Date | 
+ | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
 | 1 | [西方美学史：全2册](https://www.amazon.cn/dp/B088N76111) | 朱光潜 | 2022-05-28 |
 | 2 | [女生呵护指南](https://www.amazon.cn/dp/B07W95WJG4) | 六层楼 | 2022-05-17 |
