@@ -14,6 +14,7 @@
 
  | ID | Title | Authors | Date | 
  | ---- | ---- | ---- | ---- |
-| 1 | [](https://www.amazon.com/dp/B01HPYNBXG) |  | 2022-06-06 |
+| 1 | [](https://www.amazon.com/dp/B0888SDY9Y) |  | 2022-06-21 |
+| 2 | [](https://www.amazon.com/dp/B01HPYNBXG) |  | 2022-06-06 |
 
 <!--END_SECTION:my_kindle-->
