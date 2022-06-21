@@ -46,13 +46,11 @@ jobs:
 
       - name: Replace README MAKE KINDLE INFO
         run: |
-          python kindle/kindle.py '${{ secrets.KINDLE_COOKIE}}' --is-cn # delete --is-cn if you are using com
+          python kindle/kindle.py '${{ secrets.KINDLE_COOKIE}}'  # delete --is-cn if you are using com
 
       - name: Push new README
-        run: |    
+        run: |
           git config --local user.email "${{ env.GITHUB_EMAIL }}"
           git config --local user.name "${{ env.GITHUB_EMAIL }}"
-          git commit -a -m 'Replace README' || echo "nothing to commit"
+          git commit -a -m 'Replace README' || echo "Nothing to commit"
           git push || echo "nothing to push"
-      
-    
