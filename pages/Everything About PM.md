@@ -1,5 +1,5 @@
 - {{embed [[Everything About Design]]}}
-- {{embed [[PM-Blog]]}}
+- {{embed [[PM-Bookmark]]}}
 - [[pm-Interviews]]
 	- [纯银16年出的产品面试题](https://coffee.pmcaff.com/article/487940211717248/pmcaff?utm_source=forum)
 	- [Product Interview: (Hypothetical) Figma is losing customers at 6–7% weekly. Figure out the reason & prioritize solutions.](https://bootcamp.uxdesign.cc/product-interview-rca-solution-design-question-figma-is-losing-customers-at-6-7-weekly-a9c1eb11a236)
