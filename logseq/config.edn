@@ -60,11 +60,11 @@
  :markdown/version 2
  :ref/default-open-blocks-level 3
  :ref/linked-references-collapsed-threshold 50
- :favorites ("Blog" "About" "Articles" "Bookmarks")
+ :favorites ["Blog" "About" "Articles" "Bookmarks"]
  :graph/settings {:journal? false, :builtin-pages? false}
  :publishing/all-pages-public? true
  :editor/logical-outdenting? true
  :feature/enable-timetracking? false
- :feature/enable-journals? false
- :default-home {:page "Journals"}
+ :feature/enable-journals? true
+ :default-home {:page "journals"}
  :zotero/settings-v2 {"default" {:type-id "9395272", :prefer-citekey? false, :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :notes-block-text "[[Notes]][[Zotero]]", :page-insert-prefix "@", :extra-tags "", :zotero-data-directory ""}}}
