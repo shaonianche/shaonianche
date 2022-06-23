@@ -93,10 +93,10 @@
                                  :margin-right 4
                                  :cursor \"default\"}}] [:small \"$1/$2\"]]"}
    :markdown/version 2
-   :ref/default-open-blocks-level 5
+   :ref/default-open-blocks-level 3
    :ref/linked-references-collapsed-threshold 50
    ;; :journal/page-title-format "yyyy-MM-dd"
-   :favorites ["Blog" "About" "Journals" "Bookmarks"]
+   :favorites ("Blog" "About" "Articles" "Journals" "Bookmarks")
    :graph/settings {:journal? false, :builtin-pages? false}
    :publishing/all-pages-public? true
    :editor/logical-outdenting? true
