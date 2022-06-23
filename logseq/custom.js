@@ -1,4 +1,3 @@
-// @ts-nocheck
 let currentRepo = logseq.api.get_current_graph().path;
 
 function isActive() {
@@ -34,18 +33,58 @@ function quoteTextInTextarea(textarea, quote) {
   }
 }
 
-window.addEventListener(
-  "keydown",
-  (e) => {
-    if (isActive() && e.key === '"') {
-      const textarea = getActiveTextarea();
-      if (textarea) {
-        const quoted = quoteTextInTextarea(textarea, '"');
-        if (quoted) {
-          e.stopPropagation();
-          e.preventDefault();
-        }
+window.addEventListener("keydown", (e) => {
+  if (isActive() && e.key === '"') {
+    const textarea = getActiveTextarea();
+    if (textarea) {
+      const quoted = quoteTextInTextarea(textarea, '"');
+      if (quoted) {
+        e.stopPropagation();
+        e.preventDefault();
       }
     }
-  },
-);
+  }
+});
+
+/**
+ * HETI
+ */
+
+function initHeti() {
+  const script$ = document.createElement("script");
+  script$.src = "https://unpkg.com/heti/umd/heti-addon.min.js";
+  document.body.append(script$);
+
+  const style$ = document.createElement("link");
+  style$.href = "https://unpkg.com/heti/umd/heti.min.css";
+  style$.rel = "stylesheet";
+  document.body.append(style$);
+
+  script$.onload = () => {
+    const heti = new window.Heti();
+    document.querySelectorAll(".block-content-wrapper").forEach((el) => {
+      heti.spacingElement(el);
+      el.classList.add('heti');
+    });
+
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        if (
+          mutation.type === "childList" &&
+          mutation.target.classList.contains("block-content-wrapper")
+        ) {
+          mutation.target.classList.add('heti');
+          heti.spacingElement(mutation.target);
+        }
+      });
+    });
+
+    observer.observe(document.querySelector("#main-content-container"), {
+      childList: true,
+      subtree: true,
+    });
+  };
+}
+
+// Not working
+// initHeti();
