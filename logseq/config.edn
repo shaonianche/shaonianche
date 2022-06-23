@@ -1,5 +1,4 @@
-{:journal-basis "daily"
- :preferred-workflow :now
+{:preferred-workflow :now
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
            :name "DuanFei"
@@ -39,41 +38,6 @@
  :ui/show-empty-bullets? false
  :outliner/block-title-collapse-enabled? true
 
- ;; The app will show those queries in today's journal page,
- ;; the "NOW" query asks the tasks which need to be finished "now",
- ;; the "NEXT" query asks the future tasks.
- :default-queries
- {:journals
-  [{:title "🔨 NOW"
-    :query [:find (pull ?h [*])
-            :in $ ?start ?today
-            :where
-            [?h :block/marker ?marker]
-            [?h :block/page ?p]
-            [?p :page/journal? true]
-            [?p :page/journal-day ?d]
-            [(>= ?d ?start)]
-            [(<= ?d ?today)]
-            [(contains? #{"NOW" "DOING"} ?marker)]]
-    :inputs [:14d :today]
-    :result-transform (fn [result]
-                        (sort-by (fn [h]
-                                   (get h :block/priority "Z")) result))
-    :collapsed? false}
-   {:title "📅 NEXT"
-    :query [:find (pull ?h [*])
-            :in $ ?start ?next
-            :where
-            [?h :block/marker ?marker]
-            [?h :block/ref-pages ?p]
-            [?p :page/journal? true]
-            [?p :page/journal-day ?d]
-            [(> ?d ?start)]
-            [(< ?d ?next)]
-            [(contains? #{"NOW" "LATER" "TODO"} ?marker)]]
-    :inputs [:today :7d-after]
-    :collapsed? false}]}
-
  ;; Add your own commands to speedup.
  ;; E.g. [["js" "Javascript"]]
  :commands
@@ -92,15 +56,15 @@
                          :style {:width 200
                                  :margin-right 4
                                  :cursor \"default\"}}] [:small \"$1/$2\"]]"}
-   :markdown/version 2
-   :ref/default-open-blocks-level 3
-   :ref/linked-references-collapsed-threshold 50
-   ;; :journal/page-title-format "yyyy-MM-dd"
-   :favorites ("Blog" "About" "Articles" "Journals" "Bookmarks")
-   :graph/settings {:journal? false, :builtin-pages? false}
-   :publishing/all-pages-public? true
-   :editor/logical-outdenting? true
-   :feature/enable-timetracking? false
-   :feature/enable-journals? false
-   :default-home {:page "Daily Reading"}
+ :start-of-week 0
+ :markdown/version 2
+ :ref/default-open-blocks-level 3
+ :ref/linked-references-collapsed-threshold 50
+ :favorites ("Blog" "About" "Articles" "Bookmarks")
+ :graph/settings {:journal? false, :builtin-pages? false}
+ :publishing/all-pages-public? true
+ :editor/logical-outdenting? true
+ :feature/enable-timetracking? false
+ :feature/enable-journals? false
+ :default-home {:page "Journals"}
  :zotero/settings-v2 {"default" {:type-id "9395272", :prefer-citekey? false, :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :notes-block-text "[[Notes]][[Zotero]]", :page-insert-prefix "@", :extra-tags "", :zotero-data-directory ""}}}
