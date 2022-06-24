@@ -1,28 +1,13 @@
-{:preferred-workflow :now
- :project {
-           ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
-           :name "DuanFei"
-           :alias "friendsa"
-           ;; your twitter handle
-           :twitter "Bonjour_Ar"
-           ;; description supports both hiccup and html
-           :description "无尽的知识与远方"}
-
- ;; Currently, we support either "Markdown" or "Org".
- ;; This can overwrite your global preference so that
- ;; maybe your personal preferred format is Org but you'd
- ;; need to use Markdown for some projects.
- ;; :preferred-format ""
-
- ;; Git settings
- :git-pull-secs 60
- :git-push-secs 10
- :git-auto-push true
+{:meta/version 1
+ :preferred-workflow :now
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
  :hidden []
 
+ ;; Specify the date on which the week starts.
+ ;; Goes from 0 to 6 (Monday to Sunday), default to 6
+ :start-of-week 0
  ;; When creating the new journal page, the app will use your template content here.
  ;; Example for Markdown users: "## [[Work]]\n###\n## [[Family]]\n###\n
  ;; Example for Org mode users: "** [[Work]]\n***\n** [[Family]]\n***\n
@@ -37,6 +22,41 @@
  ;; Whether to show empty bullets for non-document mode (the default mode)
  :ui/show-empty-bullets? false
  :outliner/block-title-collapse-enabled? true
+
+ ;; The app will show those queries in today's journal page,
+ ;; the "NOW" query asks the tasks which need to be finished "now",
+ ;; the "NEXT" query asks the future tasks.
+ :default-queries
+ {:journals
+  [{:title "🔨 NOW"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/page ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(>= ?d ?start)]
+            [(<= ?d ?today)]
+            [(contains? #{"NOW" "DOING"} ?marker)]]
+    :inputs [:14d :today]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/priority "Z")) result))
+    :collapsed? false}
+   {:title "📅 NEXT"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?next
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/ref-pages ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(> ?d ?start)]
+            [(< ?d ?next)]
+            [(contains? #{"NOW" "LATER" "TODO"} ?marker)]]
+    :inputs [:today :7d-after]
+    :collapsed? false}]}
 
  ;; Add your own commands to speedup.
  ;; E.g. [["js" "Javascript"]]
@@ -56,15 +76,14 @@
                          :style {:width 200
                                  :margin-right 4
                                  :cursor \"default\"}}] [:small \"$1/$2\"]]"}
- :start-of-week 0
- :markdown/version 2
- :ref/default-open-blocks-level 3
- :ref/linked-references-collapsed-threshold 50
- :favorites ["Blog" "About" "Articles" "Bookmarks"]
- :graph/settings {:journal? false, :builtin-pages? false}
- :publishing/all-pages-public? true
- :editor/logical-outdenting? true
- :feature/enable-timetracking? false
- :feature/enable-journals? true
- :default-home {:page "journals"}
+   :markdown/version 2
+   :ref/default-open-blocks-level 3
+   :ref/linked-references-collapsed-threshold 50
+   :favorites ["Blog" "About" "Articles" "Bookmarks"]
+   :graph/settings {:journal? false, :builtin-pages? false}
+   :publishing/all-pages-public? true
+   :editor/logical-outdenting? true
+   :feature/enable-timetracking? false
+   :feature/enable-journals? true
+   :default-home {:page "journals"}
  :zotero/settings-v2 {"default" {:type-id "9395272", :prefer-citekey? false, :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :notes-block-text "[[Notes]][[Zotero]]", :page-insert-prefix "@", :extra-tags "", :zotero-data-directory ""}}}

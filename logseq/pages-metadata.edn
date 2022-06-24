@@ -403,9 +403,6 @@
  {:block/name "jonathan blow",
   :block/created-at 1649910556769,
   :block/updated-at 1649910556769}
- {:block/name "journals",
-  :block/created-at 1655993635314,
-  :block/updated-at 1655993635314}
  {:block/name "json",
   :block/created-at 1646891149596,
   :block/updated-at 1646891149596}
