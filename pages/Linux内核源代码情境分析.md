@@ -1,0 +1,6 @@
+- https://book.douban.com/subject/1231584
+- 1.1 内核简介
+	- 内核版本规则：x.yy.zz
+		- x：0-9
+		- yy、zz：0-99，奇数为开发版，偶数为发行版
+		- pNN：补丁/修订
