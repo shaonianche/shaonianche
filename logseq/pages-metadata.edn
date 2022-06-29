@@ -388,9 +388,6 @@
  {:block/name "jan 24th, 2022",
   :block/created-at 1649992529142,
   :block/updated-at 1649992529142}
- {:block/name "jan 5th, 2022",
-  :block/created-at 1649992528949,
-  :block/updated-at 1649992528949}
  {:block/name "jan 6th, 2022",
   :block/created-at 1649992528983,
   :block/updated-at 1649992528983}
@@ -592,9 +589,6 @@
  {:block/name "may 26th, 2020",
   :block/created-at 1649992528087,
   :block/updated-at 1649992528087}
- {:block/name "may 26th, 2022",
-  :block/created-at 1654138016566,
-  :block/updated-at 1654138016566}
  {:block/name "may 27th, 2020",
   :block/created-at 1649992528108,
   :block/updated-at 1649992528108}
