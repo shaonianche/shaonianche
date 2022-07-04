@@ -25,10 +25,16 @@
 	- [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com)
 	- [中国传统色：故宫里的色彩美学](https://www.figma.com/file/x9kLqgsXH0i1DnHMtWvX9D/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%EF%BC%9A%E6%95%85%E5%AE%AB%E9%87%8C%E7%9A%84%E8%89%B2%E5%BD%A9%E7%BE%8E%E5%AD%A6-(Community)?node-id=0%3A1)
 - [[Look Up]]
+  collapsed:: true
 	- [artstation](https://www.artstation.com/?sort_by=community)
 	- https://www.behance.net/
 	- https://dribbble.com/
 	- https://www.pinterest.com/
 - [[pm-Interviews]]
+  collapsed:: true
 	- [纯银16年出的产品面试题](https://coffee.pmcaff.com/article/487940211717248/pmcaff?utm_source=forum)
 	- [Product Interview: (Hypothetical) Figma is losing customers at 6–7% weekly. Figure out the reason & prioritize solutions.](https://bootcamp.uxdesign.cc/product-interview-rca-solution-design-question-figma-is-losing-customers-at-6-7-weekly-a9c1eb11a236)
+- source
+	- https://www.framer.com/
+		-
+	-
