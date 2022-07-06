@@ -1,1 +1,14 @@
--
+- [DigitalOcean Community](https://www.digitalocean.com/community)
+	- DigitalOcean 公司的官方社区，写了很多关于Linux操作的文章。
+- [The Cloudflare Blog](https://blog.cloudflare.com)
+	- Cloudflare 的官方博客
+- [Bookmarks - Anthony Fu](https://antfu.me/bookmarks)
+- [Anthony Fu](https://antfu.me/bookmarks)
+	- Vue 开发者
+- [Overreacted](https://overreacted.io)
+	- [Dan Abramov (software engineer) - Wiki | Golden](https://golden.com/wiki/Dan_Abramov_(software_engineer)-99B8RJM#:~:text=Dan%20Abramov%20is%20a%20software,living%20in%20London%2C%20United%20Kingdom)
+		- React 开发者
+- [NIPPON COLORS](https://nipponcolors.com)
+	- 日本传统色彩的网站
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+	- MDN Plus：MDN 新的 Web 网站

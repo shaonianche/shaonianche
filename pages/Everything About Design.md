@@ -20,6 +20,9 @@
 	- [思源宋体](https://source.typekit.com/source-han-serif/cn/)
 	- [Adobe Fonts](https://fonts.adobe.com/)
 	- [free-font](https://github.com/wordshub/free-font)
+	- [The Type](https://www.thetype.com/2021/04/20199/)
+		- 半个世纪后被弃用的 Vox 字体分类法，我们该如何理解它？
+		- 虽然介绍的是字体分类法，但其中有很多
 - [[Color]]
   collapsed:: true
 	- [NIPPON COLORS - 日本の伝統色](https://nipponcolors.com)
@@ -45,3 +48,6 @@
 		- 不要编写自己的编辑风格指南。创建和维护编辑风格指南需要大量资源，并且会引起巨大冲突。就是说，有团队创造了新术语，而现有的编辑风格指南中没有出现。发生这种情况时，组织可以执行以下任一操作：
 			- 要求编辑风格指南的维护者添加新术语。
 			- 创建并维护你自己的**用法指南**或**样式表**，以将团队的专业词汇的拼写和单词用法编入规章。
+- Chinese Text Layout
+	- [做好中文排版](https://lightcss.com/ppt/2015/typo/#/)
+	- [Requirements for Chinese Text Layout 中文排版需求](https://www.w3.org/TR/clreq/)

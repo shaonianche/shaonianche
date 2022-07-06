@@ -297,7 +297,7 @@
   :block/updated-at 1646891149587}
  {:block/name "everything about design",
   :block/created-at 1649910557293,
-  :block/updated-at 1657006633531}
+  :block/updated-at 1657083746075}
  {:block/name "favorites",
   :block/created-at 1649911291287,
   :block/updated-at 1649911291287}
@@ -412,6 +412,9 @@
  {:block/name "jul 5th, 2022",
   :block/created-at 1656986939284,
   :block/updated-at 1657014569221}
+ {:block/name "jul 6th, 2022",
+  :block/created-at 1657036837032,
+  :block/updated-at 1657036837032}
  {:block/name "jun 13th, 2020",
   :block/created-at 1649992528320,
   :block/updated-at 1649992528320}
