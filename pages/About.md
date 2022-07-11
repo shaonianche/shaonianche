@@ -11,4 +11,4 @@
 - 你可以通过以下方式找到我：
 	- [Telegram](https://t.me/Alone_cmj)
 	- [Twitter](https://twitter.com/Bonjour_Ar)
-	- Email(hi@duanfei.org)
+	- Email(home@duanfei.org)
