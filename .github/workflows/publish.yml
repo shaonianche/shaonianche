@@ -1,4 +1,4 @@
-name: Publish
+name: Publish Gh Page
 
 on:
   push:
