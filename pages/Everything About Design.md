@@ -9,6 +9,8 @@
 	- https://www.designsystemsforfigma.com/
 	- https://open-ui.org
 		- This project is in its infancy. Expect rapid iteration and high-flux while we flesh out the mission and process.
+	- [The branding guidelines archive](https://brandingstyleguides.com/)
+	-
 - [[Checklists]]
   collapsed:: true
 	- https://www.checklist.design/pages-checklists
@@ -17,6 +19,7 @@
 	- https://graphviz.org
 	- https://github.com/mermaid-js/mermaid
 - [[Font]]
+  collapsed:: true
 	- [思源宋体](https://source.typekit.com/source-han-serif/cn/)
 	- [Adobe Fonts](https://fonts.adobe.com/)
 	- [free-font](https://github.com/wordshub/free-font)
