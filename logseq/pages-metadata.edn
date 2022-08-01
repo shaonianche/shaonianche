@@ -463,7 +463,14 @@
  {:block/name "jul 28th, 2022",
   :block/created-at 1658937629246,
   :block/updated-at 1658997784334}
+<<<<<<< HEAD
 >>>>>>> 54f0138ab9b6bdf13870285ca2a00eb2834c4e41
+||||||| parent of 3a1f443 (changes on Mon Aug  1 11:12:32 UTC 2022)
+=======
+ {:block/name "jul 29th, 2022",
+  :block/created-at 1659024028860,
+  :block/updated-at 1659024028860}
+>>>>>>> 3a1f443 (changes on Mon Aug  1 11:12:32 UTC 2022)
  {:block/name "jul 4th, 2022",
   :block/created-at 1656986939174,
   :block/updated-at 1656986939174}
