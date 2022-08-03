@@ -1,0 +1,36 @@
+- [Justice 正义论](https://pll.harvard.edu/course/justice?delta=1)
+- [Lecture 1 - Doing the Right Thing 正确的选择](https://learning.edx.org/course/course-v1:HarvardX+ER22.1x+1T2022/block-v1:HarvardX+ER22.1x+1T2022+type@sequential+block@lecture_01)
+	- 以电车难题为开篇来讨论，正确选择：遵循何种道德原则
+	- Case
+		- 1. 假设你是一名电车司机，轨道尽头有五名工人施工，另一条轨道有一人施工，你是否会开火车到另一条轨道
+		- 2. 你是一名旁观者，看见电车从远处驶来，你旁边有个胖子，推他下去能够挡住电车
+		- 3. 你是一名医生，同时有六个病人，一人重伤五人轻伤，一整天时间医治重症者，五人会死。医治轻症者，一人会死。
+	- 结论：牺牲一人保全五人
+		- 遵循后果主义道德推理：是否道德取决于行为的后果
+			- 后果主义到的推理中最具影响力的分支：功利主义
+		- > 当在讨论case2、3时，人们开始犹豫，人们更倾向于去评判行为本身的动机，以此引出第二种绝对主义方式的道德推理
+		- 绝对主义道德推理认为：是否道德取决于特定的绝对道德准则，取决于绝对明确的义务和权利，而不管后果如何
+			- 康德的道德绝对主义
+	- [Lecture 2 - The Lifeboat Case 女王诉杜德利与斯蒂芬案](https://learning.edx.org/course/course-v1:HarvardX+ER22.1x+1T2022/block-v1:HarvardX+ER22.1x+1T2022+type@sequential+block@82885a3d02a1484292395f4bab980333)
+		- 功利主义哲学
+			- https://en.wikipedia.org/wiki/Utilitarianism
+			- 最大化功利：为最多的人谋求最大的幸福
+		- The Queen vs. Dudley and Stephens (1884) (The Lifeboat Case) 女王诉杜德利与斯蒂芬案
+			- https://en.wikipedia.org/wiki/R_v_Dudley_and_Stephens
+		- The Case of the Speluncean Explorers 洞穴奇案
+			- https://en.wikipedia.org/wiki/The_Case_of_the_Speluncean_Explorers
+		- 讨论
+			- 1. 某些基本权利我们有吗？又是从何而来
+				- 谋杀是绝对错误的
+			- 2. 为什么只要经过了特定程序，公平的程序，不管任何结果都可以视为是正当的呢？
+				- 抽签决定谁应该死去
+			- 3. 征得当事人同意有何道德作用
+				- 如果当事人愿意以自己的生命拯救其他几个人
+	- Lecture 3 - Utilitarianism: Jeremy Bentham 功利主义
+		- 福特平托案
+			- 成本效益计算：人的生命如何定价
+		- 对功利主义的异议
+			- 1. 功利主义是否充分尊重个人和少数的权利
+			- 2. 所有的价值都是可以用金钱来衡量的吗
+	- Reference
+	-
