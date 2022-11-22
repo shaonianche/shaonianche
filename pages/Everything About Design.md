@@ -5,7 +5,6 @@
   collapsed:: true
 	- Figma
 - [[Design Systems]]
-  collapsed:: true
 	- https://www.designsystemsforfigma.com/
 	- https://open-ui.org
 		- This project is in its infancy. Expect rapid iteration and high-flux while we flesh out the mission and process.
