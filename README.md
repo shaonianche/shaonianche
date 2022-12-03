@@ -1,8 +1,5 @@
 ## Hi! I'm duanfei, Please listen to ...
-<a href="https://github.com/akellbl4/spotify-badge">
-   <img src="https://spotify-badge-fa5rr2u5w-shaonianche.vercel.app/api/now-playing.svg" width="480" height="70">
-</a>
-<br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ht2k3oyrew344uvb77p3kn31v&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 - **Working :** Product Manager
 - **Learning :** Like [Reading](https://www.douban.com/people/137566058/)
