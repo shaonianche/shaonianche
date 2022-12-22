@@ -15,3 +15,5 @@ jobs:
 
       - name: AutoCorrect
         uses: huacnlee/autocorrect-action@main
+        with:
+          args: --fix .
