@@ -1,0 +1,29 @@
+name: docs lint
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/docs_lint.yml'
+      - '**.md'
+
+  pull_request:
+    paths:
+      - '.github/workflows/docs_lint.yml'
+      - '**.md'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    name: docs-lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check source code
+        uses: actions/checkout@main
+
+      - name: AutoCorrect
+        uses: huacnlee/autocorrect-action@main
