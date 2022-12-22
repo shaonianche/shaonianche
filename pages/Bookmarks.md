@@ -1,5 +1,5 @@
 - [DigitalOcean Community](https://www.digitalocean.com/community)
-	- DigitalOcean 公司的官方社区，写了很多关于Linux操作的文章。
+	- DigitalOcean 公司的官方社区，写了很多关于 Linux 操作的文章。
 - [The Cloudflare Blog](https://blog.cloudflare.com)
 	- Cloudflare 的官方博客
 - [Bookmarks - Anthony Fu](https://antfu.me/bookmarks)

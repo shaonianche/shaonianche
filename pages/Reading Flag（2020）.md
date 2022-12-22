@@ -24,7 +24,7 @@ title: Reading Flag（2020）
 
 - DONE [[波拉尼奥：最后的访谈]]
 
-- TODO [[Web信息架构]]
+- TODO [[Web 信息架构]]
 
 - DONE [[有限与无限的游戏]]
 

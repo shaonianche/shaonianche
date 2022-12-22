@@ -17,7 +17,7 @@ title: Reading Other
 	 - TODO 一生的旅程
 
 - Linus Torvalds
-	 - TODO Just for fun （只是为了好玩）
+	 - TODO Just for fun（只是为了好玩）
 
 - 推荐资源
 	 - https://www.gatesnotes.com/Books
@@ -48,7 +48,7 @@ title: Reading Other
 	 - TODO 微观经济学
 		 - https://book.douban.com/subject/3719533/
 
-	 - TODO “错误”的行为
+	 - TODO “错误” 的行为
 		 - https://book.douban.com/subject/26697774/
 
 	 - TODO 新制度经济学：一个交易费用分析范式

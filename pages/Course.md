@@ -2,7 +2,7 @@
 - {{embed [[CS]]}}
 - [study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) [[中文课程]]
 - [[MIT]] [6.0001: Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-	- (SICP)计算机程序的构造与解释
+	- (SICP) 计算机程序的构造与解释
 - [[MIT]][6.042: Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 	- 计算机科学中的数学
 - [[MIT]][6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)

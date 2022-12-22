@@ -4,7 +4,7 @@ title: Github start
 
 - [[Tools]]
 	- [logseq: 笔记管理软件](https://github.com/logseq/logseq.git)
-	- [Awesome Mac: Mac工具](https://github.com/SuJunming/mac-awesomeTools)
+	- [Awesome Mac: Mac 工具](https://github.com/SuJunming/mac-awesomeTools)
 	- [awesome-design-toolkit](https://github.com/gztchan/awesome-design#toolkit)
 		- 设计工具集合 #Notes
 	- [whimsical](https://whimsical.com/examples-D9W9sUcDdboucuZqt87jVK)
@@ -17,16 +17,16 @@ title: Github start
 	- [metabase](https://github.com/metabase/metabase) [[数据分析]]
 		- 开源商业分析软件 #Notes
 	- [strapi](https://github.com/strapi/strapi)
-	- 开源的CMS系统 #Notes
+	- 开源的 CMS 系统 #Notes
 	- [public-api](https://github.com/public-apis/public-apis) [[API]]
-		- 开源API列表 #Notes
+		- 开源 API 列表 #Notes
 	- [common-regex](https://github.com/cdoco/common-regex) [[正则表达式]]
 		- 正则表达式库 #Notes
 	- [spacemacs](https://github.com/syl20bnr/spacemacs) [[Emacs]]
-		- Emacs 库，自动配置Emacs  #Notes  #Emacs
+		- Emacs 库，自动配置 Emacs  #Notes  #Emacs
 	- [计算机合成的人脸](https://thispersondoesnotexist.com/) [[人脸合成]]
 	- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
-		- #Google #Google数据库
+		- #Google #Google 数据库
 - [[UI Kit]]
 	- [tabler: Dashboard UI Kit](https://github.com/tabler/tabler)
 - [[Web]]
@@ -54,7 +54,7 @@ title: Github start
 - [[Network]]
 	- [科学上网](https://github.com/haoel/haoel.github.io)
 	- [网络测试](https://www.comparitech.com/privacy-security-tools/blockedinchina/) [[GFW]]
-		- 用于测试一个网站是否被GFW屏蔽
+		- 用于测试一个网站是否被 GFW 屏蔽
 - [[Math]]
 	- [betterexplained](https://betterexplained.com/)
 		- 讲解数学概念的网站 #Math #Notes

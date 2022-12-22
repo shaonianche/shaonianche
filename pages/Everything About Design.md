@@ -37,16 +37,16 @@
 	- https://www.pinterest.com/
 - [[pm-Interviews]]
   collapsed:: true
-	- [纯银16年出的产品面试题](https://coffee.pmcaff.com/article/487940211717248/pmcaff?utm_source=forum)
+	- [纯银 16 年出的产品面试题](https://coffee.pmcaff.com/article/487940211717248/pmcaff?utm_source=forum)
 	- [Product Interview: (Hypothetical) Figma is losing customers at 6–7% weekly. Figure out the reason & prioritize solutions.](https://bootcamp.uxdesign.cc/product-interview-rca-solution-design-question-figma-is-losing-customers-at-6-7-weekly-a9c1eb11a236)
 - source
 	- https://www.framer.com/
 - write
-	- [[Google技术写作]]
+	- [[Google 技术写作]]
 	  collapsed:: true
 		- 你可能已经熟悉通用的编辑样式指南（例如《[芝加哥样式手册》](https://www.chicagomanualofstyle.org/home.html)或《 [牛津大学样式指南》](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)）。但是，你的工程团队应使用专门从事技术写作的编辑风格指南。所以，我们建议选择以下选项之一：
 			- 在[谷歌的开发者文档风格指南](https://developers.google.com/style)规定了谷歌有关的项目，任何人书写的开发者文档的编辑准则。
-			- 《[Microsoft写作风格指南》](https://docs.microsoft.com/en-us/style-guide/welcome/)为编写技术文档的任何人提供了指南。
+			- 《[Microsoft 写作风格指南》](https://docs.microsoft.com/en-us/style-guide/welcome/)为编写技术文档的任何人提供了指南。
 		- 不要编写自己的编辑风格指南。创建和维护编辑风格指南需要大量资源，并且会引起巨大冲突。就是说，有团队创造了新术语，而现有的编辑风格指南中没有出现。发生这种情况时，组织可以执行以下任一操作：
 			- 要求编辑风格指南的维护者添加新术语。
 			- 创建并维护你自己的**用法指南**或**样式表**，以将团队的专业词汇的拼写和单词用法编入规章。
