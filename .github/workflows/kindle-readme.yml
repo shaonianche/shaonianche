@@ -9,7 +9,6 @@ on:
     paths:
       - ./kindle/kindle.py
       - ./kindle/requirements.txt
-  workflow_dispatch:
 
 env:
   # change env here

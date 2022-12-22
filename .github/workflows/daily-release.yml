@@ -1,7 +1,6 @@
 name: Daily Release
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "59 23 * * *"
 
@@ -18,15 +17,15 @@ jobs:
     outputs: # Shares the action’s outputs to the Next jobs
       created: ${{ steps.daily-version.outputs.created }}
       version: ${{ steps.daily-version.outputs.version }}
-      
+
   Next:
     needs: Tag
     if: needs.Tag.outputs.created
     runs-on: ubuntu-latest
     steps:
       - run: echo It looks like ${{ needs.Tag.outputs.version }} was created!
-          
-          
+
+
       - uses: fregante/release-with-changelog@v3
         with:
           token: ${{ secrets.G_TOKEN }}

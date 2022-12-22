@@ -1,21 +1,9 @@
-name: docs lint
+name: Docs lint
 
 on:
   push:
     branches:
       - main
-    paths:
-      - '.github/workflows/docs_lint.yml'
-      - '**.md'
-
-  pull_request:
-    paths:
-      - '.github/workflows/docs_lint.yml'
-      - '**.md'
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
 
 jobs:
   lint:
