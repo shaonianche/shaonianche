@@ -1,7 +1,6 @@
 - ### Hi! I'm duanfei, Please listen to ...
-  <a href="https://github.com/shaonianche/spotify-badge">
-     <img src="https://spotify-badge-ten.vercel.app/api/now-playing" >
-  </a>
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ht2k3oyrew344uvb77p3kn31v&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 -
 - 这是 @FriendsA 在北京生活的第九个年头，人生中三分之一的时光在这里度过，我并非很喜欢这个城市，仅仅是因为我很少去其他地方
 -
