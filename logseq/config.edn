@@ -1,19 +1,8 @@
 {:meta/version 1
+
  :preferred-workflow :now
-
- ;; The app will ignore those directories or files.
- ;; E.g. "/archived" "/test.md"
- :hidden []
-
- ;; Specify the date on which the week starts.
- ;; Goes from 0 to 6 (Monday to Sunday), default to 6
+ :preferred-format "Markdown"
  :start-of-week 0
- ;; When creating the new journal page, the app will use your template content here.
- ;; Example for Markdown users: "## [[Work]]\n###\n## [[Family]]\n###\n
- ;; Example for Org mode users: "** [[Work]]\n***\n** [[Family]]\n***\n
- :default-templates
- {:journals ""}
- :ui/enable-tooltip? true
  :ui/show-brackets? true
  :feature/enable-block-timestamps? false
  ;; Whether to show command doc on hover
@@ -22,7 +11,9 @@
  ;; Whether to show empty bullets for non-document mode (the default mode)
  :ui/show-empty-bullets? false
  :outliner/block-title-collapse-enabled? true
- 
+ :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@1.26.4/custom.css');"
+ :custom-js-url "@import url('https://raw.githubusercontent.com/pengx17/knowledge-garden/main/logseq/custom.js');"
+
  ;; Enable flashcards
  :feature/enable-flashcards? false
 
@@ -79,16 +70,16 @@
                          :style {:width 200
                                  :margin-right 4
                                  :cursor \"default\"}}] [:small \"$1/$2\"]]"}
-   :markdown/version 2
-   :ref/default-open-blocks-level 3
-   :ref/linked-references-collapsed-threshold 50
-   :favorites ("Blog" "About" "Weekly" "Articles" "Bookmarks")
-   :graph/settings {:journal? false, :builtin-pages? false}
-   :publishing/all-pages-public? true
-   :editor/logical-outdenting? true
-   :feature/enable-timetracking? false
-   :feature/enable-journals? true
-   :default-home {:page "journals"}
+ :markdown/version 2
+ :ref/default-open-blocks-level 4
+ :ref/linked-references-collapsed-threshold 50
+ :favorites ("Blog" "About" "Weekly" "Articles" "Bookmarks")
+ :graph/settings {:journal? false, :builtin-pages? false}
+ :publishing/all-pages-public? true
+ :editor/logical-outdenting? true
+ :feature/enable-timetracking? false
+ :feature/enable-journals? true
+ :default-home {:page "journals"}
  :zotero/settings-v2 {"default" {:type-id "9395272", :prefer-citekey? false, :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :notes-block-text "[[Notes]][[Zotero]]", :page-insert-prefix "@", :extra-tags "", :zotero-data-directory ""}}
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd"}
