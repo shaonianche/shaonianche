@@ -77,7 +77,7 @@
  :graph/settings {:journal? false, :builtin-pages? false}
  :publishing/all-pages-public? true
  :editor/logical-outdenting? true
- :feature/enable-timetracking? false
+ :feature/enable-timetracking? true
  :feature/enable-journals? true
  :default-home {:page "journals"}
  :zotero/settings-v2 {"default" {:type-id "9395272", :prefer-citekey? false, :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :notes-block-text "[[Notes]][[Zotero]]", :page-insert-prefix "@", :extra-tags "", :zotero-data-directory ""}}
