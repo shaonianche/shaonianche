@@ -7,9 +7,9 @@
 - **Favourite :** A passion for [running](https://run.duanfei.org/)
 
 <!--START_SECTION:my_kindle-->
-<details> <summary> <strong> Kindle Reading List </strong> </summary> <br> 
+<details> <summary> <strong> Kindle Reading List </strong> </summary> <br>
 
- | ID | Title | Authors | Date | 
+ | ID | Title | Authors | Date |
  | ---- | ---- | ---- | ---- |
 | 1 | [](https://www.amazon.com/dp/B0888SDY9Y) |  | 2022-06-21 |
 | 2 | [](https://www.amazon.com/dp/B01HPYNBXG) |  | 2022-06-06 |
