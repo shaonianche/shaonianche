@@ -1,0 +1,1 @@
+- On [[2023-02-07]] at 11:36 AM Readwise synced 22 highlights from 3 books.
