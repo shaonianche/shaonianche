@@ -73,7 +73,7 @@
  :markdown/version 2
  :ref/default-open-blocks-level 4
  :ref/linked-references-collapsed-threshold 50
- :favorites ("Blog" "About" "Weekly" "Articles" "Bookmarks")
+ :favorites ["Contents" "Blog" "Weekly" "Articles" "Readwise" "Bookmarks"]
  :graph/settings {:journal? false, :builtin-pages? false}
  :publishing/all-pages-public? true
  :editor/logical-outdenting? true
