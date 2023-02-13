@@ -1,4 +1,5 @@
-## Hi! I'm duanfei, Please listen to ...
+## Hi! I'm duanfei, Please listen to
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ht2k3oyrew344uvb77p3kn31v&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 - **Working :** Product Manager
@@ -11,7 +12,7 @@
 
  | ID | Title | Authors | Date |
  | ---- | ---- | ---- | ---- |
-| 1 | [](https://www.amazon.com/dp/B0888SDY9Y) |  | 2022-06-21 |
-| 2 | [](https://www.amazon.com/dp/B01HPYNBXG) |  | 2022-06-06 |
+| 1 | [The Witcher Universe](https://www.amazon.com/dp/B0888SDY9Y) |  | 2022-06-21 |
+| 2 | [Pathological](https://www.amazon.com/dp/B01HPYNBXG) |  | 2022-06-06 |
 
 <!--END_SECTION:my_kindle-->
