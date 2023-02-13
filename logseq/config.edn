@@ -11,8 +11,7 @@
  ;; Whether to show empty bullets for non-document mode (the default mode)
  :ui/show-empty-bullets? false
  :outliner/block-title-collapse-enabled? true
- ;; :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@1.26.4/custom.css');"
- ;; :custom-js-url "@import url('https://raw.githubusercontent.com/pengx17/knowledge-garden/main/logseq/custom.js');"
+ :custom-css-url "@import url('https://logseq.catppuccin.com/ctp-mocha.css');"
 
  ;; Enable flashcards
  :feature/enable-flashcards? false
