@@ -1,6 +1,6 @@
-title:: Go语言学习笔记：学习资料汇总
+title:: Go 语言学习笔记：学习资料汇总
 author:: [[Soul Orbit]]\
-full-title:: "Go语言学习笔记：学习资料汇总"\
+full-title:: "Go 语言学习笔记：学习资料汇总"\
 type:: [[Readwise]]\
 category:: #articles\
 url:: https://r12f.com/posts/learning-golang-essential-learning-materials/#more\
