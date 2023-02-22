@@ -4,9 +4,7 @@ cd "$(
   pwd
 )" && cd ..
 
-autocorrect --fix */*.md
-
-git add --all
+git add --all 
 git commit -m "changes on $(date)"
-git pull --all
+git pull 
 git push
