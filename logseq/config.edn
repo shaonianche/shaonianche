@@ -79,7 +79,7 @@
  :editor/logical-outdenting? true
  :feature/enable-timetracking? true
  :feature/enable-journals? true
- :default-home {:page "journals"}
+ :default-home {:page "Contents"}
  :zotero/settings-v2 {"default" {:type-id "9395272", :prefer-citekey? false, :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :notes-block-text "[[Notes]][[Zotero]]", :page-insert-prefix "@", :extra-tags "", :zotero-data-directory ""}}
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd"
