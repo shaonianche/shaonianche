@@ -4,7 +4,7 @@
 	- type: [[周报]] [[Weekly]]
 	- name:
 -
-### Journals Page
+- ## Journals Page
 	- {{query (between [[ ]] [[ ]])}}
 -
-- ### Brief
+- ## Brief
