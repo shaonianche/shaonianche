@@ -4,7 +4,7 @@ cd "$(
   pwd
 )" && cd ..
 
-git add --all 
+git add --all
 git commit -m "changes on $(date)"
-git pull 
+git pull --rebase
 git push
