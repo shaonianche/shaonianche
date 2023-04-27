@@ -19,6 +19,7 @@ title: Articles
 - [约定式提交](https://www.conventionalcommits.org/zh-hans/v1.0.0-beta.4/)
 	- 描述了版本发布的规范 #版本发布
 - [基础概率论](https://seeing-theory.brown.edu/cn.html#firstPage) [[Books]]
+  id:: 63fd8028-b041-4b59-961a-61230fe6300e
 	- #未读
 - [数据可视化指南](https://www.ui.cn/detail/477349.html)
 	- 介绍了基础统计 #未读
