@@ -1,0 +1,20 @@
+- [figmas-approach-to-product-requirement-docs](https://coda.io/@yuhki/figmas-approach-to-product-requirement-docs)
+- Background
+- How it’s structured
+	- 描述问题、解決方案、发布节点
+	- Problem Alignment: Where the PM clearly articulates the key problem we want to solve
+	- Solution Alignment: Where the team shares the proposed solution by embedding Figma design files and scoping features
+	- Launch Readiness: Where the cross-functional team outlines dependencies for launch
+- Problem Alignment
+	- 定义问题，该问题以怎样的逻辑定义出来的
+	- Ask “why” one more time than you think you need. Don’t just explain why you’re proposing this project; ask why the problem is important in the first place. Or why the problem even exists, to ensure you’re not simply describing a symptom of a deeper problem.
+	- Optimize for eliciting a meaningful reaction. Sometimes a reader won’t give great feedback on your problem because it “sounds good in the abstract,” but it’s unclear what core assumptions underlie this problem, or how severe you think the problem really is (since, at some level, everything can be described as a problem). This is why the “High-level Approach” section is important—it can quickly give a sense of scope and lets the reader imagine what a prospective solution might look like, which for many is easier to react to.
+	- State all your goals, even those immeasurable. Sometimes, the insistence on having only perfectly measurable goals and KPIs prevents you from clearly explaining what you’re trying to achieve. Simply describing what you want users to think, feel, and do can be an important first step in defining what success looks like.
+- Solution Alignment
+	- 解決方案：定义用户场景和产品功能，针对什么样的用户场景设计了什么样的功能。
+	- User flows are the easiest way for readers to understand the project because it shows how the customer will ultimately experience it.
+	- Key features is a quick way for other functions like marketing or product education to understand how we might talk about the initiative with our customers.
+- Launch Readiness
+	- 发布准备：功能是否需要文案、测试数据集、操作文档、FAQ等说明
+	- In this last section, we create a checklist of considerations you want all teams to make before actually launching a feature. Your project may have unintended legal consequences or important marketing implications, and this list is intended to flag the right stakeholders at the right time—and define criteria for launch readiness—so everyone can plan accordingly, well ahead of time.
+	- ![Frame.png](https://codaio.imgix.net/docs/1OS5N8pQpx/blobs/bl---enR2DpjB/0fd9eaab0ccfc11ac09c52cc317cf855f691de4c768e13e82c4740baabe55e82471970c60f6fd99ffecdd66db0cbd1d1e0c46bb4acc0b5ce2a53d32b7727a5dc72e4957e15e7145daaf1baed78750079661f8d528824094424bcb58a25be8552411f8302?auto=format%2Ccompress&fit=max)
