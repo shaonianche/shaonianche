@@ -83,4 +83,5 @@
  :zotero/settings-v2 {"default" {:type-id "9395272", :prefer-citekey? false, :attachments-block-text "[[Attachments]]", :zotero-linked-attachment-base-directory "", :notes-block-text "[[Notes]][[Zotero]]", :page-insert-prefix "@", :extra-tags "", :zotero-data-directory ""}}
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd"
- :editor/preferred-pasting-file? false}
+ :editor/preferred-pasting-file? false
+ :feature/enable-whiteboards? false}
