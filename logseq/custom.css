@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code");
-@import url("https://cdn.jsdelivr.net/gh/adobe-fonts/source-sans@3.046R/source-sans-3VF.css");
+@import url("https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axrh9kiyeygj/b/font/o/SourceHanSerifCN-VF%2Fresult.css");
 @font-face {
   font-family: "Source Han Sans VF";
   font-weight: 200 900;
@@ -15,7 +15,7 @@
 :root {
   --ct-text-size: 16px;
   --ct-line-height: 1.6;
-  --ls-font-family: "Source Sans 3 VF", "Source Han Sans VF",
+  --ls-font-family: "Source Han Serif CN VF",
     sans-serif;
   --ct-page-title-font-family: var(--ls-font-family);
   --ct-code-font-family: "Fira Code", monospace;
