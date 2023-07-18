@@ -14,6 +14,8 @@
  ;; :custom-css-url "@import url('https://logseq.catppuccin.com/ctp-mocha.css');"
  ;; :custom-css-url "@import url('https://logseq.catppuccin.com/ctp-latte.css');"
 
+ :orphan-pages?   false
+ 
  ;; Enable flashcards
  :feature/enable-flashcards? false
 
