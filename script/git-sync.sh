@@ -1,10 +1,19 @@
 #!/usr/bin/env bash
-cd "$(
-  cd "$(dirname -- "$0")"
-  pwd
-)" && cd ..
 
-git add --all
-git commit  -m -s "changes on $(date)"
+set -e
+
+PROJECT_ENV="$HOME/workspace/shaonianche/"
+
+cd "$PROJECT_ENV"
+
+CHANGED_FILES=$(git diff-index --cached HEAD --name-only --relative)
+if [ -n "$CHANGED_FILES" ]; then
+  git add -- "${CHANGED_FILES}"
+fi
+
+MESSAGE="changes on $(date)"
+
+git commit -m "${MESSAGE}"
+
 git pull --rebase
-git push
+git push origin main
