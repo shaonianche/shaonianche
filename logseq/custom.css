@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code");
-@import url("https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axrh9kiyeygj/b/font/o/SourceHanSerifCN-VF%2Fresult.css");
+@import url("https://ik.imagekit.io/xxrir1fph/SourceHanSerifCN-VF/result.css?updatedAt=1690796929328");
 @font-face {
   font-family: "Source Han Sans VF";
   font-weight: 200 900;
@@ -24,7 +24,7 @@
 html,
 body {
   font-size: var(--ct-text-size);
-  font-family: var(--ls-font-family);
+  --ls-font-family: "Source Han Serif CN VF",
   overscroll-behavior-y: none;
   -webkit-font-smoothing: auto;
   line-height: var(--ct-line-height);
