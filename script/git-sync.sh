@@ -2,7 +2,7 @@
 
 set -e
 
-PROJECT_ENV="$HOME/workspace/shaonianche/"
+PROJECT_ENV="$HOME/workspace/github/shaonianche/"
 
 cd "$PROJECT_ENV"
 
