@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [2019-05-16 前端性能优化（一）性能评估 ~ ThaddeusJiang](https://omnivore.app/me/2019-05-16-thaddeus-jiang-18c664ee572)
+	  collapsed:: true
+	  site:: [thaddeusjiang.com](https://thaddeusjiang.com/2019-05-16-qian-duan-xing-nen-you-hua-yi-xing-nen-ping-gu)
+	  date-saved:: [[2023-12-14]]
+	  date-published:: [[2019-05-16]]
+		- ### Highlights
+		  collapsed:: true
+			- > 使用 incognito 模式主要是为了避免 Chrome 插件对测试的影响。 对于准备测试环境，还有一些其他方法。查看 
+			  > 
+			  ##  [⤴️](https://omnivore.app/me/2019-05-16-thaddeus-jiang-18c664ee572#63bc5aee-88c5-46e6-8fef-06d53999651d)
 	- [2023年诺贝尔经济学奖得主：什么让女性难以兼顾事业和家庭？-虎嗅网](https://omnivore.app/me/2023-18b186f267b)
 	  collapsed:: true
 	  site:: [huxiu.com](https://www.huxiu.com/article/2155987.html?f=rss)
