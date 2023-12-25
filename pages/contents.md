@@ -1,5 +1,6 @@
 ## Archives
 	- [[Journals]]
+	- [[Omnivore]]
 	- [[Readwise]]
 - ## About
 	- ### Hi! I'm duanfei, Please listen to ...

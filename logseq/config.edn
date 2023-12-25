@@ -14,8 +14,14 @@
  ;; :custom-css-url "@import url('https://logseq.catppuccin.com/ctp-mocha.css');"
  ;; :custom-css-url "@import url('https://logseq.catppuccin.com/ctp-latte.css');"
 
- :orphan-pages?   false
- 
+ ;; Graph view configuration.
+ ;; Example usage:
+ :graph/settings
+ {:orphan-pages?   true   ; Default value: true
+  :builtin-pages?  false  ; Default value: false
+  :excluded-pages? false  ; Default value: false
+  :journal?        true} ; Default value: false
+
  ;; Enable flashcards
  :feature/enable-flashcards? false
 
@@ -75,8 +81,7 @@
  :markdown/version 2
  :ref/default-open-blocks-level 4
  :ref/linked-references-collapsed-threshold 50
- :favorites ["contents" "blog" "weekly" "articles" "omnivore" "readwise" "bookmarks"]
- :graph/settings {:journal? false, :builtin-pages? false}
+ :favorites ["blog" "weekly" "articles" "contents" "omnivore" "readwise" "bookmarks"]
  :publishing/all-pages-public? true
  :editor/logical-outdenting? true
  :feature/enable-timetracking? true

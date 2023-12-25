@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [爲什麼現代 Linux 不再需要 sbin（bin merge 的意義） | YHNdnzj's Blog](https://omnivore.app/me/linux-sbin-bin-merge-yh-ndnzj-s-blog-18b5f36b45a)
+	  collapsed:: true
+	  site:: [YHNdnzj&#39;s Blog](https://yhndnzj.com/2023/09/24/why-we-dont-need-sbin-anymore)
+	  author:: Mike Yuan
+	  date-saved:: [[2023-10-24]]
+	  date-published:: [[2023-09-24]]
+		- ### Highlights
+		  collapsed:: true
+			- > ### 「權限」究竟適用於誰
+			  > 
+			  要回答「sbin 是否還有意義」這個問題，有一個更底層的問題必須先被回答：「權限」事實上/應該作用於誰？思考下面的例子：當我們運行 fdisk 的時候，是我們沒有「運行命令」的權限，還是命令所要訪問的 device node 我們無權訪問？當我們編輯系統配置的時候，是沒有執行編輯器的權限，還是編輯器沒有向某個文件寫入的權限？我想答案很明晰：「命令本身」並沒有/不受所謂的權限限制，本質在於其需要訪問的資源。 [⤴️](https://omnivore.app/me/linux-sbin-bin-merge-yh-ndnzj-s-blog-18b5f36b45a#66d4adbc-7328-46e0-ae84-922e7acf6c1c)
 	- [2019-05-16 前端性能优化（一）性能评估 ~ ThaddeusJiang](https://omnivore.app/me/2019-05-16-thaddeus-jiang-18c664ee572)
 	  collapsed:: true
 	  site:: [thaddeusjiang.com](https://thaddeusjiang.com/2019-05-16-qian-duan-xing-nen-you-hua-yi-xing-nen-ping-gu)

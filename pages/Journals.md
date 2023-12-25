@@ -1,2 +1,2 @@
-- {{query (between -14d today)}}
+- {{query (between -365d today)}}
   query-table:: true
