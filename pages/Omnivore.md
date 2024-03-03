@@ -1,4 +1,11 @@
 ## 🔖 Articles
+	- [What Every Programmer Should Know About Memory](https://omnivore.app/me/cpumemory-18cf2b84eb6)
+	  collapsed:: true
+	  author:: Ulrich Drepper Red Hat, Inc. drepper@redhat.com
+	  date-saved:: [[2024-01-10]]
+		- ### Highlights
+		  collapsed:: true
+			- > As CPU cores become both faster and more numerous, the limiting factor for most programs is now, and will be for some time, memory access. Hardware designers have come up with ever more sophisticated memory handling and acceleration techniques–such as CPU caches–but these cannot work optimally without some help from the programmer. Unfortunately, neither the structure nor the cost of using the memory subsystem of a computer or the caches on CPUs is well understood by most programmers. This paper explains the structure of memory subsys- tems in use on modern commodity hardware, illustrating why CPU caches were developed, how they work, and what programs should do to achieve optimal performance by utilizing them. [⤴️](https://omnivore.app/me/cpumemory-18cf2b84eb6#a9a8f670-5716-4f08-8430-c6e9c4c77b24)
 	- [【Rust 研学】 | Iceoryx2 : 汽车领域关键中间件迈向 Rust](https://omnivore.app/me/rust-iceoryx-2-rust-18d5452c1d5)
 	  collapsed:: true
 	  author:: 张汉东
