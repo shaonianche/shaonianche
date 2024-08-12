@@ -1,6 +1,6 @@
 ## Hi! I'm duanfei, Please listen to
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ht2k3oyrew344uvb77p3kn31v&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ht2k3oyrew344uvb77p3kn31v&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ht2k3oyrew344uvb77p3kn31v&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=276a24&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 - **Working :** Product Manager
 - **Learning :** Like [Reading](https://www.douban.com/people/137566058/)
