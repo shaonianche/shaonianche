@@ -1,8 +1,34 @@
 ## 🔖 Articles
+	- [TCP 延迟分析 | 卡瓦邦噶！](https://omnivore.app/me/tcp-191db3bf433)
+	  collapsed:: true
+	  site:: [kawabangga.com](https://www.kawabangga.com/posts/6378)
+	  author:: unknown
+	  date-saved:: [[2024-09-10]]
+		- ### Highlights
+		  collapsed:: true
+			- > Ping 的延迟指的是 RTT, Round Trip Time. 即一个包发过去，对方发一个包回来，总延迟是 200ms。一种误解是认为 ping 测得的延迟是 200ms，所以一个请求发过去是 200ms，响应发回来是 200ms，总延迟是 400ms。如果仔细想一想的话，我们在发送端测量延迟的时候，没有办法只测量一个包从发送端达到接收端的延迟。除非是让接收端在回复的时候记录收到包的时间？但是发送端和接收端的时钟可能不一致，如果精确测量的话，协议上就要依赖不同的机器时钟对齐。直接让总时间除以 2？这也意义不大，因为包去和回的路线不一定一样，延迟也不一定是一半一半。所以**我们在讨论延迟的时候，都是默认 RTT**。 [⤴️](https://omnivore.app/me/tcp-191db3bf433#72375542-d3cd-4bbe-92ef-7d40de67251b)
+	- [网络中的环路和防环技术 | 卡瓦邦噶！](https://omnivore.app/me/-191db35b2e1)
+	  collapsed:: true
+	  site:: [kawabangga.com](https://www.kawabangga.com/posts/6291)
+	  author:: unknown
+	  date-saved:: [[2024-09-10]]
+		- ### Highlights
+		  collapsed:: true
+			- > TTL 的设计原本是为了**防止网络出现环路**，限制一个包能被转发的最大次数。每次转发都会 -1，最后到 0 的时候，如果包还没有到达目的地，设备就会丢弃这个包（然后可能发一个 ICMP 告诉 Src IP 这个包因为 TTL 减到 0 而寿终正寝了） [⤴️](https://omnivore.app/me/-191db35b2e1#275a6ac2-4b68-4ca3-bbbe-2104e6f811bf)
+	- [理解网络的分层模型 | 卡瓦邦噶！](https://omnivore.app/me/-191dafc1068)
+	  collapsed:: true
+	  site:: [kawabangga.com](https://www.kawabangga.com/posts/6295)
+	  author:: unknown
+	  date-saved:: [[2024-09-10]]
+		- ### Highlights
+		  collapsed:: true
+			- > 这样很多问题其实也就不是问题了。比如「粘包」问题，是一个被人诟病的面试题。它是问「如果使用 TCP 发送多个包，这些包粘在一起无法分开怎么办？」这么问出来就显得提问者不懂 TCP，因为 TCP 的设计就是**帮助用户发送一个字节流**，它本身就没有「包」这个概念，所有的数据就是要「粘」在一起发送的。这并不能说是一个问题，而是 TCP 本身的特性。如果你使用 TCP 协议，你就要在这之上设计自己的协议，把自己的协议设计成可以让 TCP 使用「流」的方式传送。比如，HTTP 协议是使用 `\r\n\r\n` 来分割来 Header 和 Body，然后通过读 Header 中 `Content-length` 的长度来判断 Body 要读到那里；Redis 协议大致是先用一个数字表示内容的长度，读完了的话，再读就是下一个请求了。 [⤴️](https://omnivore.app/me/-191dafc1068#d1943514-bbb9-4fd3-b11d-d2dcbd63344b)
 	- [为什么 中文 不 需要 空格](https://omnivore.app/me/-191da04c1e3)
 	  collapsed:: true
+	  site:: [微信公众平台](https://mp.weixin.qq.com/s/AL66AhcLjGbyEnbNvyJ2FA)
 	  author:: 科学大院
 	  date-saved:: [[2024-09-10]]
+	  date-published:: [[2024-09-09]]
 		- ### Highlights
 		  collapsed:: true
 			- > 英语作为一种字母书写系统，每个字母表示一个音素，通常由多个字母组成一个单词。英语文本用空格清晰而明确地标记了一个词的起始和结束位置，即**词边界**。中文就不需要标记词边界么？
@@ -10,8 +36,10 @@
 			  中文是一种典型的表意书写系统，每个汉字表示一个音节或语素。中文文本由连续的汉字组成，不同的词之间没有用空格分隔。大多数中文词可以用一到两个汉字表示，词长较短且变化较小（平均词长为1.40个汉字，标准差为0.57）。因此，中文读者在阅读时容易预测词的长度，从而更快识别词的开始和结束位置，即**中文词边界位置的不确定性较小**。 [⤴️](https://omnivore.app/me/-191da04c1e3#9d7590f7-11b2-49da-9164-b26a24de3529)
 	- [想必多年后，那字也被沙尘抹去的石碑，依然屹立 – Telegraph](https://omnivore.app/me/telegraph-191d9e14c1d)
 	  collapsed:: true
+	  site:: [Telegraph](https://telegra.ph/%E6%83%B3%E5%BF%85%E5%A4%9A%E5%B9%B4%E5%90%8E%E9%82%A3%E5%AD%97%E4%B9%9F%E8%A2%AB%E6%B2%99%E5%B0%98%E6%8A%B9%E5%8E%BB%E7%9A%84%E7%9F%B3%E7%A2%91%E4%BE%9D%E7%84%B6%E5%B1%B9%E7%AB%8B-08-30)
 	  author:: unknown
 	  date-saved:: [[2024-09-10]]
+	  date-published:: [[2024-08-30]]
 		- ### Highlights
 		  collapsed:: true
 			- > 以乐观与开放的态度去接受新事物，总是一个伟大理念与事物的开始。   
@@ -21,13 +49,16 @@
 			  当你想做对的事情的时候，那就意味着已经有人做过这件事情，证明他是对的了。 [⤴️](https://omnivore.app/me/telegraph-191d9e14c1d#63b24f52-b4da-4e4e-85b2-ef0e9f4ad144)
 	- [After six years in China, our bureau chief says farewell](https://omnivore.app/me/after-six-years-in-china-our-bureau-chief-says-farewell-1919c2913ae)
 	  collapsed:: true
+	  site:: [archive.ph](https://archive.ph/Dc6U5)
 	  author:: unknown
 	  date-saved:: [[2024-08-29]]
+	  date-published:: [[2024-08-29]]
 		- ### Highlights
 		  collapsed:: true
 			- >  [⤴️](https://omnivore.app/me/after-six-years-in-china-our-bureau-chief-says-farewell-1919c2913ae#85bed7b3-f7af-4e43-b521-85798c2aab46)
 	- [What Every Programmer Should Know About Memory](https://omnivore.app/me/cpumemory-18cf2b84eb6)
 	  collapsed:: true
+	  site:: [akkadia.org](https://www.akkadia.org/drepper/cpumemory.pdf)
 	  author:: Ulrich Drepper Red Hat, Inc. drepper@redhat.com
 	  date-saved:: [[2024-01-10]]
 		- ### Highlights
@@ -35,8 +66,10 @@
 			- > As CPU cores become both faster and more numerous, the limiting factor for most programs is now, and will be for some time, memory access. Hardware designers have come up with ever more sophisticated memory handling and acceleration techniques–such as CPU caches–but these cannot work optimally without some help from the programmer. Unfortunately, neither the structure nor the cost of using the memory subsystem of a computer or the caches on CPUs is well understood by most programmers. This paper explains the structure of memory subsys- tems in use on modern commodity hardware, illustrating why CPU caches were developed, how they work, and what programs should do to achieve optimal performance by utilizing them. [⤴️](https://omnivore.app/me/cpumemory-18cf2b84eb6#a9a8f670-5716-4f08-8430-c6e9c4c77b24)
 	- [【Rust 研学】 | Iceoryx2 : 汽车领域关键中间件迈向 Rust](https://omnivore.app/me/rust-iceoryx-2-rust-18d5452c1d5)
 	  collapsed:: true
+	  site:: [Weixin Official Accounts Platform](https://mp.weixin.qq.com/s/OHTZU4MhkzYvQQNwwYMBkQ)
 	  author:: 张汉东
 	  date-saved:: [[2024-01-29]]
+	  date-published:: [[2024-01-19]]
 		- ### Highlights
 		  collapsed:: true
 			- > 大多数先进的驾驶辅助系统（ADAS）实现了诸如车道保持辅助或自动紧急制动等功能，这些系统基于微控制器 ECU。在这样的 ECU 上，数十个或数百个组件以不同的频率运行子任务。通常，这些组件嵌入在 **AUTOSAR 经典运行时环境**（RTE）中，这是一个行业标准，旨在促进供应商和原始设备制造商之间的互操作性。 [⤴️](https://omnivore.app/me/rust-iceoryx-2-rust-18d5452c1d5#12eb24fc-34f5-41e9-ba53-605390bbc41c)
@@ -56,7 +89,10 @@
 			- > 目前行业普遍采用的智能驾驶操作系统包括 QNX Neutrino、RT Linux，以及其他 RTOS（如 FreeRTOS、VxWorks 等），基于第三代微内核技术的开源微内核 seL4 也愈发受到国内车企和科技企业的关注，理想、蔚来、莲花汽车、地平线、小米等科技企业相继加入了 seL4 基金会，共同推动 seL4 微内核的发展。 [⤴️](https://omnivore.app/me/rust-iceoryx-2-rust-18d5452c1d5#93fa5060-9305-4507-895b-2f50f667d5aa)
 	- [重新思考浏览器输入了 URL 并按下回车之后到底发生了什么——本地 DNS 部分](https://omnivore.app/me/url-dns-18d12e762a7)
 	  collapsed:: true
+	  site:: [nova.moe](https://nova.moe/rethink-type-url-dns/)
+	  author:: unknown
 	  date-saved:: [[2024-01-16]]
+	  date-published:: [[2024-01-08]]
 		- ### Highlights
 		  collapsed:: true
 			- > 我们先来说说第一个问题——现代的浏览器本身会不会缓存 DNS 记录？
@@ -84,7 +120,10 @@
 			  > 在 Windows 系统上，这个 nssswitch 的功能被一个称为 Name Resolution Policy Table 的东西替代，可以参考文档 [The NRPT | Microsoft Learn](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn593632%28v=ws.11%29) [⤴️](https://omnivore.app/me/url-dns-18d12e762a7#8107bdfa-1ad5-4e29-880c-dad245637fa0)
 	- [史上最全 SSH 暗黑技巧详解 | plantegg](https://omnivore.app/me/ssh-plantegg-18d180982a8)
 	  collapsed:: true
+	  site:: [plantegg](https://plantegg.github.io/2019/06/02/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8_SSH_%E6%9A%97%E9%BB%91%E6%8A%80%E5%B7%A7%E8%AF%A6%E8%A7%A3--%E6%94%B6%E8%97%8F%E4%BF%9D%E5%B9%B3%E5%AE%89/)
+	  author:: unknown
 	  date-saved:: [[2024-01-17]]
+	  date-published:: [[2019-06-02]]
 		- ### Highlights
 		  collapsed:: true
 			- > ### github 上你的公钥
@@ -92,6 +131,8 @@
 			  github可以取到你的公钥，如果别人让你查看他的服务器，直接给 [https://github.com/plantegg.keys这个链接，让他把下载的key](https://github.com/plantegg.keys%E8%BF%99%E4%B8%AA%E9%93%BE%E6%8E%A5%EF%BC%8C%E8%AE%A9%E4%BB%96%E6%8A%8A%E4%B8%8B%E8%BD%BD%E7%9A%84key) 加到 \~/.ssh/authorized\_keys 里面就行了 [⤴️](https://omnivore.app/me/ssh-plantegg-18d180982a8#0d53ed7a-8377-4efc-9210-a4e08c0d4c6a)
 	- [Linear Method 中文版 | 产品研发的原则和最佳实践](https://omnivore.app/me/linear-method-18ce7e40a53)
 	  collapsed:: true
+	  site:: [Linear Method 中文版](https://linear-method.cn/manage-design-projects.html)
+	  author:: unknown
 	  date-saved:: [[2024-01-08]]
 		- ### Highlights
 		  collapsed:: true
@@ -108,7 +149,9 @@
 			  > 
 			  要回答「sbin 是否還有意義」這個問題，有一個更底層的問題必須先被回答：「權限」事實上/應該作用於誰？思考下面的例子：當我們運行 fdisk 的時候，是我們沒有「運行命令」的權限，還是命令所要訪問的 device node 我們無權訪問？當我們編輯系統配置的時候，是沒有執行編輯器的權限，還是編輯器沒有向某個文件寫入的權限？我想答案很明晰：「命令本身」並沒有/不受所謂的權限限制，本質在於其需要訪問的資源。 [⤴️](https://omnivore.app/me/linux-sbin-bin-merge-yh-ndnzj-s-blog-18b5f36b45a#66d4adbc-7328-46e0-ae84-922e7acf6c1c)
 	- [2019-05-16 前端性能优化（一）性能评估 ~ ThaddeusJiang](https://omnivore.app/me/2019-05-16-thaddeus-jiang-18c664ee572)
+	  collapsed:: true
 	  site:: [thaddeusjiang.com](https://thaddeusjiang.com/2019-05-16-qian-duan-xing-nen-you-hua-yi-xing-nen-ping-gu)
+	  author:: unknown
 	  date-saved:: [[2023-12-14]]
 	  date-published:: [[2019-05-16]]
 		- ### Highlights
@@ -145,7 +188,9 @@
 	  author:: Ilya Kapovich
 	  date-saved:: [[2023-09-27]]
 	- [macOS Containers Initiative](https://omnivore.app/me/mac-os-containers-initiative-18ad44e0b60)
+	  collapsed:: true
 	  site:: [macoscontainers.org](https://macoscontainers.org)
+	  author:: unknown
 	  date-saved:: [[2023-09-27]]
 		- ### Highlights
 			- > We’re announcing initial 0.0.1 release of macOS native containers. Yes, you can now **run macOS inside macOS**, build images using Docker and distribute them using registries. [⤴️](https://omnivore.app/me/mac-os-containers-initiative-18ad44e0b60#cfc5ee80-e641-4601-9b7f-4695551182a1)
