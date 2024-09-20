@@ -1,4 +1,24 @@
 ## 🔖 Articles
+	- [有关 TLS/SSL 证书的一切 | 卡瓦邦噶！](https://omnivore.app/me/tls-ssl-19203dd5381)
+	  site:: [kawabangga.com](https://www.kawabangga.com/posts/5330)
+	  author:: unknown
+	  labels:: [[TLS/SSL]]
+	  date-saved:: [[2024-09-18]]
+		- ### Highlights
+			- > Client –trust–> Root CA –trust–> Intermediate CA –NOT trust –> kawabangga.com — NOT trust –> 我 sign 的 super-bank.com [⤴️](https://omnivore.app/me/tls-ssl-19203dd5381#80dc5aea-4fbc-4b24-8414-e3f694c26008)
+			- > * 一个证书只能有一个 issuer，因为 issuer 是证书的固定字段，不是一个 List；
+			  * 签名的本质，只是 append 一个 private key 加密的 hash 值；
+			  * 中级证书不被客户端直接信任，客户端信任的只有 Root CA； [⤴️](https://omnivore.app/me/tls-ssl-19203dd5381#62363d86-0c7a-41fe-bf0b-922d0a4626aa)
+			- > 现在有两种主流的方式，一种是 [CRL](https://en.wikipedia.org/wiki/Certificate%5Frevocation%5Flist)，一种是 [OCSP](https://en.wikipedia.org/wiki/Online%5FCertificate%5FStatus%5FProtocol)。
+			  > 
+			  原理上，就是 CA 证书自身带有这个信息，告诉客户端在校验证书的时候，应该去访问这个 URL 列表，查看自己要验证的证书是否在吊销列表中，如果在，就不要信任。 [⤴️](https://omnivore.app/me/tls-ssl-19203dd5381#a2cf3364-8f41-46dd-8886-88bbe41bb9e6)
+			- > [OCSP Stapling](https://en.wikipedia.org/wiki/OCSP%5Fstapling) 可以解决以上问题。它的核心原理是：
+			  > 
+			  1. 网站定期去访问 CA 的 OCSP 服务，确认自己的证书是没有被吊销的，拿到 OCSP Response；
+			  2. 客户端访问网站的时候，网站连同证书一起出示 OCSP Response，证明自己的证书是没有被吊销的； [⤴️](https://omnivore.app/me/tls-ssl-19203dd5381#c6cf6ab0-a800-4586-8228-23b72ed06cd5)
+			- > * CA 在签发证书的时候，必须将签发的证书放到 CT 数据库中，CT 会给证书加 SCT；CA 将签名的证书发回给网站，这个证书是带有 SCT 的；
+			  * 客户端访问网站时候，只有证书带有 SCT 才会信任；这样，就保证了所有客户端信任的证书，都在 SC 数据库里面有记录；
+			  * 网站可以监控 SC 数据库，关注是否有 CA 签发了自己不知情的证书； [⤴️](https://omnivore.app/me/tls-ssl-19203dd5381#8cfaa8fa-bd39-47d3-8f24-d08a1859682c)
 	- [TCP 延迟分析 | 卡瓦邦噶！](https://omnivore.app/me/tcp-191db3bf433)
 	  collapsed:: true
 	  site:: [kawabangga.com](https://www.kawabangga.com/posts/6378)
@@ -159,7 +179,6 @@
 			  > 
 			  ##  [⤴️](https://omnivore.app/me/2019-05-16-thaddeus-jiang-18c664ee572#63bc5aee-88c5-46e6-8fef-06d53999651d)
 	- [2023年诺贝尔经济学奖得主：什么让女性难以兼顾事业和家庭？-虎嗅网](https://omnivore.app/me/2023-18b186f267b)
-	  collapsed:: true
 	  site:: [huxiu.com](https://www.huxiu.com/article/2155987.html?f=rss)
 	  author:: 中信出版
 	  labels:: [[RSS]]
