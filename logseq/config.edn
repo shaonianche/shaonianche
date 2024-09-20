@@ -81,7 +81,7 @@
  :markdown/version 2
  :ref/default-open-blocks-level 4
  :ref/linked-references-collapsed-threshold 50
- :favorites ["blog" "weekly" "articles" "contents" "omnivore" "readwise" "bookmarks"]
+ :favorites ["Cat" "blog" "weekly" "articles" "contents" "omnivore" "readwise" "bookmarks"]
  :publishing/all-pages-public? true
  :editor/logical-outdenting? true
  :feature/enable-timetracking? true
