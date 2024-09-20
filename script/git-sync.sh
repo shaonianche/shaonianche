@@ -2,13 +2,14 @@
 
 set -e
 
-PROJECT_ENV="$HOME/workspace/github/shaonianche/"
+git_root=$(git rev-parse --show-toplevel 2> /dev/null)
 
-cd "$PROJECT_ENV"
-
-MESSAGE="changes on $(date)"
-git add .
-git commit -m "${MESSAGE}"
-
-git pull --rebase
-git push origin main
+if [[ $? -eq 0 ]]; then
+    cd "$git_root"
+    git add .
+    git commit -m "changes on $(date)"
+    git pull
+    git push
+else
+    echo "error: not found .git"
+fi
