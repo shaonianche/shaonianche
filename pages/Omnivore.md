@@ -1,4 +1,15 @@
 - #OmnivoreArticles
+	- [计算机领域的三个重要思想：抽象，分层和高阶 - Ray Eldath's Blog](https://omnivore.app/me/ray-eldath-s-blog-1922e5dfdd9)
+	  collapsed:: true
+	  site:: [Ray Eldath's Blog](https://ray-eldath.me/programming/three-important-ideas/?s=09)
+	  author:: Ray Eldath
+	  date-saved:: [[2024-09-26]]
+	  date-published:: [[2021-03-06]]
+		- ### Highlights
+		  collapsed:: true
+			- > 要从软件开发的所有指导性思想（或者说是哲学）中找到最容易想到、最广为人知的那一个，那必定是本节的主题：**抽象**。
+			  > 
+			  这是一种重要的心智活动，它从具体的、实际的概念和经验中提炼出较不具体的、更加泛化的部分。在软件生产实践中我们无时无刻不在使用这一工具：我们从具体的_类_中提炼出_接口_；从实在的_数据_中提炼出_数据结构、泛型和多态_；从生动的_现实场景_中提炼出_实体_并为之命名（有时候相比_提炼出抽象_而言命名还要更加困难）。某种程度上，本文中提到的其它两点思想_分层_和_高阶_同样是抽象的一种形式，但是我个人认为将它们单独拎出来会有一些特别的指导性意义和方法论层面上的价值——关于这点在本文的其它部分中会再作说明。 [🔗](https://omnivore.app/me/ray-eldath-s-blog-1922e5dfdd9#47af01d7-2df1-43d6-b651-63619d4601b5)
 	- [What Every Programmer Should Know About Memory](https://omnivore.app/me/cpumemory-18cf2b84eb6)
 	  site:: [akkadia.org](https://www.akkadia.org/drepper/cpumemory.pdf)
 	  author:: Ulrich Drepper Red Hat, Inc. drepper@redhat.com
