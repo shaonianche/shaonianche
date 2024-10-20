@@ -1,4 +1,58 @@
 - #OmnivoreArticles
+	- [《经济学人》写作法摘记 | Chad Cheng](https://omnivore.app/me/chad-cheng-192a326af52)
+	  collapsed:: true
+	  site:: [Chad](https://www.zhengchao.dev/post/writing/effective-writting-skills)
+	  author:: Zheng Chao
+	  date-saved:: [[2024-10-19]]
+	  date-published:: [[2019-04-10]]
+		- ### Highlights
+		  collapsed:: true
+			- > 清晰的写作来自于清晰的思想。所以想清楚你要说什么，然后尽可能简单地说出来。
+			  > 
+			  1. 绝不要使用在印刷物里经常看到的隐喻、明喻和其他修辞手法。
+			  2. 如果一个字能说清，不要用两个字，
+			  3. 但凡一个字能删掉，一定要删掉。
+			  4. 只要能用主动语态，绝不要用被动语态。
+			  5. 能用常用词的时候，不要用外来词、科学术语和行话。 [🔗](https://omnivore.app/me/chad-cheng-192a326af52#4e177dda-172b-48a3-93bc-9c226742f078)
+	- [云风的 BLOG: 我对电子游戏的分类](https://omnivore.app/me/blog-1927a8e3312)
+	  collapsed:: true
+	  site:: [blog.codingnow.com](https://blog.codingnow.com/2024/10/classification_of_games.html)
+	  author:: unknown
+	  date-saved:: [[2024-10-11]]
+		- ### Highlights
+		  collapsed:: true
+			- > “首先，设计师创建了一些游戏机制。然后，他们把这些游戏机制用一些具有代表性的虚构元素包装起来。在游戏过程中，这些机制之间会产生一系列事件。这些事件会触动玩家潜意识中的触发器，从而激发出情感。最后，这些情感交织到一起，变成了一种综合的体验。” —— Tynan Sylvester 《Designing Games: A Guide to Enginerring Experiences》 [🔗](https://omnivore.app/me/blog-1927a8e3312#ee7d8fb9-5682-4410-ba44-02cd329fb6d2)
+	- [Analysis of the EPYC 145% performance gain in Cloudflare Gen 12 servers](https://omnivore.app/me/analysis-of-the-epyc-145-performance-gain-in-cloudflare-gen-12-s-19295aa7744)
+	  collapsed:: true
+	  site:: [The Cloudflare Blog](https://blog.cloudflare.com/analysis-of-the-epyc-145-performance-gain-in-cloudflare-gen-12-servers/)
+	  author:: JQ LauSyona Sarma
+	  date-saved:: [[2024-10-16]]
+	  date-published:: [[2024-10-15]]
+		- ### Highlights
+		  collapsed:: true
+			- > For more information on 4th generation AMD EPYC Processors architecture, see: https://www.amd.com/system/files/documents/4th-gen-epyc-processor-architecture-white-paper.pdf [🔗](https://omnivore.app/me/analysis-of-the-epyc-145-performance-gain-in-cloudflare-gen-12-s-19295aa7744#0c348b88-17a7-42df-8b3d-3384ad6183b7)
+	- [韩江与翻译的复杂性 - PingKe - Medium](https://omnivore.app/me/ping-ke-medium-1927c42f153)
+	  collapsed:: true
+	  site:: [Medium](https://medium.com/@800bytes/%E9%9F%A9%E6%B1%9F%E4%B8%8E%E7%BF%BB%E8%AF%91%E7%9A%84%E5%A4%8D%E6%9D%82%E6%80%A7-db9cfdc876fa)
+	  author:: PingKe
+	  date-saved:: [[2024-10-11]]
+	  date-published:: [[2024-10-11]]
+		- ### Highlights
+		  collapsed:: true
+			- >  [🔗](https://omnivore.app/me/ping-ke-medium-1927c42f153#96270838-efb4-44af-990e-0e24e6bb8e95)
+	- [仿制药和原研药的问题 - 庄时利和 – Telegraph](https://omnivore.app/me/telegraph-19248f7486f)
+	  collapsed:: true
+	  site:: [Telegraph](https://telegra.ph/%E4%BB%BF%E5%88%B6%E8%8D%AF%E5%92%8C%E5%8E%9F%E7%A0%94%E8%8D%AF%E7%9A%84%E9%97%AE%E9%A2%98---%E5%BA%84%E6%97%B6%E5%88%A9%E5%92%8C-09-03)
+	  author:: unknown
+	  date-saved:: [[2024-10-02]]
+	  date-published:: [[2024-09-04]]
+		- ### Highlights
+		  collapsed:: true
+			- > 所以如果只看生物等效性指标的话，这两种仿制药都是完全合格的，并且它们在临床等效性方面对于血压、心率的控制和原研药类似；但是仿制药在体内的达峰和衰减速度和原研药存在一定差异，而这种细微的差异可能会提高一些心血管事件的风险。
+			  > 
+			  从这个研究可以看出，生物等效性并不能完全等于临床等效性，一些FDA批准的仿制药在许多指标上已经接近原研药，并且价格便宜得多，但是在药代动力学的细节上可能仍然稍有差异。
+			  > 
+			  但现实世界中的困难之处在于，临床等效性研究所需要花费的成本和时间都远高于生物等效性研究，仅上面这一项研究，招募花了3年时间，研究经费170万美元。现在还有一些真实世界研究，对比原研药和仿制药的差异，这些研究的结果也十分重要，但是真实世界研究和随机对照临床试验仍有不同，如何排除真实世界研究中的混杂因素也是一个难点。 [🔗](https://omnivore.app/me/telegraph-19248f7486f#ed2aec39-f209-406e-af38-16769f2e6bcf)
 	- [计算机领域的三个重要思想：抽象，分层和高阶 - Ray Eldath's Blog](https://omnivore.app/me/ray-eldath-s-blog-1922e5dfdd9)
 	  collapsed:: true
 	  site:: [Ray Eldath's Blog](https://ray-eldath.me/programming/three-important-ideas/?s=09)
