@@ -1,0 +1,3 @@
+- calamine: An Excel/OpenDocument Spreadsheets file reader/deserializer, in pure Rust
+	- https://github.com/tafia/calamine #excel
+-
