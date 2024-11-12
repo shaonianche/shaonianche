@@ -2,3 +2,5 @@
 	- https://github.com/tafia/calamine #excel
 - rust reqwest ssl
 	- https://docs.rs/reqwest/latest/reqwest/tls/index.html
+- tauri app 在 only windows 下被标记为 GUI 运行时不显示 println 输出
+	- https://github.com/tauri-apps/tauri/issues/8305#issuecomment-1826871949
