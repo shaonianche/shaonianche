@@ -1,0 +1,6 @@
+- Question
+	- 1. Two Sum (Easy)
+- Source
+	- https://hackmd.io/@bangyewu/ryLbEED23/%2FPI02TwDdR9eu7bQGhzcVJg [[Python]] [[Algorithms]]
+	- https://jmj.cmgsh.tp.edu.tw/files/AP325_v1.3.pdf
+	- https://drive.google.com/drive/folders/10hZCMHH0YgsfguVZCHU7EYiG8qJE5f-m?fbclid=IwY2xjawIyS1dleHRuA2FlbQIxMAABHbCRjdaTguN5hKk7lZDjXzpB0-nbIpIgLw5RMEgmHXJ9NsNRxBa-WgQj4w_aem_EDbVpfu8oI60jWFLDZhfLQ
