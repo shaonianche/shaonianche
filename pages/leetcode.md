@@ -1,6 +1,11 @@
 - Question
 	- 1. Two Sum (Easy)
+		- [Python-LeetCode 581 第一招 搜尋：有序、無序與爬行](https://hackmd.io/@bangyewu/ryLbEED23/%2F20tTI9cCQKO-95JSlaol_g)
+		- 一般來說，搜尋有線性搜尋，二分搜，字典搜尋三種，各有不同的運用場合，線性搜尋的效率差，只有不得已而為之，二分搜是用在有序的場合，字典搜尋是用在無序的場合但必須是搜尋無誤差的值。
+	- [3191. Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/)
+		- [3191. 使二进制数组全部等于 1 的最少操作次数 I](https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/)
 - Source
 	- https://hackmd.io/@bangyewu/ryLbEED23/%2FPI02TwDdR9eu7bQGhzcVJg [[Python]] [[Algorithms]]
 	- https://jmj.cmgsh.tp.edu.tw/files/AP325_v1.3.pdf
 	- https://drive.google.com/drive/folders/10hZCMHH0YgsfguVZCHU7EYiG8qJE5f-m?fbclid=IwY2xjawIyS1dleHRuA2FlbQIxMAABHbCRjdaTguN5hKk7lZDjXzpB0-nbIpIgLw5RMEgmHXJ9NsNRxBa-WgQj4w_aem_EDbVpfu8oI60jWFLDZhfLQ
+	- https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md
