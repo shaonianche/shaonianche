@@ -2,7 +2,7 @@ title:: Big Data Is Dead
 author:: [[Jordan Tigani]]
 full-title:: "Big Data Is Dead"
 type:: [[Readwise]]
-category:: #articles
+category:: [[articles]]
 url:: https://motherduck.com/blog/big-data-is-dead/
 
 - [[Readwise]] [[2023-02-09]]

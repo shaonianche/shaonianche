@@ -1,7 +1,6 @@
----
-title: Github start
----
-
+- ---
+  title: Github start
+  ---
 - [[Tools]]
 	- [logseq: 笔记管理软件](https://github.com/logseq/logseq.git)
 	- [Awesome Mac: Mac 工具](https://github.com/SuJunming/mac-awesomeTools)
@@ -12,7 +11,6 @@ title: Github start
 	- [Understand](https://www.scitools.com/category/release/)
 		- 源码阅读工具 #Notes
 	- [system-design](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%BB%E9%A2%98%E7%9A%84%E7%B4%A2%E5%BC%95)
-	  id:: 627099fc-763a-4e21-857a-bcc379efbced
 		- 关于系统设计 #Notes
 	- [metabase](https://github.com/metabase/metabase) [[数据分析]]
 		- 开源商业分析软件 #Notes

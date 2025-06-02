@@ -2,7 +2,7 @@ title:: 读《Pro Git》
 author:: [[manateelazycat.github.io]]
 full-title:: "读《Pro Git》"
 type:: [[Readwise]]
-category:: #articles
+category:: [[articles]]
 url:: https://manateelazycat.github.io/reading/git/2022/12/16/reading-pro-git.html
 
 - [[Readwise]] [[2023-02-07]]

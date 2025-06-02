@@ -2,7 +2,7 @@ title:: System Design Interview: A Step-by-Step Guide
 author:: [[ByteByteGo]]
 full-title:: "System Design Interview: A Step-by-Step Guide"
 type:: [[Readwise]]
-category:: #articles
+category:: [[articles]]
 url:: https://www.youtube.com/watch?v=i7twT3x5yv8&ab_channel=ByteByteGo
 
 - [[Readwise]] [[2023-02-10]]

@@ -2,9 +2,9 @@ title:: Why We're Bootstrapping Readwise
 author:: [[Daniel Doyon and Tristan Homsi]]
 full-title:: "Why We're Bootstrapping Readwise"
 type:: [[Readwise]]
-category:: #articles
+category:: [[articles]]
 url:: https://blog.readwise.io/why-were-bootstrapping-readwise/
-document_note:: 这篇文章描述了 Readwise 的商业模式以及一部分他们对目标用户的分析
+document-note:: 这篇文章描述了 Readwise 的商业模式以及一部分他们对目标用户的分析
 
 -
 - [[Readwise]] [[2023-02-09]]

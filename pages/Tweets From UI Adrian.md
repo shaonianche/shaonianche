@@ -2,7 +2,7 @@ title:: Tweets From UI Adrian
 author:: [[@uiuxadrian on Twitter]]
 full-title:: "Tweets From UI Adrian"
 type:: [[Readwise]]
-category:: #tweets
+category:: [[tweets]]
 url:: https://twitter.com/uiuxadrian
 
 - [[Readwise]] [[2023-02-08]]

@@ -2,7 +2,7 @@ title:: 如何高效地协作开发：一些 Google 的实践
 author:: [[1byte.io]]
 full-title:: "如何高效地协作开发：一些 Google 的实践"
 type:: [[Readwise]]
-category:: #articles
+category:: [[articles]]
 url:: https://1byte.io/google-large-scale-dev/
 
 - [[Readwise]][[2023-03-24]]

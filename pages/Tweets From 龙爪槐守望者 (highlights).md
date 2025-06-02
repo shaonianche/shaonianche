@@ -1,7 +1,7 @@
 title:: Tweets From 龙爪槐守望者 (highlights)
 author:: [[@ftium4 on Twitter]]
 full-title:: "Tweets From 龙爪槐守望者"
-category:: #tweets
+category:: [[tweets]]
 url:: https://twitter.com/ftium4
 
 - Highlights first synced by [[Readwise]] [[2023-02-07]]

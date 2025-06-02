@@ -2,7 +2,7 @@ title:: Tty 到底是什么？
 author:: [[laixintao]]
 full-title:: "Tty 到底是什么？"
 type:: [[Readwise]]
-category:: #articles
+category:: [[articles]]
 url:: https://www.kawabangga.com/posts/4515
 
 - [[Readwise]][[2023-03-27]]

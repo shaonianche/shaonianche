@@ -1,7 +1,6 @@
----
-title: Articles
----
-
+- ---
+  title: Articles
+  ---
 - [Rethinking Zoom's UX design 反思 Zoom 的用户体验设计](https://blog.usepastel.com/post/zoom-ux-redesign)  #用户体验 #Zoom
 - [框架](https://pt.plus/the-framework/) #思考与写作
 - [CD Project 游戏纪录片](https://www.youtube.com/watch?v=uNZkTk5gLuo)
@@ -19,7 +18,6 @@ title: Articles
 - [约定式提交](https://www.conventionalcommits.org/zh-hans/v1.0.0-beta.4/)
 	- 描述了版本发布的规范 #版本发布
 - [基础概率论](https://seeing-theory.brown.edu/cn.html#firstPage) [[Books]]
-  id:: 63fd8028-b041-4b59-961a-61230fe6300e
 	- #未读
 - [数据可视化指南](https://www.ui.cn/detail/477349.html)
 	- 介绍了基础统计 #未读

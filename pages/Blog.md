@@ -1,7 +1,5 @@
-id:: 62b3d74d-c8ea-400f-991d-f9eaa7d062aa
-> Don't worry, I'm working on it.
-Before: https://shaonianche.github.io/
-
+- > Don't worry, I'm working on it.
+  Before: https://shaonianche.github.io/
 - [[2023]]
 	- [[故乡、小武、贾樟柯]]
 - [[2022]]

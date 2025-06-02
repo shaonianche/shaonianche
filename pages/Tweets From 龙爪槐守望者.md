@@ -2,7 +2,7 @@ title:: Tweets From 龙爪槐守望者
 author:: [[@ftium4 on Twitter]]
 full-title:: "Tweets From 龙爪槐守望者"
 type:: [[Readwise]]
-category:: #tweets
+category:: [[tweets]]
 url:: https://twitter.com/ftium4
 
 - [[Readwise]] [[2023-02-07]]

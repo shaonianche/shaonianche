@@ -2,7 +2,7 @@ title:: Time for @Figma Friday T...
 author:: [[@thalion_pb on Twitter]]
 full-title:: "Time for @Figma Friday T..."
 type:: [[Readwise]]
-category:: #tweets
+category:: [[tweets]]
 url:: https://twitter.com/thalion_pb/status/1603771570736046080
 
 - [[Readwise]] [[2023-02-07]]

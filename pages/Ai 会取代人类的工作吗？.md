@@ -2,7 +2,7 @@ title:: Ai 会取代人类的工作吗？
 author:: [[Wannz]]
 full-title:: "Ai 会取代人类的工作吗？"
 type:: [[Readwise]]
-category:: #articles
+category:: [[articles]]
 url:: https://hiwannz.com/archives/767
 
 - [[Readwise]][[2023-03-28]]

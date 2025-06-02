@@ -1,82 +1,54 @@
----
-title: Reading Other
----
-
+- ---
+  title: Reading Other
+  ---
 - Product Manager
-	 - TODO [[俞军产品方法论]]
-
+	- TODO [[俞军产品方法论]]
 - Bill Gates
-	 - TODO 拥抱可能
-
-	 - TODO 好的经济学
-
-	 - TODO 云图
-
-	 - TODO 大流感
-
-	 - TODO 一生的旅程
-
+	- TODO 拥抱可能
+	- TODO 好的经济学
+	- TODO 云图
+	- TODO 大流感
+	- TODO 一生的旅程
 - Linus Torvalds
-	 - TODO Just for fun（只是为了好玩）
-
+	- TODO Just for fun（只是为了好玩）
 - 推荐资源
-	 - https://www.gatesnotes.com/Books
-
-	 - https://fs.blog/2014/06/charlie-munger-recommended-books/
-
-	 - TODO 社会心理学
-		 - https://book.douban.com/subject/1476651/
-
-	 - TODO 第一本经济学
-		 - https://book.douban.com/subject/30176774/
-
-	 - TODO 学会提问
-		 - https://book.douban.com/subject/20428922/
-
-	 - TODO 认知心理学及其启示
-		 - https://book.douban.com/subject/7067149/
-
-	 - TODO 思考快与慢
-		 - https://book.douban.com/subject/10785583/
-
-	 - TODO 超越智商
-		 - https://book.douban.com/subject/26605978/
-
-	 - TODO 思维与决策
-		 - https://book.douban.com/subject/3542657/
-
-	 - TODO 微观经济学
-		 - https://book.douban.com/subject/3719533/
-
-	 - TODO “错误” 的行为
-		 - https://book.douban.com/subject/26697774/
-
-	 - TODO 新制度经济学：一个交易费用分析范式
-		 - https://book.douban.com/subject/1508435/
-
-	 - TODO 现代制度经济学
-		 - https://book.douban.com/subject/3908009/
-
-	 - TODO 薛兆丰经济学讲义
-		 - https://book.douban.com/subject/30280804/
-
-	 - TODO 博弈与社会
-		 - https://book.douban.com/subject/21329758/
-
-	 - TODO 自私的基因
-		 - https://book.douban.com/subject/11445548/
-
-	 - TODO 消费者行为学
-		 - https://book.douban.com/subject/2015536/
-
-	 - TODO 组织行为学
-		 - https://book.douban.com/subject/27065675/
-
-	 - TODO 沟通的艺术：看入人里，看出人外
-		 - https://book.douban.com/subject/27117578/
-
-	 - TODO 进化心理学
-		 - https://book.douban.com/subject/26683297/
-
-	 - TODO 发展心理学：儿童与青少年
-		 - https://book.douban.com/subject/26838522/
+	- https://www.gatesnotes.com/Books
+	- https://fs.blog/2014/06/charlie-munger-recommended-books/
+	- TODO 社会心理学
+		- https://book.douban.com/subject/1476651/
+	- TODO 第一本经济学
+		- https://book.douban.com/subject/30176774/
+	- TODO 学会提问
+		- https://book.douban.com/subject/20428922/
+	- TODO 认知心理学及其启示
+		- https://book.douban.com/subject/7067149/
+	- TODO 思考快与慢
+		- https://book.douban.com/subject/10785583/
+	- TODO 超越智商
+		- https://book.douban.com/subject/26605978/
+	- TODO 思维与决策
+		- https://book.douban.com/subject/3542657/
+	- TODO 微观经济学
+		- https://book.douban.com/subject/3719533/
+	- TODO “错误” 的行为
+		- https://book.douban.com/subject/26697774/
+	- TODO 新制度经济学：一个交易费用分析范式
+		- https://book.douban.com/subject/1508435/
+	- TODO 现代制度经济学
+		- https://book.douban.com/subject/3908009/
+	- TODO 薛兆丰经济学讲义
+		- https://book.douban.com/subject/30280804/
+	- TODO 博弈与社会
+		- https://book.douban.com/subject/21329758/
+	- TODO 自私的基因
+		- https://book.douban.com/subject/11445548/
+	- TODO 消费者行为学
+		- https://book.douban.com/subject/2015536/
+	- TODO 组织行为学
+		- https://book.douban.com/subject/27065675/
+	- TODO 沟通的艺术：看入人里，看出人外
+		- https://book.douban.com/subject/27117578/
+	- TODO 进化心理学
+		- https://book.douban.com/subject/26683297/
+	- TODO 发展心理学：儿童与青少年
+		- https://book.douban.com/subject/26838522/
