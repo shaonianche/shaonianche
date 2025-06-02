@@ -421,4 +421,5 @@
  :file/name-format :triple-lowbar
  :ui/show-brackets? true
  :feature/enable-whiteboards? false
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? false
+ :publishing/all-pages-public? true}

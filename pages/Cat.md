@@ -1,2 +1,2 @@
 - ☕咖啡
-	- ![](https://blog.duanfei.org/assets/image_1726819268369_0.png)
+	- ![image_1726819268369_0.png](../assets/image_1726819268369_0_1748845258244_0.png)
