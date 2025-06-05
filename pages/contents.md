@@ -19,10 +19,11 @@
 		- [Telegram](https://t.me/Alone_cmj)
 		- [Twitter](https://twitter.com/Bonjour_Ar)
 		- Email(hi@duanfei.org)
-	- running activity
-		- https://run.duanfei.org/
 	- github activity
 		- https://gitstalk.netlify.app/shaonianche
+- ## running activity
+	- https://run.duanfei.org/
+	- <iframe height='454' width='200' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/67102018/latest-rides/09dd550eee34177099b3a8776252ce6abb8ba698'></iframe>
 - ## Life Timeline
   heading:: 2
 	- 2024-NOW, 山西
