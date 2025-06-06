@@ -20,13 +20,14 @@ jobs:
           persist-credentials: true
     
       - name: Copy My Clippings.txt to kindle.txt
-        run: cp kindle/"My Clippings.txt" kindle/kindle.txt
+        run: cp kindle/"My Clippings.txt" kindle/kindle.txt || echo "Source file not found"
+          ls -la kindle/
 
       - name: huacnlee.autocorrect
         uses: huacnlee/autocorrect-action@v2.5.4
         with:
-          path: kindle/kindle.txt
-
+          args: --fix kindle/kindle.txt
+    
       - name: Commit changes
         run: |
           git config --local user.name 'github-actions[bot]'
