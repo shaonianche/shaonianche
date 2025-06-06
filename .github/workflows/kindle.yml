@@ -1,0 +1,36 @@
+name: Kindle Files Format
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'kindle/My Clippings.txt'
+       
+jobs:
+  format:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+    
+      - name: Copy My Clippings.txt to kindle.txt
+        run: cp kindle/"My Clippings.txt" kindle/kindle.txt
+
+      - name: huacnlee.autocorrect
+        uses: huacnlee/autocorrect-action@v2.5.4
+        with:
+          args: --fix 'kindle/kindle.txt'
+    
+      - name: Commit changes
+        run: |
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          git add kindle/kindle.txt
+          git commit -m "Auto-format kindle.txt" || echo "No changes to commit"
+          git push
