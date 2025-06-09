@@ -11,7 +11,7 @@ url:: https://twitter.com/thalion_pb/status/1603771570736046080
 	  
 	  #uidesign #figmatip https://t.co/1E5HPoVmLp ([View Tweet](https://twitter.com/thalion_pb/status/1603771570736046080))
 	- The hover interaction was inspired by incredible card design done by @jamesm and implemented by @bradlc 
-	  I didn’t want to copy exact same visual, so I made something more frosty (you know it’s winter time ❄️). 
+	  I didn't want to copy exact same visual, so I made something more frosty (you know it's winter time ❄️). 
 	  
 	  ![](https://pbs.twimg.com/media/FkG7cSuXgAEnSva.jpg) ([View Tweet](https://twitter.com/thalion_pb/status/1603771577006432266))
 	- Just like with my hover button tutorial (published while ago - check out my profile), you will need only 2 components. 

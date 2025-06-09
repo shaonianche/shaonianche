@@ -15,6 +15,6 @@
 	- User flows are the easiest way for readers to understand the project because it shows how the customer will ultimately experience it.
 	- Key features is a quick way for other functions like marketing or product education to understand how we might talk about the initiative with our customers.
 - Launch Readiness
-	- 发布准备：功能是否需要文案、测试数据集、操作文档、FAQ等说明
+	- 发布准备：功能是否需要文案、测试数据集、操作文档、FAQ 等说明
 	- In this last section, we create a checklist of considerations you want all teams to make before actually launching a feature. Your project may have unintended legal consequences or important marketing implications, and this list is intended to flag the right stakeholders at the right time—and define criteria for launch readiness—so everyone can plan accordingly, well ahead of time.
 	- ![Frame.png](https://codaio.imgix.net/docs/1OS5N8pQpx/blobs/bl---enR2DpjB/0fd9eaab0ccfc11ac09c52cc317cf855f691de4c768e13e82c4740baabe55e82471970c60f6fd99ffecdd66db0cbd1d1e0c46bb4acc0b5ce2a53d32b7727a5dc72e4957e15e7145daaf1baed78750079661f8d528824094424bcb58a25be8552411f8302?auto=format%2Ccompress&fit=max)

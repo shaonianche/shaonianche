@@ -1,5 +1,5 @@
 - ---
-  title: Reading Flag（2020）
+  title: Reading Flag (2020)
   ---
 - DONE [[找回自我的漫长旅途]]
 - DONE [[追寻记忆的痕迹]]

@@ -1,3 +1,3 @@
 - https://www.lovefrom.com/
-	- Mike Matas （设计了初代iPhone、iPod） 为 Ive 的新公司 LoveFrom 设计的 logo 动画
+	- Mike Matas（设计了初代 iPhone、iPod）为 Ive 的新公司 LoveFrom 设计的 logo 动画
 	- 看了看代码是 https://www.lottielab.com/examples 做的
