@@ -23,7 +23,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python scripts/kindle.py 
+      - run: python script/kindle.py
 
       - name: huacnlee.autocorrect
         uses: huacnlee/autocorrect-action@v2.5.4
