@@ -6,7 +6,9 @@ on:
     branches:
       - main
     paths:
+      - journals/*
       - kindle/*
+      - pages/*
       - script/kindle.py
        
 jobs:
@@ -35,5 +37,5 @@ jobs:
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
           git add . 
-          git commit -m "Auto-format kindle.txt" || echo "No changes to commit"
+          git commit -m "Auto-format markdown" || echo "No changes to commit"
           git push
