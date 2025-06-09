@@ -6,7 +6,8 @@ on:
     branches:
       - main
     paths:
-      - scripts/kindle.py
+      - kindle/*
+      - script/kindle.py
        
 jobs:
   format:
