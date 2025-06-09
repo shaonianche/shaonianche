@@ -28,7 +28,7 @@ jobs:
       - name: huacnlee.autocorrect
         uses: huacnlee/autocorrect-action@v2.5.4
         with:
-          args: --fix */*.md
+          args: --fix **/*.md
     
       - name: Commit changes
         run: |
