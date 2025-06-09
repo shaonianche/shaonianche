@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - 'kindle/My Clippings.txt'
+      - scripts/kindle.py
        
 jobs:
   format:
@@ -18,20 +18,21 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: true
-    
-      - name: Copy My Clippings.txt to kindle.txt
-        run: cp kindle/"My Clippings.txt" kindle/kindle.txt || echo "Source file not found"
-          ls -la kindle/
+      - name: Set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/kindle.py 
 
       - name: huacnlee.autocorrect
         uses: huacnlee/autocorrect-action@v2.5.4
         with:
-          args: --fix kindle/kindle.txt
+          args: --fix */*.md
     
       - name: Commit changes
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git add kindle/kindle.txt
+          git add . 
           git commit -m "Auto-format kindle.txt" || echo "No changes to commit"
           git push
