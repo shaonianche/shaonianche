@@ -5,4 +5,4 @@
 - **Learning :** Like Reading, [Douban](https://www.douban.com/people/137566058/), [Goodreads](https://www.goodreads.com/user/show/60863717-fei-duan)
 - **Playing :** [PlayStation](http://psnine.com/psnid/axmiao), [Steam](https://steamcommunity.com/id/duanf/), Nintendo Switch: `SW-1654-9155-6705`
 - **Favourite :** A passion for [running](https://run.duanfei.org/)
-- **About :** [https://bento.me/friendsa](https://bento.me/friendsa)
+- **About :** [https://hello.duanfei.org/](https://hello.duanfei.org/)
